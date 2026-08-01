@@ -1,32 +1,182 @@
 [
   {
-    "id": "1",
-    "title": "Sotheby's продали работу за $840 000",
-    "source": "Sotheby's",
-    "category": "Auction",
-    "date": "1 Aug 2026",
-    "summary": "На вечерних торгах ушла работа современного художника.",
-    "url": null,
-    "imageURL": null
-  },
-  {
-    "id": "2",
-    "title": "12 новых заметных NFT-продаж за сутки",
-    "source": "OpenSea",
-    "category": "NFT",
-    "date": "1 Aug 2026",
-    "summary": "Самые крупные сделки в Ethereum за последние 24 часа.",
-    "url": null,
-    "imageURL": null
-  },
-  {
-    "id": "3",
-    "title": "Открылась новая выставка в Токио",
-    "source": "Art Newspaper",
-    "category": "Exhibition",
+    "id": "ARTnews-1785603817425-0",
+    "title": "6 Books We’re Looking Forward to in August",
+    "source": "ARTnews",
+    "category": "Market",
     "date": "31 Jul 2026",
-    "summary": "Крупная ретроспектива современного азиатского искусства.",
-    "url": null,
+    "summary": "This month’s offerings explore the secret lives of John Singer Sargent, ask existential questions about art, and guide you through the opaque creature that is the art world.",
+    "url": "https://www.artnews.com/list/art-in-america/columns/6-books-sargent-depraved-how-to-enter-art-world-1234794048/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1785603817460-1",
+    "title": "Citing Censorship, Artist Emma Shapiro Launches Legal Challenge to Restore Instagram Account",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "On December 8, 2025, Instagram permanently terminated @nipeople, a project that challenged gender-based discrimination online.",
+    "url": "https://www.artnews.com/art-news/news/emma-shapiro-legal-challenge-restore-instagram-account-1234794131/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1785603817460-2",
+    "title": "Archaeologists Uncover Ancient Egyptian Grave Markers Carved with Human Figures",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "The carved limestone grave markers are not only notable for their workmanship but for the religious symbols and deities engraved on their lateral sides and backs",
+    "url": "https://www.artnews.com/art-news/news/ancient-egyptian-grave-markers-greek-deities-discovered-1234794116/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1785603817460-3",
+    "title": "In New York Court, Dealer Yves Bouvier Seeks Sotheby’s Records as Part of New French Criminal Case",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "The Swiss dealer is hope the Court will help him win an ongoing legal battle in France.",
+    "url": "https://www.artnews.com/art-news/market/yves-bouvier-sothebys-documents-picasso-lawsuit-1234794113/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1785603817460-4",
+    "title": "See the Trailer for the New Thomas Crown Affair Movie, Starring Michael B. Jordan as a Notorious Art Thief",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "Works by Goya, Caravaggio, Henry Ossawa Tanner, and Kerry James Marshall among those spotted—and potentially stolen.",
+    "url": "https://www.artnews.com/art-news/news/thomas-crown-affair-movie-trailer-michael-b-jordan-art-thief-1234794102/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1785603817460-5",
+    "title": "Business School Professors Launch AI Tool to Help Identify Unclaimed Nazi-Era Looted Artworks",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "The tool uses data from the Jeu de Paume's database of \"cultural plunder.\"",
+    "url": "https://www.artnews.com/art-news/news/business-school-professors-ai-tool-nazi-era-looted-artworks-1234794099/",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1785603817527-0",
+    "title": "This New A.I. Chatbot Hunts Nazi-Looted Art",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "1 Aug 2026",
+    "summary": "The nascent A.I. Provenance Assistant is rendering data far easier to read. The post This New A.I. Chatbot Hunts Nazi-Looted Art appeared first on Artnet News.",
+    "url": "https://news.artnet.com/art-world/ai-provenance-assistant-looted-art-tool-2792609",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1785603817527-1",
+    "title": "D.C.’s Equestrian Statues Are the Latest Targets of Trump’s ‘Beautification’",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "Costs ballooned in order to complete work in time for America's 250th birthday, but the second pair of statues is not set to be completed until the end of September. The post D.C.’",
+    "url": "https://news.artnet.com/art-world/arts-of-war-statues-renovation-2792568",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1785603817528-2",
+    "title": "Is Margate’s Booming Art Scene a Victim of Its Own Success?",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "Gallerists and artists who revitalized the seaside town are now grappling with the costs of gentrification. The post Is Margate’s Booming Art Scene a Victim of Its Own Success? app",
+    "url": "https://news.artnet.com/art-world/margate-art-scene-2792465",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1785603817528-3",
+    "title": "Art Basel Could Save $9M in New Miami Beach Rent Deal—and More Industry Intel",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "Plus: Paul Durand-Ruel's Monet heads to auction and Detroit Institute of Arts receives a landmark gift. The post Art Basel Could Save $9M in New Miami Beach Rent Deal—and More Indu",
+    "url": "https://news.artnet.com/market/industry-intel-july-31-2791743",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1785603817528-4",
+    "title": "Lost Elizabeth Murray Painting Resurfaces After 45 Years",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "The 1978 work surfaces as the American abstractionist's shaped-canvas innovations draw renewed interest. The post Lost Elizabeth Murray Painting Resurfaces After 45 Years appeared ",
+    "url": "https://news.artnet.com/art-world/elizabeth-murray-painting-resurfaces-2791775",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1785603817528-5",
+    "title": "The Hole Faces Fresh Non-Payment Claims—and Other Art World Matters",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "31 Jul 2026",
+    "summary": "Also: a Richard Avedon doc heads to Netflix and Half Gallery owner Bill Powers expounds on coolness. The post The Hole Faces Fresh Non-Payment Claims—and Other Art World Matters ap",
+    "url": "https://news.artnet.com/artnet-bulletin/hole-nonpayment-july-31-2791532",
+    "imageURL": null
+  },
+  {
+    "id": "NFT Culture-1785603818077-0",
+    "title": "Azuki TCG: Can a Web3 Anime Brand Win Over the Local Card Shop?",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "7 Jul 2026",
+    "summary": "Azuki has always been more than a profile picture project. At its best, it has been a thesis about what happens when crypto-native communities, anime aesthetics, collectibles, gami",
+    "url": "https://www.nftculture.com/nft-news/azuki-tcg-can-a-web3-anime-brand-win-over-the-local-card-shop/",
+    "imageURL": null
+  },
+  {
+    "id": "NFT Culture-1785603818077-1",
+    "title": "“A Series of Headaches”: Defaced Turns Chronic Pain Into Digital Totems",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "18 May 2026",
+    "summary": "The Artist Behind Some of Web3’s Most Distinctive Visual Language Goes Deeply Personal In an NFT ecosystem often dominated by spectacle, Defaced has delivered something quieter, st",
+    "url": "https://www.nftculture.com/newsletter/a-series-of-headaches-defaced-turns-chronic-pain-into-digital-totems/",
+    "imageURL": null
+  },
+  {
+    "id": "NFT Culture-1785603818077-2",
+    "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "17 Apr 2026",
+    "summary": "The NFT ecosystem has always been a story of radical ownership, creative sovereignty, and the promise that art on-chain lives beyond any single platform. But when platforms themsel",
+    "url": "https://www.nftculture.com/spotlight/when-platforms-fracture-the-foundation-x-blackdove-saga-and-what-it-means-for-on-chain-art/",
+    "imageURL": null
+  },
+  {
+    "id": "NFT Culture-1785603818077-3",
+    "title": "Foundation Winds Down: What It Means for the NFT Ecosystem and Why Decentralization Still Matters",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "16 Apr 2026",
+    "summary": "The NFT space has always been a story of experimentation, resilience, and evolution—and today marks another pivotal chapter. Foundation, one of the early and culturally significant",
+    "url": "https://www.nftculture.com/nft-news/foundation-winds-down-what-it-means-for-the-nft-ecosystem-and-why-decentralization-still-matters/",
+    "imageURL": null
+  },
+  {
+    "id": "NFT Culture-1785603818077-4",
+    "title": "Bidding Farewell to Nifty Gateway: A Bittersweet End to an NFT Pioneer",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "24 Jan 2026",
+    "summary": "The NFT community is bidding a heavy-hearted farewell to Nifty Gateway, one of the pioneering platforms of the digital art revolution. In an official statement, the team announced ",
+    "url": "https://www.nftculture.com/nft-news/bidding-farewell-to-nifty-gateway-a-bittersweet-end-to-an-nft-pioneer/",
+    "imageURL": null
+  },
+  {
+    "id": "NFT Culture-1785603818078-5",
+    "title": "The Unraveling and Rebirth of Digital Ownership: A Post-Mortem on the 2021 NFT Empire and the Rise of Verifiable Utility",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "5 Nov 2025",
+    "summary": "Introduction: The Lexicon of a Digital Empire The 2021-2022 market boom for Non-Fungible Tokens (NFTs) was not an isolated event. It was a “perfect storm,” a confluence of macroeco",
+    "url": "https://www.nftculture.com/nft-news/the-unraveling-and-rebirth-of-digital-ownership-a-post-mortem-on-the-2021-nft-empire-and-the-rise-of-verifiable-utility/",
     "imageURL": null
   }
 ]
