@@ -35,7 +35,7 @@ function cleanText(text = "") {
 
 function formatDate(date) {
   try {
-    return new Date(date || Date.now()).toLocaleDateString("en-GB", {
+    return new Date(date || Date.now()).toLocaleDateString("ru-RU", {
       day: "numeric",
       month: "short",
       year: "numeric"
@@ -45,20 +45,55 @@ function formatDate(date) {
   }
 }
 
+async function translateToRu(text) {
+  if (!text || text.length < 2) return text;
+
+  try {
+    const url =
+      "https://api.mymemory.translated.net/get?q=" +
+      encodeURIComponent(text.slice(0, 400)) +
+      "&langpair=en|ru";
+
+    const res = await fetch(url);
+    const data = await res.json();
+
+    const translated = data?.responseData?.translatedText;
+    if (translated && !translated.includes("MYMEMORY WARNING")) {
+      return translated;
+    }
+    return text;
+  } catch {
+    return text;
+  }
+}
+
 async function fetchSource(source) {
   try {
     console.log(`Fetching: ${source.name}`);
     const feed = await parser.parseURL(source.url);
-    const items = (feed.items || []).slice(0, 6).map((item, index) => ({
-      id: `${source.name}-${Date.now()}-${index}`,
-      title: cleanText(item.title || "Untitled"),
-      source: source.name,
-      category: source.category,
-      date: formatDate(item.pubDate || item.isoDate),
-      summary: cleanText(item.contentSnippet || item.content || "").slice(0, 180),
-      url: item.link || null,
-      imageURL: null
-    }));
+
+    const items = [];
+    for (const [index, item] of (feed.items || []).slice(0, 5).entries()) {
+      const titleEn = cleanText(item.title || "Untitled");
+      const summaryEn = cleanText(item.contentSnippet || item.content || "").slice(0, 160);
+
+      const titleRu = await translateToRu(titleEn);
+      await new Promise((r) => setTimeout(r, 300)); // пауза, чтобы не упереться в лимит
+      const summaryRu = await translateToRu(summaryEn);
+      await new Promise((r) => setTimeout(r, 300));
+
+      items.push({
+        id: `${source.name}-${Date.now()}-${index}`,
+        title: titleRu,
+        source: source.name,
+        category: source.category,
+        date: formatDate(item.pubDate || item.isoDate),
+        summary: summaryRu,
+        url: item.link || null,
+        imageURL: null
+      });
+    }
+
     console.log(`OK: ${source.name} (${items.length})`);
     return items;
   } catch (error) {
@@ -68,7 +103,7 @@ async function fetchSource(source) {
 }
 
 async function main() {
-  console.log("Start fetching news...");
+  console.log("Start fetching + translating news...");
 
   const results = [];
   for (const source of SOURCES) {
@@ -87,9 +122,9 @@ async function main() {
     }
   }
 
-  const finalNews = unique.slice(0, 25);
+  const finalNews = unique.slice(0, 20);
   fs.writeFileSync("news.json", JSON.stringify(finalNews, null, 2), "utf8");
-  console.log(`Saved ${finalNews.length} items`);
+  console.log(`Saved ${finalNews.length} Russian news items`);
 }
 
 main().catch((err) => {
