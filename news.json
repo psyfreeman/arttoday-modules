@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Sotheby's продали работу за $840 000",
+    "source": "Sotheby's",
+    "category": "Auction",
+    "date": "1 Aug 2026",
+    "summary": "На вечерних торгах ушла работа современного художника.",
+    "url": null,
+    "imageURL": null
+  },
+  {
+    "id": "2",
+    "title": "12 новых заметных NFT-продаж за сутки",
+    "source": "OpenSea",
+    "category": "NFT",
+    "date": "1 Aug 2026",
+    "summary": "Самые крупные сделки в Ethereum за последние 24 часа.",
+    "url": null,
+    "imageURL": null
+  },
+  {
+    "id": "3",
+    "title": "Открылась новая выставка в Токио",
+    "source": "Art Newspaper",
+    "category": "Exhibition",
+    "date": "31 Jul 2026",
+    "summary": "Крупная ретроспектива современного азиатского искусства.",
+    "url": null,
+    "imageURL": null
+  }
+]
