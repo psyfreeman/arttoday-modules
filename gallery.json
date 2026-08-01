@@ -6,7 +6,7 @@
     "medium": "Digital",
     "size": "1/1",
     "type": "NFT",
-    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/crypto-brothers-001.jpg",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-001.jpg",
     "description": "Crypto Brothers series.",
     "processVideoURL": null,
     "nftURL": null
@@ -18,7 +18,7 @@
     "medium": "Digital",
     "size": "1/1",
     "type": "NFT",
-    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/crypto-brothers-002.jpeg",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-002.jpeg",
     "description": null,
     "processVideoURL": null,
     "nftURL": null
@@ -30,7 +30,7 @@
     "medium": "Digital",
     "size": "1/1",
     "type": "NFT",
-    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/crypto-brothers-003.jpeg",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-003.jpeg",
     "description": null,
     "processVideoURL": null,
     "nftURL": null
@@ -42,7 +42,7 @@
     "medium": "Digital",
     "size": "1/1",
     "type": "NFT",
-    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/crypto-brothers-004.jpeg",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-004.jpeg",
     "description": null,
     "processVideoURL": null,
     "nftURL": null
@@ -54,7 +54,43 @@
     "medium": "Digital",
     "size": "1/1",
     "type": "NFT",
-    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/crypto-brothers-005.jpeg",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-005.jpeg",
+    "description": null,
+    "processVideoURL": null,
+    "nftURL": null
+  },
+  {
+    "id": "6",
+    "title": "CRYPTO BROTHERS #006",
+    "year": "2024",
+    "medium": "Digital",
+    "size": "1/1",
+    "type": "NFT",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-006.jpeg",
+    "description": null,
+    "processVideoURL": null,
+    "nftURL": null
+  },
+  {
+    "id": "7",
+    "title": "CRYPTO BROTHERS #007",
+    "year": "2024",
+    "medium": "Digital",
+    "size": "1/1",
+    "type": "NFT",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-007.jpeg",
+    "description": null,
+    "processVideoURL": null,
+    "nftURL": null
+  },
+  {
+    "id": "8",
+    "title": "CRYPTO BROTHERS #008",
+    "year": "2024",
+    "medium": "Digital",
+    "size": "1/1",
+    "type": "NFT",
+    "imageURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-008.jpeg",
     "description": null,
     "processVideoURL": null,
     "nftURL": null
