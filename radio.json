@@ -2,7 +2,7 @@
   "title": "Art Today Radio",
   "subtitle": "Live from the studio",
   "genre": "Psychedelic · Ambient · Art",
-  "streamURL": "",
+  "streamURL": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
   "coverURL": "https://cdn.jsdelivr.net/gh/psyfreeman/arttoday-modules@main/images/crypto-brothers-001.jpg",
   "isLive": true
 }
