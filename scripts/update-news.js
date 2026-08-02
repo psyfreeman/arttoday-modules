@@ -75,12 +75,28 @@ async function fetchSource(source) {
     const items = [];
     for (const [index, item] of (feed.items || []).slice(0, 5).entries()) {
       const titleEn = cleanText(item.title || "Untitled");
-      const summaryEn = cleanText(item.contentSnippet || item.content || "").slice(0, 160);
+      const summaryEn = cleanText(item.contentSnippet || item.content || "").slice(0, 220);
 
       const titleRu = await translateToRu(titleEn);
-      await new Promise((r) => setTimeout(r, 300)); // пауза, чтобы не упереться в лимит
+      await new Promise((r) => setTimeout(r, 300));
       const summaryRu = await translateToRu(summaryEn);
       await new Promise((r) => setTimeout(r, 300));
+
+      // Пытаемся достать картинку
+      let imageURL = null;
+      if (item.enclosure?.url && String(item.enclosure.url).startsWith("http")) {
+        imageURL = item.enclosure.url;
+      } else if (item["media:content"]?.$?.url) {
+        imageURL = item["media:content"].$.url;
+      } else if (item["media:thumbnail"]?.$?.url) {
+        imageURL = item["media:thumbnail"].$.url;
+      } else {
+        const html = item["content:encoded"] || item.content || "";
+        const match = String(html).match(/<img[^>]+src=["']([^"']+)["']/i);
+        if (match && match[1].startsWith("http")) {
+          imageURL = match[1];
+        }
+      }
 
       items.push({
         id: `${source.name}-${Date.now()}-${index}`,
@@ -90,7 +106,7 @@ async function fetchSource(source) {
         date: formatDate(item.pubDate || item.isoDate),
         summary: summaryRu,
         url: item.link || null,
-        imageURL: null
+        imageURL: imageURL
       });
     }
 
