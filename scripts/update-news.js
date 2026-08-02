@@ -9,6 +9,7 @@ const parser = new Parser({
 });
 
 const SOURCES = [
+  // ===== Contemporary Art =====
   {
     name: "ARTnews",
     category: "Market",
@@ -20,9 +21,65 @@ const SOURCES = [
     url: "https://news.artnet.com/feed"
   },
   {
+    name: "Hyperallergic",
+    category: "Exhibition",
+    url: "https://hyperallergic.com/feed/"
+  },
+
+  // ===== NFT / Digital Art =====
+  {
     name: "NFT Culture",
     category: "NFT",
     url: "https://www.nftculture.com/feed/"
+  },
+  {
+    name: "NFT Now",
+    category: "NFT",
+    url: "https://nftnow.com/feed/"
+  },
+  {
+    name: "Cointelegraph NFT",
+    category: "NFT",
+    url: "https://cointelegraph.com/rss/tag/nft"
+  },
+
+  // ===== Bitcoin / ETH / Blockchain =====
+  {
+    name: "CoinDesk",
+    category: "Blockchain",
+    url: "https://www.coindesk.com/arc/outboundfeeds/rss/"
+  },
+  {
+    name: "Cointelegraph",
+    category: "Blockchain",
+    url: "https://cointelegraph.com/rss"
+  },
+  {
+    name: "Decrypt",
+    category: "Blockchain",
+    url: "https://decrypt.co/feed"
+  },
+  {
+    name: "Bitcoin Magazine",
+    category: "Bitcoin",
+    url: "https://bitcoinmagazine.com/.rss/full/"
+  },
+  {
+    name: "The Block",
+    category: "Blockchain",
+    url: "https://www.theblock.co/rss.xml"
+  },
+
+  // ===== DAO / Web3 culture =====
+  {
+    name: "Bankless",
+    category: "DAO",
+    url: "https://www.bankless.com/feed"
+  },
+  {
+    name: "Mirror DAO-ish",
+    category: "DAO",
+    url: "https://mirror.xyz/feed/atom"
   }
 ];
 
