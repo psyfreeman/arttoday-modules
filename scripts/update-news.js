@@ -130,7 +130,7 @@ async function fetchSource(source) {
     const feed = await parser.parseURL(source.url);
 
     const items = [];
-    for (const [index, item] of (feed.items || []).slice(0, 5).entries()) {
+    for (const [index, item] of (feed.items || []).slice(0, 6).entries()) {
       const titleEn = cleanText(item.title || "Untitled");
       const summaryEn = cleanText(
   item.contentSnippet || item.content || item["content:encoded"] || ""
@@ -197,7 +197,7 @@ async function main() {
     }
   }
 
-  const finalNews = unique.slice(0, 20);
+  const finalNews = unique.slice(0, 30);
   fs.writeFileSync("news.json", JSON.stringify(finalNews, null, 2), "utf8");
   console.log(`Saved ${finalNews.length} Russian news items`);
 }
