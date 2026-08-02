@@ -1,6 +1,6 @@
 [
   {
-    "id": "ARTnews-1785632425626-0",
+    "id": "ARTnews-1785634006349-0",
     "title": "6 книг, которые мы с нетерпением ждем в августе",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +10,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785632427432-1",
+    "id": "ARTnews-1785634008409-1",
     "title": "Ссылаясь на цензуру, художница Эмма Шапиро подала иск о восстановлении аккаунта Instagram",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +20,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/07/Account-disabling-and-appeal-denial.jpg?w=323"
   },
   {
-    "id": "ARTnews-1785632429108-2",
+    "id": "ARTnews-1785634010194-2",
     "title": "Археологи обнаружили древнеегипетские надгробия с человеческими фигурами",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +30,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785632430735-3",
+    "id": "ARTnews-1785634011787-3",
     "title": "В нью-йоркском суде дилер Ив Бувье ищет записи Sotheby's в рамках нового французского уголовного дела",
     "source": "ARTnews",
     "category": "Market",
@@ -40,7 +40,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785632432315-4",
+    "id": "ARTnews-1785634013492-4",
     "title": "Смотрите трейлер нового фильма о романе Томаса Крауна с Майклом Б. Джорданом в роли известного вора в искусстве",
     "source": "ARTnews",
     "category": "Market",
@@ -50,7 +50,17 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785632433869-0",
+    "id": "ARTnews-1785634015029-5",
+    "title": "Профессора бизнес-школы запускают инструмент искусственного интеллекта для выявления невостребованных украденных произведений искусства нацистской эпохи",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "31 июл. 2026 г.",
+    "summary": "Инструмент использует данные из базы данных Jeu de Paume о «культурном грабеже».",
+    "url": "https://www.artnews.com/art-news/news/business-school-professors-ai-tool-nazi-era-looted-artworks-1234794099/",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1785634016616-0",
     "title": "Этот новый ИИ-ЧАТ-БОТ охотится на украденное нацистами искусство",
     "source": "Artnet News",
     "category": "Market",
@@ -60,7 +70,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785632435513-1",
+    "id": "Artnet News-1785634018271-1",
     "title": "Конные статуи в округе Колумбия являются последними целями «украшения» Трампа",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +80,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785632437199-2",
+    "id": "Artnet News-1785634019906-2",
     "title": "Является ли бурно развивающаяся арт-сцена Маргейт жертвой собственного успеха?",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785632438854-3",
+    "id": "Artnet News-1785634021617-3",
     "title": "Art Basel может сэкономить $ 9 млн в новой сделке по аренде в Майами-Бич - и больше отраслевой информации",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785632440375-4",
+    "id": "Artnet News-1785634023138-4",
     "title": "Потерянная картина Элизабет Мюррей возвращается спустя 45 лет",
     "source": "Artnet News",
     "category": "Market",
@@ -100,7 +110,77 @@
     "imageURL": null
   },
   {
-    "id": "NFT Culture-1785632442413-0",
+    "id": "Artnet News-1785634024770-5",
+    "title": "Дыра сталкивается с новыми неоплаченными претензиями - и другие вопросы мира искусства",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "31 июл. 2026 г.",
+    "summary": "Также: Ричард Аведон направляется к Netflix, а владелец Half Gallery Билл Пауэрс рассказывает о крутости. Сообщение The Hole Faces Fresh Non-Payment Claims-and Other Art World Matters впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/artnet-bulletin/hole-nonpayment-july-31-2791532",
+    "imageURL": null
+  },
+  {
+    "id": "Hyperallergic-1785634026394-0",
+    "title": "Бетти Саар, Симона Форти, Вальтер Бенджамин",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "1 авг. 2026 г.",
+    "summary": "Ваше средство против токсичных людей, война Трампа против Смитсоновского института и прощание с двумя гигантами искусств.",
+    "url": "https://hyperallergic.com/betye-saar-simone-forti-walter-benjamin/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/01_Dumile-Feni-African-Guernica-1-1.jpg"
+  },
+  {
+    "id": "Hyperallergic-1785634027874-1",
+    "title": "Тернистая политика протестной фотографии",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "31 июл. 2026 г.",
+    "summary": "Новый документальный фильм следует за работой активиста и фотографа Мисана Гарримана, но рискует чрезмерно эстетизировать движения, которые он снимает.",
+    "url": "https://hyperallergic.com/the-thorny-politics-of-protest-photography/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/STPSTILL6_CourtesyofWatermelonPictures.jpg"
+  },
+  {
+    "id": "Hyperallergic-1785634029535-2",
+    "title": "Выставка в Калифорнии документирует одну из худших кампаний по депортации в США",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "31 июл. 2026 г.",
+    "summary": "«Требуется помощь/ Уходи сейчас» прослеживает печально известную «Операцию Wetback», проведенную Эйзенхауэром в 1954 году для высылки нелегальных мексиканских рабочих.",
+    "url": "https://hyperallergic.com/california-exhibition-to-document-one-of-the-uss-worst-deportation-campaigns/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/juangarciamom-1.jpg"
+  },
+  {
+    "id": "Hyperallergic-1785634031073-3",
+    "title": "15 художественных шоу под открытым небом в Нью-Йорке этим летом",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "31 июл. 2026 г.",
+    "summary": "Прокатитесь по плюшевому мишке, почувствуйте странности с галлюцинациями нейронной сети, поиграйте в пинг-понг на столе, созданном художником, и многое другое.",
+    "url": "https://hyperallergic.com/15-outdoor-art-shows-to-see-in-nyc-this-summer/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Reflecting-New-York---Stefan-Falke.jpeg"
+  },
+  {
+    "id": "Hyperallergic-1785634032585-4",
+    "title": "Давно оспариваемый Guggenheim Abu Dhabi получает дату открытия",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "31 июл. 2026 г.",
+    "summary": "Активисты призвали художников бойкотировать новый музей, сославшись на бесчеловечное обращение с работниками.",
+    "url": "https://hyperallergic.com/long-contested-guggenheim-abu-dhabi-gets-opening-date/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Hero-Shot-3---Guggenheim-Abu-Dhabi.jpg"
+  },
+  {
+    "id": "Hyperallergic-1785634034078-5",
+    "title": "Как бывшее военное поселение в Тайбэе стало резиденцией художника",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "31 июл. 2026 г.",
+    "summary": "Treasure Hill служил японским складом боеприпасов и сквоттерским поселением Гоминьдана до его повторного открытия в качестве деревни художников в 2010 году.",
+    "url": "https://hyperallergic.com/how-a-former-military-settlement-in-taipei-became-an-artist-residency/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/06.jpg"
+  },
+  {
+    "id": "NFT Culture-1785634036017-0",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -110,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1785632444163-1",
+    "id": "NFT Culture-1785634037808-1",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -120,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1785632445979-2",
+    "id": "NFT Culture-1785634039721-2",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -130,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Culture-1785632447806-3",
+    "id": "NFT Culture-1785634041446-3",
     "title": "Фонд закрывается: что это значит для экосистемы NFT и почему децентрализация все еще имеет значение",
     "source": "NFT Culture",
     "category": "NFT",
@@ -140,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/Blackdove-falls-through-Foundation.png"
   },
   {
-    "id": "NFT Culture-1785632449642-4",
+    "id": "NFT Culture-1785634043134-4",
     "title": "Прощание с Nifty Gateway: горько-сладкий конец пионера NFT",
     "source": "NFT Culture",
     "category": "NFT",
@@ -148,5 +228,75 @@
     "summary": "NFT-сообщество прощается с Nifty Gateway, одной из новаторских платформ цифровой художественной революции. В официальном заявлении команда объявила, что Nifty Gateway закроется 23 февраля 2026 года, и на сегодняшний день (24 января 2026 года) платформа вступила в […] The post Bidding Farewell to Nifty Gateway: A Bittersweet End to an NFT Pioneer appeared first on",
     "url": "https://www.nftculture.com/nft-news/bidding-farewell-to-nifty-gateway-a-bittersweet-end-to-an-nft-pioneer/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/01/ChatGPT-Image-Jan-24-2026-12_23_04-PM.png"
+  },
+  {
+    "id": "NFT Culture-1785634045105-5",
+    "title": "The Unraveling and Rebirth of Digital Ownership: A Post-Mortem on the 2021 NFT Empire and the Rise of Verifiable Utility (Распутывание и возрождение цифрового владения: посмертное исследование империи NFT 2021 года и",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "5 нояб. 2025 г.",
+    "summary": "Введение: лексикон цифровой империи Рыночный бум 2021-2022 годов для невзаимозаменяемых токенов (NFT) не был единичным событием. Это был «идеальный шторм», слияние макроэкономического приспособления, широко распространенные культурные блокировки и внезапное взрывное созревание технологии, которая, казалось бы, решила проблему, занимающую центральное место в цифровом […] The post The Unraveling and Rebirth of Digital Ownership",
+    "url": "https://www.nftculture.com/nft-news/the-unraveling-and-rebirth-of-digital-ownership-a-post-mortem-on-the-2021-nft-empire-and-the-rise-of-verifiable-utility/",
+    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2025/11/RIP-NFTS-2025.png"
+  },
+  {
+    "id": "NFT Now-1785634047641-0",
+    "title": "Представляем Now Media: Голос цифровой культуры",
+    "source": "NFT Now",
+    "category": "NFT",
+    "date": "15 июл. 2025 г.",
+    "summary": "Мы живем в эпоху шума. Я чувствую это каждый день, когда просыпаюсь, выхожу на платформы, где мы собираемся, и пытаюсь найти смысл среди хаоса. Я не могу сказать вам, сколько раз я ловил себя на том, что прокручивал свою ленту в безбожный час, потерявшись в цикле заголовков кликбейтов […] Пост «Представляя сейчас медиа: голос цифровой культуры» появился впервые на NFT сейчас.",
+    "url": "https://nftnow.com/guides/introducing-now-media-the-voice-of-digital-culture/",
+    "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
+  },
+  {
+    "id": "NFT Now-1785634049477-1",
+    "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
+    "source": "NFT Now",
+    "category": "NFT",
+    "date": "25 июн. 2025 г.",
+    "summary": "После волатильного растяжения пространство NFT снова тихо находит свой ритм — и на этот раз ритм звучит по-другому. Последние несколько месяцев открыли волну многообещающего импульса: Telegram интегрирует NFT-дружественные мини-приложения с пользовательской базой в один миллиард. NFT используются для всего, начиная от торговли по телефону […] Появился пост «Представляем SnapNFT: новый стандарт для цифрового сбора»",
+    "url": "https://nftnow.com/guides/collect-kred-collectibl-nft-guest-post/",
+    "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
+  },
+  {
+    "id": "NFT Now-1785634051230-2",
+    "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
+    "source": "NFT Now",
+    "category": "NFT",
+    "date": "12 июн. 2025 г.",
+    "summary": "Анна Ридлер и София Креспо были названы совместными победителями в номинации «Художник года» премии Arab Bank Switzerland (ABS) в области цифрового искусства 2025 года. Премия, которая вручается уже третий год, присуждается новаторским цифровым художникам, а получатели получают персональную выставку или выставку в учреждении культуры в течение следующего года. После […] сообщения Анна Ридлер и София Креспо завоевали высшую награду в ABS",
+    "url": "https://nftnow.com/art/arab-bank-switzerland-2025-digital-art-prize-anna-ridler-sofia-crespo/",
+    "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
+  },
+  {
+    "id": "NFT Now-1785634053022-3",
+    "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
+    "source": "NFT Now",
+    "category": "NFT",
+    "date": "10 июн. 2025 г.",
+    "summary": "Когда вы думаете о том, как быстро все движется в метавселенной, удивительно, что любой может идти в ногу со всеми новостями и запусками продуктов, не говоря уже о постоянном притоке невероятных произведений искусства. Учитывая все обстоятельства, возникает важный вопрос: как вы можете эффективно находить лучшие предстоящие коллекции произведений искусства? Ответ: […] The post All Eyes on Art: Upcoming Collections to Watch the",
+    "url": "https://nftnow.com/art/all-eyes-on-art-upcoming-collections-to-watch-june-10-2025/",
+    "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
+  },
+  {
+    "id": "NFT Now-1785634054776-4",
+    "title": "Смелая ставка на возрождение Moonbirds",
+    "source": "NFT Now",
+    "category": "NFT",
+    "date": "6 июн. 2025 г.",
+    "summary": "Добро пожаловать в рассылку Now. Меня зовут Мэтт Медвед, я веду репортаж в прямом эфире с NFC Summit Lisbon. Это наш третий год в качестве медиа-партнера NFC Summit, и он остается одним из моих любимых событий в календаре. В отличие от крупных европейских конференций, которые пытаются охватить весь спектр блокчейна, NFC держит цифровое искусство на уровне […] Сообщение Inside the Bold Bet to Revive Moonbirds впервые появилось на NFT.",
+    "url": "https://nftnow.com/newsletter/moonbirds-acquisition-spencer-gordon-sand-interview/",
+    "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
+  },
+  {
+    "id": "NFT Now-1785634056450-5",
+    "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
+    "source": "NFT Now",
+    "category": "NFT",
+    "date": "3 июн. 2025 г.",
+    "summary": "Когда вы думаете о том, как быстро все движется в метавселенной, удивительно, что любой может идти в ногу со всеми новостями и запусками продуктов, не говоря уже о постоянном притоке невероятных произведений искусства. Учитывая все обстоятельства, возникает важный вопрос: как вы можете эффективно находить лучшие предстоящие коллекции произведений искусства? Ответ: […] The post All Eyes on Art: Upcoming Collections to Watch the",
+    "url": "https://nftnow.com/art/all-eyes-on-art-upcoming-collections-to-watch-the-week-of-june-3-2025/",
+    "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   }
 ]
