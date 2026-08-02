@@ -197,7 +197,7 @@ async function main() {
     }
   }
 
-  const finalNews = unique.slice(0, 30);
+  const finalNews = unique.slice(0, 40);
   fs.writeFileSync("news.json", JSON.stringify(finalNews, null, 2), "utf8");
   console.log(`Saved ${finalNews.length} Russian news items`);
 }
