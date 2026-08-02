@@ -75,7 +75,9 @@ async function fetchSource(source) {
     const items = [];
     for (const [index, item] of (feed.items || []).slice(0, 5).entries()) {
       const titleEn = cleanText(item.title || "Untitled");
-      const summaryEn = cleanText(item.contentSnippet || item.content || "").slice(0, 220);
+      const summaryEn = cleanText(
+  item.contentSnippet || item.content || item["content:encoded"] || ""
+).slice(0, 600);
 
       const titleRu = await translateToRu(titleEn);
       await new Promise((r) => setTimeout(r, 300));
