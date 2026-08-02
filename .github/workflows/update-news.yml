@@ -36,9 +36,11 @@ jobs:
           git config user.name "ArtToday Bot"
           git config user.email "bot@arttoday.local"
           git add news.json
+          git status
           if git diff --staged --quiet; then
-            echo "No changes"
+            echo "No changes in news.json"
           else
             git commit -m "Update news.json"
-            git push
+            git push origin HEAD:main
+            echo "news.json pushed"
           fi
