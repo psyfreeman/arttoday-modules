@@ -2,8 +2,10 @@ name: Update Art News
 
 on:
   schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
+    - cron: "0 6 * * *"   # 09:00 по Москве (06:00 UTC)
+    - cron: "0 12 * * *"  # 15:00 по Москве (12:00 UTC)
+    - cron: "0 18 * * *"  # 21:00 по Москве (18:00 UTC)
+  workflow_dispatch:      # ручной запуск тоже остаётся
 
 permissions:
   contents: write
