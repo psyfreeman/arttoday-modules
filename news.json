@@ -1,6 +1,26 @@
 [
   {
-    "id": "ARTnews-1785750451560-0",
+    "id": "ARTnews-1785767770612-0",
+    "title": "NADA Miami назвала 135 экспонентов для предстоящего издания в декабре",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "3 авг. 2026 г.",
+    "summary": "Издание 2026 года будет проходить с 1 по 5 декабря в его давнем доме, Ice Palace Studios.",
+    "url": "https://www.artnews.com/art-news/market/nada-miami-2026-exhibitor-list-1234794118/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1785767773798-1",
+    "title": "VCUarts Qatar в венецианском Палаццо Каванис переосмысливает обучение искусству и технологиям",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "3 авг. 2026 г.",
+    "summary": "«Aghrab Idrāk: Thresholds of Perception», официальная выставка Венецианской биеннале, представленная VCUarts в Палаццо Каванис, только что открылась.",
+    "url": "https://www.artnews.com/art-news/artists/venice-biennale-vcuarts-qatar-rethinks-art-and-tech-1234794090/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/07/SonicFields.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1785767775498-2",
     "title": "6 книг, которые мы с нетерпением ждем в августе",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +30,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785750453199-1",
+    "id": "ARTnews-1785767777208-3",
     "title": "Ссылаясь на цензуру, художница Эмма Шапиро подала иск о восстановлении аккаунта Instagram",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +40,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/07/Account-disabling-and-appeal-denial.jpg?w=323"
   },
   {
-    "id": "ARTnews-1785750454942-2",
+    "id": "ARTnews-1785767779014-4",
     "title": "Археологи обнаружили древнеегипетские надгробия с человеческими фигурами",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785750456661-3",
+    "id": "ARTnews-1785767781196-5",
     "title": "В нью-йоркском суде дилер Ив Бувье ищет записи Sotheby's в рамках нового французского уголовного дела",
     "source": "ARTnews",
     "category": "Market",
@@ -40,27 +60,27 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785750458365-4",
-    "title": "Смотрите трейлер нового фильма о романе Томаса Крауна с Майклом Б. Джорданом в роли известного вора в искусстве",
-    "source": "ARTnews",
+    "id": "Artnet News-1785767783108-0",
+    "title": "Почему цены на анимационное искусство растут",
+    "source": "Artnet News",
     "category": "Market",
-    "date": "31 июл. 2026 г.",
-    "summary": "Работы Гойи, Караваджо, Генри Оссавы Таннера и Керри Джеймса Маршалла среди замеченных и потенциально украденных.",
-    "url": "https://www.artnews.com/art-news/news/thomas-crown-affair-movie-trailer-michael-b-jordan-art-thief-1234794102/",
+    "date": "3 авг. 2026 г.",
+    "summary": "Благодаря новым коллекционерам, Cels и раскадровки пользуются огромными ценами на аукционах. Сообщение Why Animation Art Prices Are Soaring впервые появилось на Artnet News.",
+    "url": "https://news.artnet.com/multimedia/art-market-minute-august-3-2793060",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785750459969-5",
-    "title": "Профессора бизнес-школы запускают инструмент искусственного интеллекта для выявления невостребованных украденных произведений искусства нацистской эпохи",
-    "source": "ARTnews",
+    "id": "Artnet News-1785767784808-1",
+    "title": "Лондонская национальная галерея обвиняется в сегрегации сотрудников службы безопасности и других вопросах мира искусства",
+    "source": "Artnet News",
     "category": "Market",
-    "date": "31 июл. 2026 г.",
-    "summary": "Инструмент использует данные из базы данных Jeu de Paume о «культурном грабеже».",
-    "url": "https://www.artnews.com/art-news/news/business-school-professors-ai-tool-nazi-era-looted-artworks-1234794099/",
+    "date": "3 авг. 2026 г.",
+    "summary": "Плюс: Гагосян покидает аванпосты в Лондоне и Базеле, а Ив Бувье возвращается в суд. Пост London's National Gallery Accused of Segregating Security Staff—and Other Art World Matters впервые появился на Artnet News.",
+    "url": "https://news.artnet.com/artnet-bulletin/national-gallery-segregation-claims-aug-3-2793076",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785750461575-0",
+    "id": "Artnet News-1785767792615-2",
     "title": "Этот новый ИИ-ЧАТ-БОТ охотится на украденное нацистами искусство",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785750463208-1",
+    "id": "Artnet News-1785767794322-3",
     "title": "Позолоченный или просто Годи? Статуи золотых лошадей в округе Колумбия разделились во мнениях",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785750464974-2",
+    "id": "Artnet News-1785767795922-4",
     "title": "Является ли бурно развивающаяся арт-сцена Маргейт жертвой собственного успеха?",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785750466693-3",
+    "id": "Artnet News-1785767804707-5",
     "title": "Art Basel может сэкономить $ 9 млн в новой сделке по аренде в Майами-Бич - и больше отраслевой информации",
     "source": "Artnet News",
     "category": "Market",
@@ -100,27 +120,17 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785750468409-4",
-    "title": "Потерянная картина Элизабет Мюррей возвращается спустя 45 лет",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "31 июл. 2026 г.",
-    "summary": "Рабочие поверхности 1978 года, как инновации американского абстракциониста в форме холста, привлекают новый интерес. Пост Lost Elizabeth Murray Painting Resurfaces After 45 Years впервые появился на Artnet News.",
-    "url": "https://news.artnet.com/art-world/elizabeth-murray-painting-resurfaces-2791775",
-    "imageURL": null
+    "id": "Hyperallergic-1785767811790-0",
+    "title": "Гуггенхайм Абу-Даби наконец-то откроется",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "3 авг. 2026 г.",
+    "summary": "Давно оспариваемый музей имеет дату открытия. Кроме того, забастовка работников музея V&A, военное поселение в Тайбэе становится резиденцией художников и документальным фильмом о фотографии протеста.",
+    "url": "https://hyperallergic.com/guggenheim-abu-dhabi-will-finally-open/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/06-1-1.jpg"
   },
   {
-    "id": "Artnet News-1785750470386-5",
-    "title": "Дыра сталкивается с новыми неоплаченными претензиями - и другие вопросы мира искусства",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "31 июл. 2026 г.",
-    "summary": "Также: Ричард Аведон направляется к Netflix, а владелец Half Gallery Билл Пауэрс рассказывает о крутости. Сообщение The Hole Faces Fresh Non-Payment Claims-and Other Art World Matters впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/artnet-bulletin/hole-nonpayment-july-31-2791532",
-    "imageURL": null
-  },
-  {
-    "id": "Hyperallergic-1785750472446-0",
+    "id": "Hyperallergic-1785767813333-1",
     "title": "Бетти Саар, Симона Форти, Вальтер Бенджамин",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +140,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/01_Dumile-Feni-African-Guernica-1-1.jpg"
   },
   {
-    "id": "Hyperallergic-1785750474168-1",
+    "id": "Hyperallergic-1785767814936-2",
     "title": "Тернистая политика протестной фотографии",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,7 +150,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/STPSTILL6_CourtesyofWatermelonPictures.jpg"
   },
   {
-    "id": "Hyperallergic-1785750475950-2",
+    "id": "Hyperallergic-1785767817634-3",
     "title": "Выставка в Калифорнии документирует одну из худших кампаний по депортации в США",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,7 +160,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/juangarciamom-1.jpg"
   },
   {
-    "id": "Hyperallergic-1785750477736-3",
+    "id": "Hyperallergic-1785767819360-4",
     "title": "15 художественных шоу под открытым небом в Нью-Йорке этим летом",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -160,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Reflecting-New-York---Stefan-Falke.jpeg"
   },
   {
-    "id": "Hyperallergic-1785750479282-4",
+    "id": "Hyperallergic-1785767820863-5",
     "title": "Давно оспариваемый Guggenheim Abu Dhabi получает дату открытия",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -170,17 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/Hero-Shot-3---Guggenheim-Abu-Dhabi.jpg"
   },
   {
-    "id": "Hyperallergic-1785750480926-5",
-    "title": "Как бывшее военное поселение в Тайбэе стало резиденцией художника",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "31 июл. 2026 г.",
-    "summary": "Treasure Hill служил японским складом боеприпасов и сквоттерским поселением Гоминьдана до его повторного открытия в качестве деревни художников в 2010 году.",
-    "url": "https://hyperallergic.com/how-a-former-military-settlement-in-taipei-became-an-artist-residency/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/07/06.jpg"
-  },
-  {
-    "id": "NFT Culture-1785750483395-0",
+    "id": "NFT Culture-1785767823091-0",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1785750485307-1",
+    "id": "NFT Culture-1785767825019-1",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1785750487525-2",
+    "id": "NFT Culture-1785767831868-2",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Culture-1785750489344-3",
+    "id": "NFT Culture-1785767834990-3",
     "title": "Фонд закрывается: что это значит для экосистемы NFT и почему децентрализация все еще имеет значение",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/Blackdove-falls-through-Foundation.png"
   },
   {
-    "id": "NFT Culture-1785750491071-4",
+    "id": "NFT Culture-1785767837276-4",
     "title": "Прощание с Nifty Gateway: горько-сладкий конец пионера NFT",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/01/ChatGPT-Image-Jan-24-2026-12_23_04-PM.png"
   },
   {
-    "id": "NFT Culture-1785750493113-5",
+    "id": "NFT Culture-1785767839344-5",
     "title": "The Unraveling and Rebirth of Digital Ownership: A Post-Mortem on the 2021 NFT Empire and the Rise of Verifiable Utility (Распутывание и возрождение цифрового владения: посмертное исследование империи NFT 2021 года и",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2025/11/RIP-NFTS-2025.png"
   },
   {
-    "id": "NFT Now-1785750496133-0",
+    "id": "NFT Now-1785767842224-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1785750497921-1",
+    "id": "NFT Now-1785767844009-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1785750499596-2",
+    "id": "NFT Now-1785767845755-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1785750501509-3",
+    "id": "NFT Now-1785767847568-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1785750503383-4",
+    "id": "NFT Now-1785767859514-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1785750505430-5",
+    "id": "NFT Now-1785767861406-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,17 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1785750507251-0",
+    "id": "Cointelegraph NFT-1785767870931-0",
+    "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
+    "source": "Cointelegraph NFT",
+    "category": "NFT",
+    "date": "3 авг. 2026 г.",
+    "summary": "Fake World Assets превращает забытые NFT в ончейн-лотерею - но является ли последняя одержимость криптовалютой долговечной?",
+    "url": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
+  },
+  {
+    "id": "Cointelegraph NFT-1785767872641-1",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1785750509087-1",
+    "id": "Cointelegraph NFT-1785767874409-2",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785750510755-2",
+    "id": "Cointelegraph NFT-1785767875979-3",
     "title": "Законодатели ЕС призывают оценить DeFi, стейкинг, регулирование NFT",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785750512718-3",
+    "id": "Cointelegraph NFT-1785767877597-4",
     "title": "Pudgy Penguins расширяет охват розничной торговли с помощью развертывания целевой торговой карты",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/pudgy-penguin.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785750514730-4",
+    "id": "Cointelegraph NFT-1785767884249-5",
     "title": "Pudgy Penguins сворачивает мобильную игру Pudgy Party",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,53 +360,43 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/pudgy-penguin-2.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785750516728-5",
-    "title": "Белые шляпы спасают $ 500 тыс. в NFT после эксплойта Flooring",
-    "source": "Cointelegraph NFT",
-    "category": "NFT",
-    "date": "8 июн. 2026 г.",
-    "summary": "Данные CoinGecko и NFT Price Floor показывают, что рыночная капитализация NFT снизилась с апреля, в то время как CryptoPunks и BAYC остаются лучшими коллекциями по стоимости.",
-    "url": "https://cointelegraph.com/news/yuga-labs-nft-rescue-flooring-protocol-exploit?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/regulationofficialbighandnft.jpg"
-  },
-  {
-    "id": "CoinDesk-1785750518571-0",
-    "title": "Robinhood выигрывает регистрацию криптовалюты в Великобритании до того, как начнется новый режим регулирования",
+    "id": "CoinDesk-1785767886159-0",
+    "title": "Круг скользит после понижения рейтинга Morgan Stanley, снижение ценовой цели",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "3 авг. 2026 г.",
-    "summary": "Британское подразделение Robinhood было добавлено в список зарегистрированных криптоактивов FCA по состоянию на 31 июля.",
-    "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
+    "summary": "Банк сказал, что токенизированные фонды денежного рынка, Open USD и более медленный рост USDC могут повлиять на прибыль эмитента стейблкоинов.",
+    "url": "https://www.coindesk.com/markets/2026/08/03/circle-internet-slides-after-morgan-stanley-downgrade-cut-in-price-target",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1785750520309-1",
-    "title": "Потери кошелька Coldcard могут составить около $ 114 млн, поскольку возможен четвертый смет",
+    "id": "CoinDesk-1785767887821-1",
+    "title": "Бернстайн видит еще одну ногу ниже для крипторынков, если Clarity Act остановится",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "3 авг. 2026 г.",
-    "summary": "Ожидающие транзакции сигнализируют о замене по тарифу, поэтому у любого, кто увидит свой адрес в мемпуле, есть минуты, чтобы заплатить более высокую комиссию и сначала перевести средства.",
-    "url": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
+    "summary": "Брокер сказал, что неспособность принять Закон о ясности в этом году, скорее всего, приведет к снижению криптовалюты, но ожидает, что регуляторы США ускорят нормотворчество.",
+    "url": "https://www.coindesk.com/policy/2026/08/03/bernstein-sees-another-leg-lower-for-crypto-markets-if-clarity-act-stalls",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1785750521878-2",
-    "title": "Вакансии в США, Circle, Galaxy, заработок в биткоинах: криптовалютная неделя впереди",
+    "id": "CoinDesk-1785767889434-2",
+    "title": "BlackRock расширяет токенизированные деньги новыми предложениями денежного рынка на основе блокчейна",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "3 авг. 2026 г.",
-    "summary": "Ваш взгляд на то, что произойдет на этой неделе, начиная с 3 августа",
-    "url": "https://www.coindesk.com/markets/2026/08/03/u-s-jobs-circle-galaxy-american-bitcoin-earnings-crypto-week-ahead",
+    "summary": "Оба фонда намерены квалифицироваться как подходящие резервные активы для разрешенных эмитентов стейблкоинов в США в соответствии с Законом GENIUS.",
+    "url": "https://www.coindesk.com/business/2026/08/03/blackrock-expands-tokenized-cash-with-new-blockchain-based-money-market-offerings",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1785750523738-3",
-    "title": "Биткоин упал ниже $ 63 000, несмотря на надежды на сделку с Ираном, поскольку Coldcard теряет рынок",
+    "id": "CoinDesk-1785767895876-3",
+    "title": "Bitmine Тома Ли купил больше эфира, добавив к обратному выкупу акций на прошлой неделе",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "3 авг. 2026 г.",
-    "summary": "Доходность нефти и казначейских облигаций упала после того, как свежие переговоры между США и Ираном ослабили опасения по поводу инфляции, но биткоин и эфир не смогли поймать ставку, поскольку свежие сметы, связанные с Coldcard, привели к наблюдаемым потерям почти до $ 89 млн.",
-    "url": "https://www.coindesk.com/markets/2026/08/03/bitcoin-slips-under-usd63-000-despite-iran-deal-hopes-as-coldcard-losses-rattle-market",
+    "summary": "Председатель Том Ли сказал, что превосходящая производительность эфира по сравнению с Nasdaq в июле сигнализирует об укреплении фундаментальных криптографических показателей.",
+    "url": "https://www.coindesk.com/business/2026/08/03/bitmine-bought-more-ether-added-to-stock-buyback-last-week",
     "imageURL": null
   }
 ]
