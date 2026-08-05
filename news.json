@@ -1,6 +1,6 @@
 [
   {
-    "id": "ARTnews-1785919036895-0",
+    "id": "ARTnews-1785938794115-0",
     "title": "Испанская полиция забрала из монастыря реликвию 16-го века, украденную 16 лет назад",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +10,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785919038751-1",
+    "id": "ARTnews-1785938795734-1",
     "title": "Ветеран Гуггенхайма Валери Хиллингс назначена инаугурационным директором филиала в Абу-Даби",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +20,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785919040367-2",
+    "id": "ARTnews-1785938797223-2",
     "title": "Колоссальная древняя мраморная статуя возникла на объекте ЮНЕСКО в Турции",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +30,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/marble-statue-turkey-head.jpg?w=400"
   },
   {
-    "id": "ARTnews-1785919041963-3",
+    "id": "ARTnews-1785938798775-3",
     "title": "Продажа неплатежеспособного архива художественного центра Глазго станет «необратимой потерей», предупреждают критики",
     "source": "ARTnews",
     "category": "Market",
@@ -40,7 +40,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1785919043541-4",
+    "id": "ARTnews-1785938800245-4",
     "title": "Антикварные бухгалтерские книги Terran Last Gun рассказывают новые истории",
     "source": "ARTnews",
     "category": "Market",
@@ -50,7 +50,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/TLG142-TLG144_Terran-Last-Gun_Another-Human-Being-Experience_2025_Diane-Rosenstein-Gallery_2.jpg?w=400"
   },
   {
-    "id": "ARTnews-1785919045192-5",
+    "id": "ARTnews-1785938801847-5",
     "title": "Неделя искусств в Нью-Йорке назвала 76 галерей-участниц инаугурационного мероприятия в ноябре",
     "source": "ARTnews",
     "category": "Market",
@@ -60,7 +60,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785919047177-0",
+    "id": "Artnet News-1785938803543-0",
     "title": "Сад скульптур Хиршхорна снова расцветает - и мир искусства имеет значение",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +70,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785919048975-1",
+    "id": "Artnet News-1785938805177-1",
     "title": "Почему музеи объединяются для покупки произведений искусства",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +80,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785919050740-2",
+    "id": "Artnet News-1785938806729-2",
     "title": "Охота на временный дом во Дворце Токио: рейтинг французского художественного коллектива",
     "source": "Artnet News",
     "category": "Market",
@@ -90,17 +90,17 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785919052403-3",
+    "id": "Artnet News-1785938808208-3",
     "title": "Гуггенхайм Абу-Даби назначает инаугурационного директора",
     "source": "Artnet News",
     "category": "Market",
     "date": "4 авг. 2026 г.",
-    "summary": "Валери Хиллингс ранее работала в Guggenheim Abu Dhabi в период с 2009 по 2018 год. Сообщение Guggenheim Abu Dhabi Appoints Inaugural Director впервые появилось в Artnet News.",
+    "summary": "Валери Хиллингс ранее работала в учреждении в период с 2009 по 2018 год. Сообщение Guggenheim Abu Dhabi Appoints Inaugural Director впервые появилось в Artnet News.",
     "url": "https://news.artnet.com/art-world/guggenheim-abu-dhabi-first-director-2793701",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785919053972-4",
+    "id": "Artnet News-1785938809808-4",
     "title": "Сталкиваемся ли мы с культурным «пульсом текучести кадров»? And Other Art World Matters",
     "source": "Artnet News",
     "category": "Market",
@@ -110,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1785919055653-5",
+    "id": "Artnet News-1785938811309-5",
     "title": "Франсиско Корреа Кордеро, основатель галереи «Любовь», умер в 37 лет",
     "source": "Artnet News",
     "category": "Market",
@@ -120,7 +120,17 @@
     "imageURL": null
   },
   {
-    "id": "Hyperallergic-1785919057970-0",
+    "id": "Hyperallergic-1785938812866-0",
+    "title": "Плиссирование с Айрис ван Херпен",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "5 авг. 2026 г.",
+    "summary": "Айрис ван Херпен изготавливает коллективную одежду в Бруклинском музее, Смитсоновской тропе Трампа, а Университет Райса для многих становится бесплатным.",
+    "url": "https://hyperallergic.com/pleating-with-iris-van-herpen/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/irisvanherpen1-1.jpg"
+  },
+  {
+    "id": "Hyperallergic-1785938814436-1",
     "title": "Лучшие арт-шоу на открытом воздухе этим летом",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +140,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/reflecting-new-york.jpg"
   },
   {
-    "id": "Hyperallergic-1785919059597-1",
+    "id": "Hyperallergic-1785938816040-2",
     "title": "Трамп предлагает самый низкий бюджет Смитсоновского института за последние годы",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,7 +150,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/GettyImages-2285625535.jpg"
   },
   {
-    "id": "Hyperallergic-1785919061232-2",
+    "id": "Hyperallergic-1785938817619-3",
     "title": "Университет Райса предоставляет бесплатное обучение семьям, зарабатывающим до $ 200 тыс.",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,7 +160,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/120Rice_University-_Houston-_Texas_LCCN2011630262.jpg"
   },
   {
-    "id": "Hyperallergic-1785919062860-3",
+    "id": "Hyperallergic-1785938819188-4",
     "title": "Валери Хиллингс назначена первым директором Guggenheim Abu Dhabi",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -160,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Valerie-Hillings---Credits-Justin-Kase-Conder.jpg"
   },
   {
-    "id": "Hyperallergic-1785919064477-4",
+    "id": "Hyperallergic-1785938820734-5",
     "title": "Kimsooja проходит полный круг",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -170,17 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/IMG_8665.jpg"
   },
   {
-    "id": "Hyperallergic-1785919066179-5",
-    "title": "День, когда я плиссировал с Айрис ван Херпен",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "4 авг. 2026 г.",
-    "summary": "Показ в Бруклинском музее приглашает гостей поработать вместе с голландским модельером в ее воссозданном ателье.",
-    "url": "https://hyperallergic.com/the-day-i-pleated-with-iris-van-herpen/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/irisvanherpen1.jpg"
-  },
-  {
-    "id": "NFT Culture-1785919071800-0",
+    "id": "NFT Culture-1785938822958-0",
     "title": "POAP сворачивается после пяти лет превращения моментов в ончейн-память",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-164529.png"
   },
   {
-    "id": "NFT Culture-1785919073817-1",
+    "id": "NFT Culture-1785938824842-1",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1785919075669-2",
+    "id": "NFT Culture-1785938826603-2",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1785919077640-3",
+    "id": "NFT Culture-1785938828495-3",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Culture-1785919079349-4",
+    "id": "NFT Culture-1785938830233-4",
     "title": "Фонд закрывается: что это значит для экосистемы NFT и почему децентрализация все еще имеет значение",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/Blackdove-falls-through-Foundation.png"
   },
   {
-    "id": "NFT Culture-1785919081182-5",
+    "id": "NFT Culture-1785938831960-5",
     "title": "Прощание с Nifty Gateway: горько-сладкий конец пионера NFT",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/01/ChatGPT-Image-Jan-24-2026-12_23_04-PM.png"
   },
   {
-    "id": "NFT Now-1785919084151-0",
+    "id": "NFT Now-1785938834736-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1785919085946-1",
+    "id": "NFT Now-1785938836480-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1785919087629-2",
+    "id": "NFT Now-1785938838203-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1785919089490-3",
+    "id": "NFT Now-1785938840123-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1785919091175-4",
+    "id": "NFT Now-1785938841937-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1785919092916-5",
+    "id": "NFT Now-1785938843711-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,17 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1785919094891-0",
+    "id": "Cointelegraph NFT-1785938845482-0",
+    "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
+    "source": "Cointelegraph NFT",
+    "category": "NFT",
+    "date": "5 авг. 2026 г.",
+    "summary": "Студия, поддерживаемая a16z, будет использовать активы Pirate Nation с открытым исходным кодом, в то время как независимый фонд продолжает поддерживать ПИРАТСКИЙ токен.",
+    "url": "https://cointelegraph.com/news/proof-of-play-shut-blockchain-gaming-thesis?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
+  },
+  {
+    "id": "Cointelegraph NFT-1785938846989-1",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785919096532-1",
+    "id": "Cointelegraph NFT-1785938848555-2",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1785919098234-2",
+    "id": "Cointelegraph NFT-1785938850355-3",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785919099734-3",
+    "id": "Cointelegraph NFT-1785938851923-4",
     "title": "Законодатели ЕС призывают оценить DeFi, стейкинг, регулирование NFT",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785919101335-4",
+    "id": "Cointelegraph NFT-1785938853850-5",
     "title": "Pudgy Penguins расширяет охват розничной торговли с помощью развертывания целевой торговой карты",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,53 +360,43 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/pudgy-penguin.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1785919102952-5",
-    "title": "Pudgy Penguins сворачивает мобильную игру Pudgy Party",
-    "source": "Cointelegraph NFT",
-    "category": "NFT",
-    "date": "15 июн. 2026 г.",
-    "summary": "Pudgy Penguins остановит развитие Pudgy Party и сосредоточится на Pudgy World, поскольку другой игровой проект Web3 закрывается из-за неспособности найти устойчивую бизнес-модель.",
-    "url": "https://cointelegraph.com/news/pudgy-penguins-winds-down-pudgy-party-mobile-game?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
-    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/pudgy-penguin-2.jpg"
-  },
-  {
-    "id": "CoinDesk-1785919104943-0",
-    "title": "Худший график для быков биткоина на данный момент",
+    "id": "CoinDesk-1785938855875-0",
+    "title": "Nomura Laser Digital поддерживает ZIGChain для частного кредитования onchain в ОАЭ",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "5 авг. 2026 г.",
-    "summary": "В течение 14 лет одно соотношение двигалось только в пользу биткоина. Теперь он решительно повернулся в другую сторону, и быкам может не понравиться, что это значит.",
-    "url": "https://www.coindesk.com/markets/2026/08/05/the-worst-chart-for-bitcoin-bulls-right-now",
+    "summary": "Подразумевается, что инвестиции Laser в ZIGChain составляют миллионы однозначных цифр.",
+    "url": "https://www.coindesk.com/business/2026/08/05/noumura-s-laser-digital-backs-zigchain-for-onchain-private-credit-push-in-uae",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1785919106514-1",
-    "title": "Новое предложение Ethereum сократит эмиссию до нуля, если ETH достигнет $ 112 млрд",
+    "id": "CoinDesk-1785938857527-1",
+    "title": "Криптовалюта, возможно, институционализировалась, но она все еще торгуется как мельница слухов",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "5 авг. 2026 г.",
-    "summary": "Проект предложения EIP-8361 предусматривает сжигание растущей доли вознаграждений валидатора по мере роста коэффициента стейкинга.",
-    "url": "https://www.coindesk.com/tech/2026/08/05/new-ethereum-proposal-would-cut-issuance-to-zero-if-staked-eth-reaches-usd112-billion",
+    "summary": "Чем больше институциональной криптовалюты становится, тем больше она оценивается по заголовкам. Теперь край читает данные позиционирования внизу, не реагируя на повествование сверху.",
+    "url": "https://www.coindesk.com/opinion/2026/08/05/crypto-may-have-institutionalized-but-it-still-trades-like-a-rumor-mill",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1785919108241-2",
-    "title": "- Ты украл, пожалуйста, верни. «Кошелек хакера Coldcard становится граффити-стеной мольб и суеты",
+    "id": "CoinDesk-1785938858995-2",
+    "title": "Ondo Finance нанимает бывшего финансового директора Blockchain.com Адама Шлисмана",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "5 авг. 2026 г.",
-    "summary": "Кошелек, содержащий $ 36 млн украденных биткоинов, стал маловероятной публичной доской объявлений, поскольку жертвы взлома и оппортунисты платят, чтобы оставить постоянные заметки для вора.",
-    "url": "https://www.coindesk.com/markets/2026/08/05/you-stole-please-return-some-coldcard-hacker-s-wallet-becomes-a-graffiti-wall-of-pleas-and-hustles",
+    "summary": "Фирма, занимающаяся токенизированными активами, назначила экс-Blockchain.com и исполнительного директора Monashee финансовым директором, поскольку она расширяет свой бизнес на рынках капитала на блокчейне.",
+    "url": "https://www.coindesk.com/business/2026/08/05/ondo-finance-hires-former-blockchain-com-cfo-adam-schlisman",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1785919109891-3",
-    "title": "Биткойн флэт на уровне $ 64 000, поскольку акции печатают записи, а Ормузская сделка приближается",
+    "id": "CoinDesk-1785938860639-3",
+    "title": "Акции Galaxy Digital упали на 5% после результатов второго квартала",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "5 авг. 2026 г.",
-    "summary": "BTC держался около $ 64 000, поскольку мировой индекс MSCI установил еще один пик, а Brent упал в сторону ормузской сделки. Эфир является единственным крупным падением на неделе.",
-    "url": "https://www.coindesk.com/markets/2026/08/05/bitcoin-flat-at-usd64-000-as-stocks-print-records-and-hormuz-deal-nears",
+    "summary": "Helios впервые получила доход от центров обработки данных, а на первом этапе ожидалось, что квартальная прибыль от третьего квартала составит около $ 80 млн.",
+    "url": "https://www.coindesk.com/business/2026/08/05/galaxy-digital-shares-slip-5-after-second-quarter-results",
     "imageURL": null
   }
 ]
