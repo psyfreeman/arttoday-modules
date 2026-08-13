@@ -1,6 +1,6 @@
 [
   {
-    "id": "ARTnews-1786606069411-0",
+    "id": "ARTnews-1786626419483-0",
     "title": "Ведущая отраслевая группа Icom опубликовала заявление в поддержку Смитсоновского института",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +10,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1786606070989-1",
+    "id": "ARTnews-1786626421395-1",
     "title": "Гиперреалистичные скульптуры Митчелла Шарбонно прячутся у всех на виду",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +20,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/Mitchell-Charbonneau_Table-with-Monsters_2023_3.jpg?w=400"
   },
   {
-    "id": "ARTnews-1786606072602-2",
+    "id": "ARTnews-1786626423220-2",
     "title": "Продажа «потрясающей» британской коллекции окаменелостей Музею естественной истории Абу-Даби вызывает споры",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +30,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1786606074119-3",
+    "id": "ARTnews-1786626424877-3",
     "title": "Художественный музей Сан-Диего уволил 11 сотрудников, сославшись на «текущий ландшафт»",
     "source": "ARTnews",
     "category": "Market",
@@ -40,7 +40,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1786606075748-4",
+    "id": "ARTnews-1786626426654-4",
     "title": "Еще одна коллекция блокбастеров Sotheby's - семейные запчасти Blaquier с импрессионистскими сокровищами на $ 450 млн",
     "source": "ARTnews",
     "category": "Market",
@@ -50,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1786606077365-5",
+    "id": "ARTnews-1786626428332-5",
     "title": "Нью-йоркская галерея, которая принесла вам Эдриана Броуди, подала в суд на коллекционера за неоплаченные счета на сумму более $ 800 000",
     "source": "ARTnews",
     "category": "Market",
@@ -60,7 +60,27 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/Eden-Gallery-interior.jpg?w=400"
   },
   {
-    "id": "Artnet News-1786606078990-0",
+    "id": "Artnet News-1786626430363-0",
+    "title": "О чем не могут перестать думать в этом месяце специалисты аукционов Artnet",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "13 авг. 2026 г.",
+    "summary": "Потенциальный сдвиг в сезонности календаря аукционов, материальные различия в творчестве фотографа и рост рынка Кикуо Сайто - все это сейчас на первом месте. Сообщение What Artnet Auctions Specialists Can 't Stop Thinking About This Month впервые появилось на Artnet News.",
+    "url": "https://news.artnet.com/art-world/auctions-specialist-spotlight-august-2026-2797027",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1786626432014-1",
+    "title": "Том Холланд коллекционирует жучки и другие предметы искусства",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "13 авг. 2026 г.",
+    "summary": "Кроме того, Гуггенхайм украшает обложку New Yorker, а в Нью-Йорке появляется пьеса Баскии. Сообщение Tom Holland Has the Collecting Bug-and Other Art World Matters впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/artnet-bulletin/tom-holland-watch-collection-aug-13-2026-2796563",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1786626433691-2",
     "title": "Хотите возглавить большой художественный музей? Некоторые нанимают!",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786606080587-1",
+    "id": "Artnet News-1786626435581-3",
     "title": "5 выставок в Нью-Йорке до конца лета",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786606082208-2",
+    "id": "Artnet News-1786626437323-4",
     "title": "Квартира в доме детства Вирджинии Вулф только что вышла на рынок",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786606083754-3",
+    "id": "Artnet News-1786626439355-5",
     "title": "Zeitz MOCAA Taps Elvira Dyangani Ose в качестве художественного руководителя",
     "source": "Artnet News",
     "category": "Market",
@@ -100,27 +120,17 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786606085315-4",
-    "title": "Музей Лукаса теперь принимает заказы - и другие вопросы мира искусства",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "12 авг. 2026 г.",
-    "summary": "Также: пара выкапывает возможное сокровище искусства Нового курса и текстильное искусство «Дом дракона». Пост The Lucas Museum Is Now Taking Reservations-and Other Art World Matters впервые появился на Artnet News.",
-    "url": "https://news.artnet.com/artnet-bulletin/lucas-museum-aug-11-2026-2796674",
-    "imageURL": null
+    "id": "Hyperallergic-1786626441109-0",
+    "title": "Новая глава для Zeitz MOCAA",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "13 авг. 2026 г.",
+    "summary": "Эльвира Дьянгани Осе назначена художественным руководителем музея Кейптауна, следуя по стопам покойного Койо Куо.",
+    "url": "https://hyperallergic.com/a-new-chapter-for-zeitz-mocaa/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/AmericanDoctor_Still8_CourtesyOfWatermelonPictures.-1.jpg"
   },
   {
-    "id": "Artnet News-1786606086878-5",
-    "title": "Аргентинская коллекция произведений искусства Sotheby's Lands $ 450 МЛН с Ван Гогом, Сезанном и Дега",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "11 авг. 2026 г.",
-    "summary": "Семья Блакье расстается с шедеврами импрессионизма и постимпрессионизма. The post Sotheby's Lands $ 450M Argentine Art Collection With Van Gogh, Cézanne, Degas appeared first on Artnet News.",
-    "url": "https://news.artnet.com/market/blaquier-art-collection-sothebys-2795536",
-    "imageURL": null
-  },
-  {
-    "id": "Hyperallergic-1786606088549-0",
+    "id": "Hyperallergic-1786626442780-1",
     "title": "SF Camerawork, фоточемпион на пять десятилетий, внезапно объявляет о закрытии",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +140,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/GettyImages-1322397624.jpg"
   },
   {
-    "id": "Hyperallergic-1786606090176-1",
+    "id": "Hyperallergic-1786626444338-2",
     "title": "«Американский доктор» - обвинительный акт для руководства США и СМИ",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,7 +150,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/AmericanDoctor_Still8_CourtesyOfWatermelonPictures..jpg"
   },
   {
-    "id": "Hyperallergic-1786606091739-2",
+    "id": "Hyperallergic-1786626445927-3",
     "title": "Живой мир мёртв от молота",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,7 +160,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Calel-Detail-IMG_3310-1.jpg"
   },
   {
-    "id": "Hyperallergic-1786606093287-3",
+    "id": "Hyperallergic-1786626447674-4",
     "title": "Эльвира Дьянгани Осе сменит Койо Куо в Zeitz MOCAA",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -160,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Elvira-Dyangani-Ose.-Photo-by-Ramiie-G--courtesy-of-Zeitz-MOCAA.-1.jpg"
   },
   {
-    "id": "Hyperallergic-1786606094728-4",
+    "id": "Hyperallergic-1786626449202-5",
     "title": "Вспоминая Кристиана Бернарда, Эл Гури и Гермиону Карлайн",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -170,17 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Untitled-3-1-1.jpg"
   },
   {
-    "id": "Hyperallergic-1786606096227-5",
-    "title": "Познакомьтесь с стипендиатами Джоан Митчелл в этом году",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "12 авг. 2026 г.",
-    "summary": "В этом году премию выиграли 15 художников. Кроме того, интервью с основателем кинофестиваля BlackStar, увольнения в Музее искусств Сан-Диего и многое другое.",
-    "url": "https://hyperallergic.com/meet-this-years-joan-mitchell-fellows/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/blackstar.jpg"
-  },
-  {
-    "id": "NFT Culture-1786606098554-0",
+    "id": "NFT Culture-1786626451410-0",
     "title": "SpriteHood. Все, что вы хотели знать о последнем проекте NFT по Robinhood.",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-062259.png"
   },
   {
-    "id": "NFT Culture-1786606100496-1",
+    "id": "NFT Culture-1786626453432-1",
     "title": "POAP сворачивается после пяти лет превращения моментов в ончейн-память",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-164529.png"
   },
   {
-    "id": "NFT Culture-1786606102281-2",
+    "id": "NFT Culture-1786626455403-2",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1786606104123-3",
+    "id": "NFT Culture-1786626457295-3",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1786606105889-4",
+    "id": "NFT Culture-1786626459202-4",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Culture-1786606107649-5",
+    "id": "NFT Culture-1786626461184-5",
     "title": "Фонд закрывается: что это значит для экосистемы NFT и почему децентрализация все еще имеет значение",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/Blackdove-falls-through-Foundation.png"
   },
   {
-    "id": "NFT Now-1786606110340-0",
+    "id": "NFT Now-1786626463929-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1786606112283-1",
+    "id": "NFT Now-1786626465753-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1786606113930-2",
+    "id": "NFT Now-1786626467570-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1786606115713-3",
+    "id": "NFT Now-1786626469543-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1786606117477-4",
+    "id": "NFT Now-1786626471365-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1786606119255-5",
+    "id": "NFT Now-1786626473116-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1786606121093-0",
+    "id": "Cointelegraph NFT-1786626475057-0",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786606122668-1",
+    "id": "Cointelegraph NFT-1786626476663-1",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786606124167-2",
+    "id": "Cointelegraph NFT-1786626478185-2",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786606125749-3",
+    "id": "Cointelegraph NFT-1786626479788-3",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1786606127403-4",
+    "id": "Cointelegraph NFT-1786626481670-4",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786606128907-5",
+    "id": "Cointelegraph NFT-1786626483220-5",
     "title": "Законодатели ЕС призывают оценить DeFi, стейкинг, регулирование NFT",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,43 +360,43 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg"
   },
   {
-    "id": "CoinDesk-1786606130646-0",
-    "title": "Metaplanet отрицает продажу биткоина на $ 320 млн",
+    "id": "CoinDesk-1786626485278-0",
+    "title": "Бычий скорректированный доход за 2 квартал в строке, поскольку рост доходов от подписки компенсирует замедление цифровых активов",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "13 авг. 2026 г.",
-    "summary": "Генеральный директор Metaplanet опроверг слухи о продаже биткоина и подтвердил 43 000 BTC-холдингов",
-    "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+    "summary": "Продажи цифровых активов упали до $ 32,6 млрд с $ 58,6 млрд годом ранее, но другие доходы примерно удвоились по сравнению с аналогичным периодом прошлого года и составили всего лишь $ 65 млрд.",
+    "url": "https://www.coindesk.com/business/2026/08/13/bullish-reports-usd280-million-q2-net-loss-as-crypto-trading-slows",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1786606132379-1",
-    "title": "Биткойн-фирмы просят лаборатории ИИ предоставить те же инструменты, которые уже есть у злоумышлен",
+    "id": "CoinDesk-1786626486780-1",
+    "title": "Стратегия, нереализованные потери биткоина в Metaplanet подчеркивают риск концентрации только на одном токене",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "13 авг. 2026 г.",
-    "summary": "Coinbase, Block, BitGo и десятки других подписали письмо, в котором утверждается, что защитные ограждения на пограничных моделях блокируют законную работу по обеспечению безопасности, в то время как противники не сталкиваются с такими ограничениями.",
-    "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+    "summary": "Ваш прогноз на день на 13 августа 2026 года",
+    "url": "https://www.coindesk.com/daybook-us/2026/08/13/strategy-metaplanet-unrealized-bitcoin-losses-highlight-risk-of-concentrating-on-just-one-token",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1786606134061-2",
-    "title": "Спекуляции на dogecoin вернулись к уровням октября 2025 года. Цена снизилась на 70%",
+    "id": "CoinDesk-1786626488316-2",
+    "title": "Биткойн держится стабильно около $ 64 000, поскольку monero, hyperliquid превосходит",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "13 авг. 2026 г.",
-    "summary": "Позиционирование фьючерсов восстановилось до уровней, которые в последний раз наблюдались, когда догикоин торговался по цене, в три раза превышающей сегодняшнюю, и более трех счетов делают ставку на отскок для каждого, кто делает ставку против.",
-    "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
+    "summary": "Криптовалютные рынки остаются в паттерне с низкой волатильностью, торгуясь в узком диапазоне после отчета CPI в среду.",
+    "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-holds-steady-near-usd64-000-as-monero-hyperliquid-outperform",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1786606135677-3",
-    "title": "Биткойн проскальзывает около $ 63 500, поскольку трейдеры смотрят мимо CPI на следующие тесты ФРС",
+    "id": "CoinDesk-1786626490295-3",
+    "title": "MUFG протестирует блокчейн-расчет в режиме реального времени для сделок с японскими государственными облигациями",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "13 авг. 2026 г.",
-    "summary": "Рядный инфляционный отпечаток устранил хвостовой риск, но дал BTC мало поводов для ралли, оставив Джексон-Хоул, данные о рабочих местах и следующий выпуск ИПЦ в качестве следующих катализаторов рынка.",
-    "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+    "summary": "MUFG готовит доказательство концепции для ончейн-транзакций JGB с использованием сети Canton.",
+    "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
     "imageURL": null
   }
 ]
