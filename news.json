@@ -1,6 +1,16 @@
 [
   {
-    "id": "ARTnews-1786862433002-0",
+    "id": "ARTnews-1786883781965-0",
+    "title": "Почему гладкие, обтекаемые скульптуры Brancusi все еще соблазняют",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "16 авг. 2026 г.",
+    "summary": "Neue Nationalgalerie и Музей современного искусства демонстрируют его творчество и мастерскую, и его влияние ощущается далеко за пределами мира искусства.",
+    "url": "https://www.artnews.com/art-in-america/features/brancusi-sleek-sculptures-neue-nationalgalerie-moma-design-1234794979/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/60A8380.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1786883783932-1",
     "title": "Мэри Хейлманн, влиятельная художница-абстракционистка, умерла в 86 лет",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +20,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/2.-Mary-Heilmann-Hyde-Street-San-Francisco-CA-1979-photo-by-Mark-MagillFOR-GALLERY.jpeg?w=400"
   },
   {
-    "id": "ARTnews-1786862434773-1",
+    "id": "ARTnews-1786883785546-2",
     "title": "Бразильская полиция обнаружила восемь украденных «джазовых» работ Матисса стоимостью $ 193 000 и арестовала одного подозреваемого",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +30,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1786862436357-2",
+    "id": "ARTnews-1786883787220-3",
     "title": "Пикассо, украденный 65 лет назад, вновь всплыл на поверхность. The Guggenheim Wants It Back",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +40,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1786862437973-3",
+    "id": "ARTnews-1786883788813-4",
     "title": "Метрополитен выставил на обозрение самую старую из существующих копий «Одиссеи»",
     "source": "ARTnews",
     "category": "Market",
@@ -40,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1786862439507-4",
+    "id": "ARTnews-1786883790491-5",
     "title": "Колумбийский музей искусств Перейры закрывается из-за значительного ущерба от землетрясения",
     "source": "ARTnews",
     "category": "Market",
@@ -50,17 +60,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-11.12.03-1.jpg?w=400"
   },
   {
-    "id": "ARTnews-1786862441030-5",
-    "title": "Римские артефакты в сирийской цитадели Дамаска после репатриации из Франции",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "14 авг. 2026 г.",
-    "summary": "Объекты были первоначально предоставлены Институту арабского мира в Париже 15 лет назад.",
-    "url": "https://www.artnews.com/art-news/news/roman-artifacts-on-view-syria-damascus-citadel-repatriation-france-1234795006/",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1786862442745-0",
+    "id": "Artnet News-1786883792256-0",
     "title": "Этот очень странный рисунок Сьюзен Хауптман застрял со мной",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +70,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786862444310-1",
+    "id": "Artnet News-1786883794006-1",
     "title": "Фриз удваивается в Сеуле с крупной сменой места проведения",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +80,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786862445867-2",
+    "id": "Artnet News-1786883795738-2",
     "title": "Два ограбления, два возвращения: украденные шедевры возвращаются в Италию и Бразилию",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786862447428-3",
+    "id": "Artnet News-1786883797357-3",
     "title": "Огромная коллекция Hiroshige отправляется на Christie's- и другие отраслевые Intel",
     "source": "Artnet News",
     "category": "Market",
@@ -100,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786862449011-4",
+    "id": "Artnet News-1786883799011-4",
     "title": "Имя Трампа может вернуться в Центр Кеннеди - и другие вопросы художественного мира",
     "source": "Artnet News",
     "category": "Market",
@@ -110,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1786862450482-5",
+    "id": "Artnet News-1786883800586-5",
     "title": "Волшебная добыча: сотни статуэток Моцарта украдены в Зальцбурге",
     "source": "Artnet News",
     "category": "Market",
@@ -120,7 +120,7 @@
     "imageURL": null
   },
   {
-    "id": "Hyperallergic-1786862452198-0",
+    "id": "Hyperallergic-1786883802346-0",
     "title": "Бетье Саар, Пикассо, BlackStar",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +130,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/betye-saar-feature-1.jpg"
   },
   {
-    "id": "Hyperallergic-1786862453577-1",
+    "id": "Hyperallergic-1786883803863-1",
     "title": "Дышащие луны Ширли Це и Даны Берман Дафф",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,7 +140,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/1.-Whole-Room--2--1.jpg"
   },
   {
-    "id": "Hyperallergic-1786862455231-2",
+    "id": "Hyperallergic-1786883805536-2",
     "title": "Новый цифровой архив чествует журналистов из Газы, убитых Израилем",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,7 +150,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/livingrecordlead-2.jpg"
   },
   {
-    "id": "Hyperallergic-1786862456747-3",
+    "id": "Hyperallergic-1786883807144-3",
     "title": "Художественная картина Ноксвилла с деревом и проволокой",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -160,7 +160,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Lauren-Farkas----Sign-Map----October-2024.jpg"
   },
   {
-    "id": "Hyperallergic-1786862458277-4",
+    "id": "Hyperallergic-1786883808698-4",
     "title": "11-летний мальчик установил рекорд Гиннеса для самого молодого куратора в мире",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -170,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Anderson-Still-Shot-1-2.jpg"
   },
   {
-    "id": "Hyperallergic-1786862460003-5",
+    "id": "Hyperallergic-1786883810549-5",
     "title": "Вид с мольберта",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -180,7 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Studio-Outside---Linda-Lay.jpg"
   },
   {
-    "id": "NFT Culture-1786862462643-0",
+    "id": "NFT Culture-1786883812861-0",
     "title": "SpriteHood. Все, что вы хотели знать о последнем проекте NFT по Robinhood.",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-062259.png"
   },
   {
-    "id": "NFT Culture-1786862464555-1",
+    "id": "NFT Culture-1786883814808-1",
     "title": "POAP сворачивается после пяти лет превращения моментов в ончейн-память",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-164529.png"
   },
   {
-    "id": "NFT Culture-1786862466213-2",
+    "id": "NFT Culture-1786883816781-2",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1786862468147-3",
+    "id": "NFT Culture-1786883818579-3",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1786862469861-4",
+    "id": "NFT Culture-1786883820392-4",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Culture-1786862471463-5",
+    "id": "NFT Culture-1786883822186-5",
     "title": "Фонд закрывается: что это значит для экосистемы NFT и почему децентрализация все еще имеет значение",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/Blackdove-falls-through-Foundation.png"
   },
   {
-    "id": "NFT Now-1786862474038-0",
+    "id": "NFT Now-1786883824922-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1786862475734-1",
+    "id": "NFT Now-1786883826756-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1786862477389-2",
+    "id": "NFT Now-1786883828449-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1786862479071-3",
+    "id": "NFT Now-1786883830388-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1786862480943-4",
+    "id": "NFT Now-1786883832450-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1786862482634-5",
+    "id": "NFT Now-1786883834245-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1786862484166-0",
+    "id": "Cointelegraph NFT-1786883836137-0",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786862485663-1",
+    "id": "Cointelegraph NFT-1786883837727-1",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786862487115-2",
+    "id": "Cointelegraph NFT-1786883839230-2",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786862488700-3",
+    "id": "Cointelegraph NFT-1786883840885-3",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1786862490233-4",
+    "id": "Cointelegraph NFT-1786883842509-4",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1786862491801-5",
+    "id": "Cointelegraph NFT-1786883844066-5",
     "title": "Законодатели ЕС призывают оценить DeFi, стейкинг, регулирование NFT",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,7 +360,17 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg"
   },
   {
-    "id": "CoinDesk-1786862493623-0",
+    "id": "CoinDesk-1786883845986-0",
+    "title": "Эпоха «длинный биткойн, короткий банкиры» официально закончилась, поскольку гиганты TradFi охватывают цифровые активы",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "16 авг. 2026 г.",
+    "summary": "Финансовые фирмы сотрудничают со специалистами для создания инфраструктуры, размывая границы между традиционными и децентрализованными финансами в единый сектор.",
+    "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1786883847928-1",
     "title": "Производитель роботов Unitree становится публичным. Трейдеры Hyperliquid видят 4-кратный рост цены IPO",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -370,7 +380,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1786862495274-1",
+    "id": "CoinDesk-1786883849658-2",
     "title": "Швейцарский мега-банк UBS наращивает свою экспозицию в биткоине с массивным 24-кратным всплеском опционов на покупку ETF",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -380,23 +390,13 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1786862496803-2",
+    "id": "CoinDesk-1786883851317-3",
     "title": "Почему вторая по величине майнинговая компания в мире закрывает буровые установки в своей столице",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "15 авг. 2026 г.",
     "summary": "Министерство энергетики ввело круглогодичное ограничение для смягчения дефицита мощности, поскольку энергоемкие горнодобывающие объекты продолжают создавать нагрузку на региональные сети.",
     "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-    "imageURL": null
-  },
-  {
-    "id": "CoinDesk-1786862498242-3",
-    "title": "Инвестиционная фирма Пола Тюдора Джонса увеличивает долю в биткоин-ETF BlackRock после года продажи",
-    "source": "CoinDesk",
-    "category": "Blockchain",
-    "date": "15 авг. 2026 г.",
-    "summary": "Коллы упали на 85,2% до 148 000 базовых акций, в то время как путы упали на 1,4% до 715 000.",
-    "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
     "imageURL": null
   }
 ]
