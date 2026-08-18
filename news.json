@@ -1,6 +1,36 @@
 [
   {
-    "id": "ARTnews-1787056938427-0",
+    "id": "ARTnews-1787078269078-0",
+    "title": "Рейксмузеум получил редкую книгу рисунков XVII века",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "18 авг. 2026 г.",
+    "summary": "Книга хранится семьей Ван Эген в Нидерландах более трех столетий.",
+    "url": "https://www.artnews.com/art-news/news/rijksmuseum-rare-book-drawings-17th-century-1234795154/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1787078271121-1",
+    "title": "Как 31-летний нью-йоркский дилер пригласил своих художников на биеннале Уитни и Венецианскую биеннале",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "18 авг. 2026 г.",
+    "summary": "«Я действительно мотивирован, чтобы сделать хорошую работу для художников», - сказал Дэвид Пальяруло.",
+    "url": "https://www.artnews.com/art-news/market/david-peter-francis-david-pagliarulo-venice-whitney-1234795140/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/POInstall12.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1787078272788-2",
+    "title": "$ 61 Портрет М. Джошуа Рейнольдса направляется в Лос-Анджелес, премьеры документального фильма «Новый Дуглас Гордон» и многое другое: утренние ссылки на 18 августа 2026 года",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "18 авг. 2026 г.",
+    "summary": "Кроме того, Brighton & Hove ищет свой «эффект Бильбао».",
+    "url": "https://www.artnews.com/art-news/news/joshua-reynolds-portrait-getty-morning-links-august-18-2026-1234795135/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1787078274493-3",
     "title": "В «Странных правилах» эпическое шоу со смелым видением того, что считается искусством",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +40,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/9.-Ken-Stanley-Picbreeder-2008-2020.-Installation-View-of-Strange-Rules-Palazzo-Diedo-Berggruen-Arts-Culture.-Photo-credit-Joan-Porcel.jpg?w=400"
   },
   {
-    "id": "ARTnews-1787056940573-1",
+    "id": "ARTnews-1787078276282-4",
     "title": "Раскопки в Синайской пустыне раскрывают новую информацию о стратегическом значении памятника в Древнем Египте",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1787056942181-2",
+    "id": "ARTnews-1787078277857-5",
     "title": "Бретт Литтман назначен следующим директором MCA в Сан-Диего",
     "source": "ARTnews",
     "category": "Market",
@@ -30,37 +60,17 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1787056943832-3",
-    "title": "2500-летние этрусские бронзовые реликвии, найденные в древнем колодце в Италии",
-    "source": "ARTnews",
+    "id": "Artnet News-1787078279631-0",
+    "title": "Продажи коллекционных автомобилей аукционных домов выросли, во главе с Shelby стоимостью $ 43 МЛН",
+    "source": "Artnet News",
     "category": "Market",
-    "date": "17 авг. 2026 г.",
-    "summary": "Некоторые из сокровищ, найденных недалеко от города Марцаботто, сохранили свой металлический блеск.",
-    "url": "https://www.artnews.com/art-news/news/etruscan-bronze-relics-italy-1234795085/",
+    "date": "18 авг. 2026 г.",
+    "summary": "Набор рекордных сумм не может скрыть разрыв рынка коллекционных автомобилей. Сообщение Auction Houses ’Collector Car Sales Rev Up, Led by a $ 43M Shelby впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/art-world/43m-shelby-collector-car-sales-2799133",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1787056945834-4",
-    "title": "Галерея Элисон Жак подала в суд после того, как поместье художника отменило продажу коллекционерам-новичкам",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "17 авг. 2026 г.",
-    "summary": "Коллекторы Йоэд и Наташа Анис заявляют о нарушении контракта.",
-    "url": "https://www.artnews.com/art-news/news/collectors-sue-alison-jacques-monica-sjoo-cancels-sale-1234795087/",
-    "imageURL": null
-  },
-  {
-    "id": "ARTnews-1787056947855-5",
-    "title": "Шедевры эпохи Возрождения, украденные из сицилийского музея во время национального праздника",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "17 авг. 2026 г.",
-    "summary": "Воры украли три из пяти сохранившихся религиозных панно, написанных мастером эпохи Возрождения Антонелло да Мессина.",
-    "url": "https://www.artnews.com/art-news/news/antonello-da-messina-masterpieces-stolen-sicilian-museum-1234795072/",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1787056949855-0",
+    "id": "Artnet News-1787078281265-1",
     "title": "Там есть сексуальная статуя Германа Мелвилла - и другие вопросы художественного мира",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +80,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1787056951851-1",
+    "id": "Artnet News-1787078282852-2",
     "title": "Последнее приобретение Юсаку Маэдзавы? Суперяхта стоимостью $ 350 МЛН для охотника за трофеями",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1787056953464-2",
+    "id": "Artnet News-1787078284425-3",
     "title": "Павильон «Искусство превыше всего» в Сеуле на фоне сильной усталости",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1787056955072-3",
+    "id": "Artnet News-1787078286005-4",
     "title": "Экс-глава музея Ногучи Бретт Литтман направляется в музей Сан-Диего",
     "source": "Artnet News",
     "category": "Market",
@@ -100,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1787056956752-4",
+    "id": "Artnet News-1787078287615-5",
     "title": "Шедевры эпохи Возрождения, украденные из сицилийского музея, и другие произведения искусства",
     "source": "Artnet News",
     "category": "Market",
@@ -110,17 +120,27 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1787056958815-5",
-    "title": "Мэри Хейлманн, которая оживила абстрактную живопись, умирает в 86 лет",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "17 авг. 2026 г.",
-    "summary": "К началу 1980-х годов «моя одежда вышла из моды», - сказала она. «Я потерял время.« Она нашла путь вперед. Сообщение Mary Heilmann, Who Revivified Abstract Painting, Dies at 86 впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/art-world/artist-mary-heilmann-dead-86-2798542",
-    "imageURL": null
+    "id": "Hyperallergic-1787078289315-0",
+    "title": "Shu Lea Cheang дает транс-художникам крылья для полета",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "18 авг. 2026 г.",
+    "summary": "Режиссер приглашает посетителей переместить и переместить экраны в своем четырехканальном видео в Leslie-Lohman, постоянно развивающейся мозаике транс-перформансов и пейзажей снов.",
+    "url": "https://hyperallergic.com/shu-lea-cheang-gives-trans-artists-the-wings-to-fly/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/slc-ll.jpg"
   },
   {
-    "id": "Hyperallergic-1787056960535-0",
+    "id": "Hyperallergic-1787078290844-1",
+    "title": "Новая статуя Кристи Ноэм в Южной Дакоте: Хэллоуин наступает рано",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "18 авг. 2026 г.",
+    "summary": "Бронзовая скульптура изображает пресловутого бывшего министра внутренней безопасности в полном снаряжении «ЛЕДЯНОЙ Барби» с ее любимой лошадью, к сожалению, названной «Ледяной человек».",
+    "url": "https://hyperallergic.com/halloween-comes-early-with-new-kristi-noem-statue-in-south-dakota/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/IMG_1026.jpeg"
+  },
+  {
+    "id": "Hyperallergic-1787078292319-2",
     "title": "Мэри Хейлманн умирает в 86 лет",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +150,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/mary-heilmann.jpg"
   },
   {
-    "id": "Hyperallergic-1787056962185-1",
+    "id": "Hyperallergic-1787078293920-3",
     "title": "Мэри Хейлманн, художник непочтительных абстракций, умирает в 86 лет",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,17 +160,17 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/GettyImages-1164990688.jpg"
   },
   {
-    "id": "Hyperallergic-1787056964099-2",
-    "title": "Нью-Йорк назначил Брайана Джозефа Ли новым заместителем комиссара по культуре",
+    "id": "Hyperallergic-1787078295399-4",
+    "title": "Комиссар по культуре Нью-Йорка Дия Видж назначил Брайана Джозефа Ли заместителем",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "17 авг. 2026 г.",
-    "summary": "Культурный стратег и продюсер будет работать вместе с куратором и комиссаром Diya Vij в Департаменте по делам культуры.",
-    "url": "https://hyperallergic.com/nyc-names-bryan-joseph-lee-as-new-deputy-culture-commissioner/",
+    "summary": "Культурный стратег и продюсер будет работать вместе с куратором и уполномоченным в Департаменте по делам культуры.",
+    "url": "https://hyperallergic.com/nyc-culture-commissioner-diya-vij-appoints-bryan-joseph-lee-as-deputy/",
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/BJL1200Headshot-2026---Cropped--1---1-.jpg"
   },
   {
-    "id": "Hyperallergic-1787056965916-3",
+    "id": "Hyperallergic-1787078296925-5",
     "title": "Алюминиевая фольга Dean Millien's Animal World",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -160,27 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/IMG_2170-1.jpeg"
   },
   {
-    "id": "Hyperallergic-1787056967571-4",
-    "title": "Студенты RISD MFA рисуют разбитое сердце",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "17 авг. 2026 г.",
-    "summary": "Каждая картина похожа на остров, утопающий в тоске, посылающий сигнал маяка в раздробленный мир.",
-    "url": "https://hyperallergic.com/risd-mfa-students-paint-through-the-heartbreak/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Marooned_photo_by_Julie_Schneider-10.jpg"
-  },
-  {
-    "id": "Hyperallergic-1787056969147-5",
-    "title": "Бесценные картины эпохи Возрождения, украденные из итальянского музея",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "17 авг. 2026 г.",
-    "summary": "Власти говорят, что воры сбежали с четырьмя произведениями сицилийского мастера Антонелло да Мессина менее чем за пять минут.",
-    "url": "https://hyperallergic.com/priceless-renaissance-paintings-stolen-from-italian-museum/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/image-15.png"
-  },
-  {
-    "id": "NFT Culture-1787056972306-0",
+    "id": "NFT Culture-1787078299521-0",
     "title": "SpriteHood. Все, что вы хотели знать о последнем проекте NFT по Robinhood.",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-062259.png"
   },
   {
-    "id": "NFT Culture-1787056974406-1",
+    "id": "NFT Culture-1787078301342-1",
     "title": "POAP сворачивается после пяти лет превращения моментов в ончейн-память",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-164529.png"
   },
   {
-    "id": "NFT Culture-1787056976602-2",
+    "id": "NFT Culture-1787078303179-2",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1787056978435-3",
+    "id": "NFT Culture-1787078304874-3",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1787056980435-4",
+    "id": "NFT Culture-1787078306663-4",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Culture-1787056982708-5",
+    "id": "NFT Culture-1787078308301-5",
     "title": "Фонд закрывается: что это значит для экосистемы NFT и почему децентрализация все еще имеет значение",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/Blackdove-falls-through-Foundation.png"
   },
   {
-    "id": "NFT Now-1787056985838-0",
+    "id": "NFT Now-1787078311035-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1787056987679-1",
+    "id": "NFT Now-1787078312734-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1787056989857-2",
+    "id": "NFT Now-1787078314371-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1787056992391-3",
+    "id": "NFT Now-1787078316101-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1787056994510-4",
+    "id": "NFT Now-1787078317697-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1787056996590-5",
+    "id": "NFT Now-1787078319485-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1787056998621-0",
+    "id": "Cointelegraph NFT-1787078321192-0",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787057000275-1",
+    "id": "Cointelegraph NFT-1787078322812-1",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787057002279-2",
+    "id": "Cointelegraph NFT-1787078324220-2",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787057004007-3",
+    "id": "Cointelegraph NFT-1787078325782-3",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1787057005760-4",
+    "id": "Cointelegraph NFT-1787078327326-4",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787057007567-5",
+    "id": "Cointelegraph NFT-1787078328741-5",
     "title": "Законодатели ЕС призывают оценить DeFi, стейкинг, регулирование NFT",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,43 +360,43 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg"
   },
   {
-    "id": "CoinDesk-1787057009712-0",
-    "title": "Visa ищет нового партнера по расчетам со стейблкоинами после продажи BVNK Mastercard",
+    "id": "CoinDesk-1787078330965-0",
+    "title": "Биткойн затих, поскольку трейдеры преследуют выплаты «5x или 10x» в других местах",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "18 авг. 2026 г.",
-    "summary": "Запрос Visa на продукт (RFP) говорит о необходимости поддержки ряда стейблкоинов.",
-    "url": "https://www.coindesk.com/business/2026/08/18/visa-is-looking-for-a-new-stablecoin-settlement-partner-now-that-bvnk-is-owned-by-mastercard",
+    "summary": "Колебания цены Биткойна достигли минимума цикла, зажатого рыночным перетягиванием каната без явного победителя. Трейдеры, которые когда-то жили за счет этого хаоса, взяли свой аппетит к риску в другом месте.",
+    "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-has-gone-quiet-as-traders-chase-5x-or-10x-payoffs-elsewhere",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1787057011794-1",
-    "title": "Следующее обновление Ethereum нарушает правило «21 000 газовых» кошельков",
+    "id": "CoinDesk-1787078332676-1",
+    "title": "Kraken добавляет акции США в Европе, поскольку TradFi-криптографический дивиденд размывается",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "18 авг. 2026 г.",
-    "summary": "Отправка ETH на совершенно новый адрес обойдется дороже, чем отправка на существующий, а программное обеспечение, построенное вокруг фиксированной комиссии, получит неправильную сумму.",
-    "url": "https://www.coindesk.com/tech/2026/08/18/ethereum-s-next-upgrade-breaks-the-21-000-gas-rule-wallets-rely-on",
+    "summary": "Биржа заявила, что это первая криптокомпания, предлагающая европейским клиентам как традиционные американские акции, так и токенизированные версии этих активов на единой регулируемой платформе.",
+    "url": "https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1787057013459-2",
-    "title": "«Трещина» на энергетическом рынке шире, чем когда-либо. Биткойн может почувствовать это.",
+    "id": "CoinDesk-1787078334443-2",
+    "title": "Почему криптовалютное предприятие, поддерживаемое Трампом, дистанцируется от гонконгского агрегатора искусственного интеллекта WorldClaw",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "18 авг. 2026 г.",
-    "summary": "Ваш прогноз на 18 августа 2026 года",
-    "url": "https://www.coindesk.com/daybook-us/2026/08/18/the-crack-in-the-energy-market-is-wider-than-ever-bitcoin-might-feel-it",
+    "summary": "WLFI заявляет, что платформа ИИ является независимой и использует 1 доллар США в качестве платежной системы, но не говорит, имеет ли она акционерный капитал, финансирование, распределение доходов или другие экономические интересы в компании.",
+    "url": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1787057015182-3",
-    "title": "Южная Корея присоединилась к более чем 30 юрисдикциям, ограничивающим доступ к Полимаркету",
+    "id": "CoinDesk-1787078335953-3",
+    "title": "Поворот ИИ биткоин-майнеров окупается, но майнинг может возродиться одним поворотом",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "18 авг. 2026 г.",
-    "summary": "Регуляторы отвергли защиту Polymarket в отношении его P2P-природы, утверждая, что платформа управляет правилами рынка и облегчает игорную деятельность на основе криптовалют.",
-    "url": "https://www.coindesk.com/business/2026/08/18/south-korea-joins-more-than-30-jurisdictions-restricting-polymarket-access",
+    "summary": "Майнеры с ИИ и высокопроизводительными вычислительными контрактами получили более высокие оценки, поскольку снижение цен на биткоин и хэш-цена сжимают операторов чистой игры.",
+    "url": "https://www.coindesk.com/business/2026/08/18/bitcoin-miners-ai-pivot-pays-off-but-mining-could-revive-with-one-twist",
     "imageURL": null
   }
 ]
