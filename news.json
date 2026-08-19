@@ -1,6 +1,46 @@
 [
   {
-    "id": "ARTnews-1787121883748-0",
+    "id": "ARTnews-1787164494439-0",
+    "title": "Исследование MIT показало, что изображения, сгенерированные ИИ, часто не могут быть прослежены до их источников",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "19 авг. 2026 г.",
+    "summary": "Явление, называемое распадом атрибуции, может иметь последствия для споров об авторских правах.",
+    "url": "https://www.artnews.com/art-news/news/mit-study-ai-generated-images-trace-back-sources-1234795260/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1787164496791-1",
+    "title": "Поколение Z и миллениалы отказываются от ИИ для пленэра, городской совет Сиднея разжигает дебаты о цензуре: утренние ссылки на 19 августа 2026 года",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "19 авг. 2026 г.",
+    "summary": "Вот что мы читаем сегодня утром.",
+    "url": "https://www.artnews.com/art-news/news/gen-z-and-millennials-are-rejecting-ai-for-plein-air-sydney-city-council-stirs-censorship-debate-morning-links-for-august-19-2026-1234795236/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1787164498599-2",
+    "title": "Фонд Marfa's Chinati планирует крупную реставрацию артиллерийских сараев, где находятся культовые алюминиевые работы Дональда Джадда",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "19 авг. 2026 г.",
+    "summary": "«Мы пытались привнести в этот проект определенную долю прагматизма - баланс между совершенством и смирением», - сказала исполнительный директор Кейтлин Мюррей.",
+    "url": "https://www.artnews.com/art-news/news/chinati-foundation-artillery-sheds-restoration-marfa-judd-1234795237/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/Aerial_grounds_Florian-Holzherr.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1787164500087-3",
+    "title": "Мифические, изменчивые миры Элизабет Глэсснер",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "19 авг. 2026 г.",
+    "summary": "Ее закрученные картины следуют за эволюционирующим составом персонажей.",
+    "url": "https://www.artnews.com/art-in-america/columns/mythic-mutable-elizabeth-glaessner-painting-ppow-perrotin-1234794960/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1787164501910-4",
     "title": "Анна Вейант запечатлела Марка Джейкобса на обложке «Ярмарки тщеславия»",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1787121885413-1",
+    "id": "ARTnews-1787164503722-5",
     "title": "Прокурор начал расследование военных преступлений за незаконные археологические раскопки в оккупированном Крыму с артефактами, переданными в Эрмитаж",
     "source": "ARTnews",
     "category": "Market",
@@ -20,47 +60,57 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1787121887000-2",
-    "title": "Участие мафии в ограблении картин эпохи Возрождения на Сицилии",
-    "source": "ARTnews",
+    "id": "Artnet News-1787164505882-0",
+    "title": "«Я верю в силу анахронизма»: Элисон Джинджерас о привнесении современного искусства в музей древностей",
+    "source": "Artnet News",
     "category": "Market",
-    "date": "18 авг. 2026 г.",
-    "summary": "«Мафия? Возможно, они попытаются шантажировать само государство, чтобы вернуть их», - сказал высокопоставленный представитель итальянской культуры.",
-    "url": "https://www.artnews.com/art-news/news/mafia-involvement-feared-antonello-paintings-theft-sicily-1234795152/",
+    "date": "19 авг. 2026 г.",
+    "summary": "В Бенаки в Афинах сверхъестественные картины Александры Валишевской смешиваются с древними артефактами. Пост «I Believe in the Power of Anachronism»: Alison Gingeras on Bringing Contemporary Art to an Antiquities Museum появился впервые на Artnet News.",
+    "url": "https://news.artnet.com/art-world/alison-gingeras-aleksandra-waliszewska-benaki-museum-2799797",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1787121888973-3",
-    "title": "Рейксмузеум получил редкую книгу рисунков XVII века",
-    "source": "ARTnews",
+    "id": "Artnet News-1787164507781-1",
+    "title": "Организаторы биеннале в Кванджу ответили на обвинения в политической цензуре",
+    "source": "Artnet News",
     "category": "Market",
-    "date": "18 авг. 2026 г.",
-    "summary": "Книга хранится семьей Ван Эген в Нидерландах более трех столетий.",
-    "url": "https://www.artnews.com/art-news/news/rijksmuseum-rare-book-drawings-17th-century-1234795154/",
+    "date": "19 авг. 2026 г.",
+    "summary": "Художники утверждают, что павильон Тайваня был переименован без их согласия. Сообщение «Организаторы биеннале в Кванджу ответили на заявления о политической цензуре» впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/art-world/gwangju-biennale-taiwan-pavilion-2799625",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1787121890589-4",
-    "title": "Как 31-летний нью-йоркский дилер пригласил своих художников на биеннале Уитни и Венецианскую биеннале",
-    "source": "ARTnews",
+    "id": "Artnet News-1787164509644-2",
+    "title": "Забытая история сюрреалистической пары наконец-то получает свое",
+    "source": "Artnet News",
     "category": "Market",
-    "date": "18 авг. 2026 г.",
-    "summary": "«Я действительно мотивирован, чтобы сделать хорошую работу для художников», - сказал Дэвид Пальяруло.",
-    "url": "https://www.artnews.com/art-news/market/david-peter-francis-david-pagliarulo-venice-whitney-1234795140/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/08/POInstall12.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1787121892169-5",
-    "title": "$ 61 Портрет М. Джошуа Рейнольдса направляется в Лос-Анджелес, премьеры документального фильма «Новый Дуглас Гордон» и многое другое: утренние ссылки на 18 августа 2026 года",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "18 авг. 2026 г.",
-    "summary": "Кроме того, Brighton & Hove ищет свой «эффект Бильбао».",
-    "url": "https://www.artnews.com/art-news/news/joshua-reynolds-portrait-getty-morning-links-august-18-2026-1234795135/",
+    "date": "19 авг. 2026 г.",
+    "summary": "Первая выставка, объединяющая работы Вольфганга Паалена и Элис Рахон, открывается в галерее Венди Норрис в сентябре. Сообщение The Surrealist Couple History Forgot Is Finally Getting Its Due впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/art-world/surrealist-couple-wolfgang-paalen-alice-rahon-2799086",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1787121893984-0",
+    "id": "Artnet News-1787164511557-3",
+    "title": "Современное искусство забирает элитную недвижимость для выставки на одну ночь",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "19 авг. 2026 г.",
+    "summary": "Chrissy Moore Art Advisory объединяет усилия с Binghatti и Belli International, чтобы продемонстрировать 17 художников в лондонской штаб-квартире застройщика 3 сентября. Впервые пост Contemporary Art Takes Over Luxury Real Estate for One-Night появился на Artnet News.",
+    "url": "https://news.artnet.com/art-world/partner-chrissy-moore-art-advisory-2798951",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1787164513504-4",
+    "title": "Майя Лин планирует создать первую техасскую картину - и другие вопросы художественного мира",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "19 авг. 2026 г.",
+    "summary": "Плюс: Substack отслеживает сближение истории курицы и искусства, а свирепые поклонники Филадельфии получают музейное лечение. The post Maya Lin Plans First Texas Piece—and Other Art World Matters appeared first on Artnet News.",
+    "url": "https://news.artnet.com/artnet-bulletin/maya-lin-texas-aug-19-2026-2799453",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1787164515444-5",
     "title": "Охота на Марину Абрамович в новом музее воздушных шаров и еще более сочные сплетни о мире искусства",
     "source": "Artnet News",
     "category": "Market",
@@ -70,57 +120,57 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1787121895521-1",
-    "title": "Редкая 300-летняя книга от забытого голландского мастера",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "18 авг. 2026 г.",
-    "summary": "В книге рисунков Ван Эгена, недавно подаренной Рейксмузеуму, хранятся работы, приписываемые Ромбоуту ван Эйленбургу, двоюродному брату жены Рембрандта. Редкая 300-летняя книга Forgotten Dutch Master Resurfaces впервые появилась в Artnet News.",
-    "url": "https://news.artnet.com/art-world/rijksmuseum-rombout-uylenburgh-van-eeghen-book-2799213",
-    "imageURL": null
+    "id": "Hyperallergic-1787164517764-0",
+    "title": "Истинные цвета Арутюна Галенца",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "19 авг. 2026 г.",
+    "summary": "В новой книге прослеживается функция цвета как маски, так и зеркала в психологических портретах художника-модерниста, потерявшего родителей во время Геноцида армян.",
+    "url": "https://hyperallergic.com/haroutiun-galentzs-true-colors/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/150.jpg"
   },
   {
-    "id": "Artnet News-1787121897080-2",
-    "title": "Продажи коллекционных автомобилей аукционных домов выросли, во главе с Shelby стоимостью $ 43 МЛН",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "18 авг. 2026 г.",
-    "summary": "Набор рекордных сумм не может скрыть разрыв рынка коллекционных автомобилей. Сообщение Auction Houses ’Collector Car Sales Rev Up, Led by a $ 43M Shelby впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/art-world/43m-shelby-collector-car-sales-2799133",
-    "imageURL": null
+    "id": "Hyperallergic-1787164519569-1",
+    "title": "Энджи Никсон, чемпионка черного искусства и культуры, выиграла праймериз в Сенате Флориды",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "19 авг. 2026 г.",
+    "summary": "42-летняя уроженка Джексонвилля и демократическая социалистка основала местный книжный магазин Cafe Resistance и стала соавтором комикса со своей дочерью.",
+    "url": "https://hyperallergic.com/angie-nixon-champion-of-black-art-and-culture-wins-florida-senate-primary-in-upset/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/GettyImages-2290939900.jpg"
   },
   {
-    "id": "Artnet News-1787121898591-3",
-    "title": "Там есть сексуальная статуя Германа Мелвилла - и другие вопросы художественного мира",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "18 авг. 2026 г.",
-    "summary": "Плюс: культовая фотография Битлз переосмыслена для большого экрана, и V&A Dundee может стать набором Lego. Сообщение There's a Sexy Herman Melville Statue Out There—and Other Art World Matters впервые появилось на Artnet News.",
-    "url": "https://news.artnet.com/artnet-bulletin/herman-melville-statue-aug-18-2026-2798885",
-    "imageURL": null
+    "id": "Hyperallergic-1787164521232-2",
+    "title": "Международный диалог по финансированию: Азиатский культурный совет открывает глобальный цикл грантов 2027 года",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "19 авг. 2026 г.",
+    "summary": "ACC приглашает художников, специалистов в области искусства, ученых и организации подавать заявки с 1 октября по 10 ноября 2026 года.",
+    "url": "https://hyperallergic.com/funding-international-dialogue-the-asian-cultural-council-opens-2027-global-grant-cycle/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Ronnarong-KHAMPHA--ACC-2012-2021--in-Ink-Neo-Lanna-Dance.-Photo-by-ALaLa-Dance-Fest..jpg"
   },
   {
-    "id": "Artnet News-1787121900040-4",
-    "title": "Последнее приобретение Юсаку Маэдзавы? Суперяхта стоимостью $ 350 МЛН для охотника за трофеями",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "17 авг. 2026 г.",
-    "summary": "Плавучий дворец коллекционера-миллиардера только что совершил свое первое путешествие. Последнее приобретение Юсаку Маэдзавы? Суперяхта Fit for a Trophy Hunter СТОИМОСТЬЮ $ 350 МЛН впервые появилась на Artnet News.",
-    "url": "https://news.artnet.com/art-world/art-collector-yusaku-maezawa-superyacht-2798941",
-    "imageURL": null
+    "id": "Hyperallergic-1787164522932-3",
+    "title": "Студенты Массачусетского технологического института теперь могут одалживать работы Дженни К. Джонс и Нейланда Блейка",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "19 авг. 2026 г.",
+    "summary": "Центр визуальных искусств MIT List добавил девять новых работ в Коллекцию студенческого кредитования к своему 49-летию.",
+    "url": "https://hyperallergic.com/mit-students-can-now-borrow-works-by-jennie-c-jones-and-nayland-blake/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/2023_SLAP_Exhibition_Student_edit.jpg"
   },
   {
-    "id": "Artnet News-1787121901760-5",
-    "title": "Павильон «Искусство превыше всего» в Сеуле на фоне сильной усталости",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "17 авг. 2026 г.",
-    "summary": "После пробежек в Тайбэе и Гонконге альтернативное мероприятие проходит в столице Южной Кореи. Сообщение Pavilion Seoul Puts ‘Art First’ Amid Fair Fatigue впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/market/paviliion-seoul-details-2798966",
-    "imageURL": null
+    "id": "Hyperallergic-1787164524593-4",
+    "title": "Статуя Кристи Ноэм, которую никто не просил",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "19 авг. 2026 г.",
+    "summary": "Сегодня два очень разных видения гражданской жизни: уход и ремонт Триеннале Медины и скульптура в честь оскорбленного бывшего министра внутренней безопасности.",
+    "url": "https://hyperallergic.com/the-kristi-noem-statue-nobody-asked-for/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/medina.jpg"
   },
   {
-    "id": "Hyperallergic-1787121903794-0",
+    "id": "Hyperallergic-1787164526260-5",
     "title": "Искусство как инфраструктура на триеннале в Медине",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,57 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/Finnegan_Shannon_hello-from-my-bedside-table_2022.jpg"
   },
   {
-    "id": "Hyperallergic-1787121905294-1",
-    "title": "Кто украл Пикассо Гуггенхайма?",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "18 авг. 2026 г.",
-    "summary": "Музей подает в суд, чтобы вернуть украденную в 1961 году вещь, скульптуры животных Дина Миллиена из алюминиевой фольги и многое другое.",
-    "url": "https://hyperallergic.com/who-stole-the-guggenheims-picasso/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/dean-millien-3.jpg"
-  },
-  {
-    "id": "Hyperallergic-1787121906958-2",
-    "title": "Тайваньские художники обвиняют южнокорейскую биеннале в Кванджу в цензуре",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "18 авг. 2026 г.",
-    "summary": "Решение Биеннале исключить «Тайвань» из официального названия павильона «является угрозой свободе выражения мнений и мировому художественному сообществу», заявили художники.",
-    "url": "https://hyperallergic.com/taiwanese-artists-accuse-south-koreas-gwangju-biennale-of-censorship/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/GettyImages-1232052722.jpg"
-  },
-  {
-    "id": "Hyperallergic-1787121908520-3",
-    "title": "Почему Британия не вернет Гане награбленное золото?",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "18 авг. 2026 г.",
-    "summary": "В «Африканском королевстве золота» Барнаби Филлипс исследует, как британские колониальные силы грабили народ асанте, и умело отслеживает украденные артефакты в музейных хранилищах.",
-    "url": "https://hyperallergic.com/why-wont-britain-return-looted-gold-to-ghana/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/asante-1.jpg"
-  },
-  {
-    "id": "Hyperallergic-1787121910229-4",
-    "title": "Факультет Школы изобразительных искусств «вслепую» сокращением курса на фоне дефицита в $ 22 МЛН",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "18 авг. 2026 г.",
-    "summary": "Профсоюз преподавателей SVA призвал руководство нью-йоркского учреждения работать со своим сообществом над устранением последствий сокращения бюджета.",
-    "url": "https://hyperallergic.com/school-of-visual-arts-faculty-blindsided-by-course-cuts-amid-22m-deficit/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/SVA-23rdStreet.jpg"
-  },
-  {
-    "id": "Hyperallergic-1787121911979-5",
-    "title": "Shu Lea Cheang дает транс-художникам крылья для полета",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "18 авг. 2026 г.",
-    "summary": "Режиссер приглашает посетителей переместить и переместить экраны в своем четырехканальном видео в Leslie-Lohman, постоянно развивающейся мозаике транс-перформансов и пейзажей снов.",
-    "url": "https://hyperallergic.com/shu-lea-cheang-gives-trans-artists-the-wings-to-fly/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/08/slc-ll.jpg"
-  },
-  {
-    "id": "NFT Culture-1787121914731-0",
+    "id": "NFT Culture-1787164529715-0",
     "title": "SpriteHood. Все, что вы хотели знать о последнем проекте NFT по Robinhood.",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-062259.png"
   },
   {
-    "id": "NFT Culture-1787121916735-1",
+    "id": "NFT Culture-1787164531977-1",
     "title": "POAP сворачивается после пяти лет превращения моментов в ончейн-память",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-164529.png"
   },
   {
-    "id": "NFT Culture-1787121918714-2",
+    "id": "NFT Culture-1787164533970-2",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1787121920462-3",
+    "id": "NFT Culture-1787164535783-3",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1787121922232-4",
+    "id": "NFT Culture-1787164537682-4",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Culture-1787121923919-5",
+    "id": "NFT Culture-1787164539421-5",
     "title": "Фонд закрывается: что это значит для экосистемы NFT и почему децентрализация все еще имеет значение",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/Blackdove-falls-through-Foundation.png"
   },
   {
-    "id": "NFT Now-1787121926869-0",
+    "id": "NFT Now-1787164542583-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1787121928561-1",
+    "id": "NFT Now-1787164544374-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1787121930536-2",
+    "id": "NFT Now-1787164546167-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1787121932445-3",
+    "id": "NFT Now-1787164548106-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1787121934409-4",
+    "id": "NFT Now-1787164549867-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1787121936058-5",
+    "id": "NFT Now-1787164551636-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1787121937987-0",
+    "id": "Cointelegraph NFT-1787164555610-0",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787121939799-1",
+    "id": "Cointelegraph NFT-1787164557216-1",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787121941289-2",
+    "id": "Cointelegraph NFT-1787164558805-2",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787121942889-3",
+    "id": "Cointelegraph NFT-1787164560483-3",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1787121944540-4",
+    "id": "Cointelegraph NFT-1787164562310-4",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1787121946049-5",
+    "id": "Cointelegraph NFT-1787164563861-5",
     "title": "Законодатели ЕС призывают оценить DeFi, стейкинг, регулирование NFT",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,43 +360,43 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg"
   },
   {
-    "id": "CoinDesk-1787121948038-0",
-    "title": "Эксплойт Maya Protocol истощает биткоин и другие активы, поскольку стоимость пула падает на $ 11 млн",
+    "id": "CoinDesk-1787164565717-0",
+    "title": "Фонд крипто-кампаний Fairshake столкнулся с $ 2-миллионной неудачей на праймериз во Флориде",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "19 авг. 2026 г.",
-    "summary": "Цепь из шести недостатков заставила кросс-цепочную торговую сеть кредитовать пул с почти 50 миллионами токенов, которые никогда не финансировались должным образом, что позволило злоумышленнику истощить реальные активы.",
-    "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+    "summary": "В гонке, которая вызвала критику ведущего комитета политических действий по криптографии за показ поддельных заголовков в рекламе, дорогостоящие усилия Fairshake не оправдали ожиданий.",
+    "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1787121949633-1",
-    "title": "IPO производителя роботов Unitree выросло на 600%, опередив ставки премаркета криптотрейдеров",
+    "id": "CoinDesk-1787164567412-1",
+    "title": "Биткойн вырос выше $ 68 000, ликвидировав шорты на $ 1,4 млрд, поскольку обратный выкуп казначейских облигаций повышает аппетит к риску",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "19 авг. 2026 г.",
-    "summary": "Перп Hyperliquid оценил Unitree намного выше своей оценки IPO до начала торгов в Шанхае, но первая публичная сделка производителя роботов все же открылась примерно на 75% выше подразумеваемой цены криптотрейдеров.",
-    "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+    "summary": "BTC вырос примерно на 6%, в то время как акции эфира, соланы и криптовалюты выросли после того, как Казначейство удвоило размер обратного выкупа своих облигаций.",
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-surges-above-usd68-000-liquidating-usd1-4-billion-shorts-as-treasury-buybacks-boost-risk-appetite",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1787121951291-2",
-    "title": "Solana лидирует по росту биткоина и эфира, в то время как корейские акции чипов упали на 7%",
+    "id": "CoinDesk-1787164568971-2",
+    "title": "Биткоин приближается к ключевому техническому пробою, который может подтолкнуть цены к $ 76 000",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "19 авг. 2026 г.",
-    "summary": "Биткойн держался около $ 64 000, и все крупные компании, за исключением BNB, выросли, в то время как корейские акции полупроводников упали более чем на 7%, а минуты ФРС должны состояться в 14:00 по восточному времени.",
-    "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+    "summary": "Биткойн близок к формированию паттерна, который, по мнению аналитиков, может сигнализировать о росте цен до $ 76 000.",
+    "url": "https://www.coindesk.com/markets/2026/08/19/bitcoin-nears-key-technical-breakout-that-could-propel-prices-to-usd76-000",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1787121952871-3",
-    "title": "«Это должно пройти»: Эндрю Куомо предупреждает, что США отстают от крипто-правил",
+    "id": "CoinDesk-1787164570570-3",
+    "title": "Coinbase, Circle и бычий скачок, поскольку сторонники Clarity Act выражают оптимизм по поводу законопроекта",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "19 авг. 2026 г.",
-    "summary": "Бывший губернатор Нью-Йорка Эндрю Куомо говорит, что закон о ЯСНОСТИ является ключом к связыванию криптографического и традиционного рынков.",
-    "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+    "summary": "COIN и BLSH выросли примерно на 8%, а CRCL - почти на 10% в преддверии ключевого процедурного голосования, запланированного на 15 сентября.",
+    "url": "https://www.coindesk.com/markets/2026/08/19/coinbase-circle-and-bullish-jump-as-clarity-act-proponents-express-optimism-about-bill",
     "imageURL": null
   }
 ]
