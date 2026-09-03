@@ -1,6 +1,26 @@
 [
   {
-    "id": "ARTnews-1788381274074-0",
+    "id": "ARTnews-1788432531611-0",
+    "title": "Нан Голдин фотографирует кампанию к 30-летию Acne Studios",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "3 сент. 2026 г.",
+    "summary": "Среди ее натурщиков - Джонатан Линдон Чейз, Питер Шлезингер, Сандра Поулсон и Джульетт Льюис, все из «творческой семьи» Угри.",
+    "url": "https://www.artnews.com/art-news/news/nan-goldin-acne-studios-30th-anniversary-campaign-1234796847/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/09/Acne-Studios_FW26-Campaign_16.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1788432533907-1",
+    "title": "Политика - это личное в «Turn the Volume Up!», мощном шоу протестного искусства в музее Нэшер",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "2 сент. 2026 г.",
+    "summary": "Взяв свое название из речи Зохрана Мамдани, «Увеличь громкость!» в Музее искусств Нэшер Университета Дьюка призывает посетителей этой осенью заняться политикой.",
+    "url": "https://www.artnews.com/art-news/news/politics-is-personal-powerful-show-protest-art-nasher-museum-1234796737/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/09/2006_7_1_15_v3_FINAL_o2.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1788432535550-2",
     "title": "Керстин Бретч выиграла Цюрихскую художественную премию в размере $ 160 000",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +30,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1788381275842-1",
+    "id": "ARTnews-1788432537263-3",
     "title": "Ваш осенний путеводитель: 17 ярких моментов мира искусства, которые нельзя пропустить",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +40,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1788381277972-2",
+    "id": "ARTnews-1788432538944-4",
     "title": "Милдред Говард выиграла премию в $ 25 000, Anonymous Was A Woman Names Environmental Art Grants и многое другое: индустрия движется к 2 сентября 2026 года",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1788381279870-3",
+    "id": "ARTnews-1788432540674-5",
     "title": "Дилеры делают ставку на будущее Южной Кореи, несмотря на измеренные продажи первого дня в Frieze и Kiaf",
     "source": "ARTnews",
     "category": "Market",
@@ -40,27 +60,37 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1788381281709-4",
-    "title": "Коллекция Моне, Пикассо и Ренуара стоимостью € 43 млн от Поля Дюран-Рюэля появится на Christie's во время Парижской недели искусств",
-    "source": "ARTnews",
+    "id": "Artnet News-1788432542668-0",
+    "title": "ЛЕД захватывает тысячи древних артефактов и другие предметы искусства",
+    "source": "Artnet News",
     "category": "Market",
-    "date": "2 сент. 2026 г.",
-    "summary": "В октябрьскую продажу также войдут работы Пьера Огюста Ренуара, Эжена Будена и Альфреда Сислея.",
-    "url": "https://www.artnews.com/art-news/news/paul-durand-collection-auction-christies-1234796746/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/09/77369901_JPEG-large.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1788381283569-5",
-    "title": "Недавние ключевые вылеты в Phillips указывают на разворот в стратегии",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "2 сент. 2026 г.",
-    "summary": "Похоже, Филлипс решил, что он не хочет быть той же компанией, которую он провел последнее десятилетие, пытаясь стать.",
-    "url": "https://www.artnews.com/art-news/market/phillips-departures-strategy-pivot-1234796724/",
+    "date": "3 сент. 2026 г.",
+    "summary": "Плюс: Британский музей выпускает гобеленовый трейлер Bayeux, а высококлассные курсы истории искусства приносят пользу богатым. The post ICE Seizes Thousands of Ancient Artifacts—and Other Art World Matters appeared first on Artnet News.",
+    "url": "https://news.artnet.com/artnet-bulletin/ice-seizes-antiquities-sep-3-2806003",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1788381285333-0",
+    "id": "Artnet News-1788432544857-1",
+    "title": "Новая работа Джеймса Таррелла только что попала в суперсиний Майами",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "2 сент. 2026 г.",
+    "summary": "Работа художника стала якорем учреждения в Майами с момента его открытия в 2021 году. Сообщение A New James Turrell Work Just Landed at Miami's Superblue впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/art-world/superblue-miami-james-turrell-ganzfeld-installation-2806132",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1788432546494-2",
+    "title": "Художественное оформление без названия: Хьюстон раскрывает состав коллекционеров для Sophomore Edition",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "2 сент. 2026 г.",
+    "summary": "Ярмарка объединяет художников, чьи работы появляются на мировой арене, с теми, кто активно формирует идентичность современного искусства города. The post Untitled Art, Houston Reveals a Stacked Lineup for Sophomore Edition appeared first on Artnet News.",
+    "url": "https://news.artnet.com/art-world/untitled-art-houston-2804186",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1788432548031-3",
     "title": "Meow Wolf L.A. представляет список звездных артистов",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1788381286993-1",
+    "id": "Artnet News-1788432549579-4",
     "title": "Скульптура любимого Джоэла Шапиро из центра Кеннеди",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1788381288921-2",
+    "id": "Artnet News-1788432551211-5",
     "title": "Serpentine приглашает четверых артистов на новую стипендию, ориентированную на технологии",
     "source": "Artnet News",
     "category": "Market",
@@ -90,37 +120,17 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1788381290744-3",
-    "title": "Культовое «платье Мондриана» отправляется на аукцион - и другие вопросы художественного мира",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "2 сент. 2026 г.",
-    "summary": "Плюс: Музей латиноамериканцев находит постоянный дом, а «Карты против человечества» замышляют памятник против Мускуса. Сообщение «Mondrian Dress» Heads to Auction-and Other Art World Matters впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/artnet-bulletin/fair-warning-fashion-auction-sep-2-2805513",
-    "imageURL": null
+    "id": "Hyperallergic-1788432553228-0",
+    "title": "Трамп каким-то образом сходит с ума по фигурке",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "3 сент. 2026 г.",
+    "summary": "Скульптура Джоэла Шапиро снята в Центре Кеннеди, как Снупи развязал воображение Америки, нерассказанная история чернокожих американских традиций окрашивания и многое другое.",
+    "url": "https://hyperallergic.com/trump-somehow-mad-at-stick-figure/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/african-american-pigment-making.jpg"
   },
   {
-    "id": "Artnet News-1788381292462-4",
-    "title": "Десятилетняя вражда разгорается из-за картины, спрятанной под потолком Парижской оперы Шагала",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "2 сент. 2026 г.",
-    "summary": "Потолок, расписанный Шагалом, уже давно покрывает работы Жюля-Эжена Ленепвё XIX века. Наследник художника хочет, чтобы это раскрылось. Пост Decades-Old Feud Reignites Over Painting Hidden Beneath Chagall's Paris Opera Ceiling впервые появился в Artnet News.",
-    "url": "https://news.artnet.com/art-world/chagall-garnier-opera-paris-lenepveu-2805723",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1788381294201-5",
-    "title": "Аукционы Жюльена открывают Абу-Даби с распродажей сувениров-блокбастеров",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "1 сент. 2026 г.",
-    "summary": "Аукционный дом предлагает впечатляющую коллекцию артефактов Майкла Джексона и принцессы Дианы на своем первом мероприятии в регионе. Сообщение Julien's Auctions Sets Sights on Abu Dhabi With Blockbuster Memorabilia Sale впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/art-world/juliens-auctions-abu-dhabi-celebrity-week-2804291",
-    "imageURL": null
-  },
-  {
-    "id": "Hyperallergic-1788381296393-0",
+    "id": "Hyperallergic-1788432555006-1",
     "title": "Президент Венецианской биеннале защищает включение России в новом интервью",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +140,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2275153736.jpg"
   },
   {
-    "id": "Hyperallergic-1788381298074-1",
+    "id": "Hyperallergic-1788432556750-2",
     "title": "Вспоминая Гелеса Кабреру, Хелча и Джея Мейзела",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,7 +150,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/MujeresSPM26.jpg"
   },
   {
-    "id": "Hyperallergic-1788381299764-2",
+    "id": "Hyperallergic-1788432558416-3",
     "title": "Израильский Смотрич призывает уничтожить 40 палестинских мемориалов на Западном берегу",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,7 +160,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2291559716.jpg"
   },
   {
-    "id": "Hyperallergic-1788381301525-3",
+    "id": "Hyperallergic-1788432560150-4",
     "title": "Недостающие цвета производства черного американского пигмента",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -160,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/IMG_4888--1-.jpg"
   },
   {
-    "id": "Hyperallergic-1788381303254-4",
+    "id": "Hyperallergic-1788432561865-5",
     "title": "Критики «мелочно» удалили скульптуру Джоэла Шапиро из Кеннеди-центра",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -170,17 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/20260902_082806.jpeg"
   },
   {
-    "id": "Hyperallergic-1788381304889-5",
-    "title": "Выставка в Нью-Йорке посвящена непреходящему влиянию Снупи на искусство и моду",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "2 сент. 2026 г.",
-    "summary": "Наш штатный репортер, ярый поклонник Snoopy, эмоционально отреагировал на «Snoopy in Style».",
-    "url": "https://hyperallergic.com/nyc-exhibition-celebrates-snoopys-enduring-influence-on-art-and-fashion/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/20260901_104745.jpg"
-  },
-  {
-    "id": "NFT Culture-1788381307621-0",
+    "id": "NFT Culture-1788432564292-0",
     "title": "Аргонавты распродаются за считанные минуты ... и это может сигнализировать о возврате к тому, какими должны были быть NFT",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/ack-argonauts.jpg"
   },
   {
-    "id": "NFT Culture-1788381309761-1",
+    "id": "NFT Culture-1788432566275-1",
     "title": "SpriteHood. Все, что вы хотели знать о последнем проекте NFT по Robinhood.",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-062259.png"
   },
   {
-    "id": "NFT Culture-1788381312013-2",
+    "id": "NFT Culture-1788432568437-2",
     "title": "POAP сворачивается после пяти лет превращения моментов в ончейн-память",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-164529.png"
   },
   {
-    "id": "NFT Culture-1788381313928-3",
+    "id": "NFT Culture-1788432570353-3",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1788381315892-4",
+    "id": "NFT Culture-1788432572135-4",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1788381317847-5",
+    "id": "NFT Culture-1788432574012-5",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Now-1788381321673-0",
+    "id": "NFT Now-1788432576753-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1788381323715-1",
+    "id": "NFT Now-1788432578390-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1788381325646-2",
+    "id": "NFT Now-1788432580037-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1788381327662-3",
+    "id": "NFT Now-1788432581773-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1788381329463-4",
+    "id": "NFT Now-1788432583443-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1788381331487-5",
+    "id": "NFT Now-1788432585212-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1788381336157-0",
+    "id": "Cointelegraph NFT-1788432587033-0",
     "title": "Трамп обошелся инвесторам в $ 4,7 млрд через криптовалютные «схемы»: Public Citizen",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1788381338104-1",
+    "id": "Cointelegraph NFT-1788432588604-1",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1788381339837-2",
+    "id": "Cointelegraph NFT-1788432590161-2",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1788381341459-3",
+    "id": "Cointelegraph NFT-1788432591676-3",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1788381343224-4",
+    "id": "Cointelegraph NFT-1788432593402-4",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1788381345055-5",
+    "id": "Cointelegraph NFT-1788432595253-5",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,43 +360,43 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "CoinDesk-1788381347369-0",
-    "title": "Материнская компания Kraken Payward откладывает IPO до второго квартала 2027 года",
+    "id": "CoinDesk-1788432597517-0",
+    "title": "Обновления в реальном времени: криптовалютные гиганты отскакивают, в то время как глобальные фонды проводят свои самые низкие долларовые хеджирования с 2015 года",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "2 сент. 2026 г.",
-    "summary": "Оператор криптобиржи, который конфиденциально подал заявку на листинг в США в ноябре прошлого года, уже приостановил свои планы IPO на фоне сложных рыночных условий.",
-    "url": "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
+    "date": "3 сент. 2026 г.",
+    "summary": "Биткойн вернулся выше $ 77 500 с каждым крупным зеленым днем, хотя неделя все еще показывает красный цвет. Глобальные инвесторы обеспечивают самую низкую валютную защиту активов США за десятилетие.",
+    "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1788381349071-1",
-    "title": "Криптовалюты завели новых друзей на праймериз в США, но теперь акцент смещается на всеобщие выборы",
+    "id": "CoinDesk-1788432599412-1",
+    "title": "Биткойн восстанавливается к $ 78 000, поскольку pons и arbitrum расширяют ралли Robinhood Chain",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "2 сент. 2026 г.",
-    "summary": "Добавление действующего Массачусетса Auchincloss в список победивших первичных кандидатов, поддержанных Fairshake, влияние отрасли переходит к ноябрю.",
-    "url": "https://www.coindesk.com/news-analysis/2026/09/02/crypto-made-new-friends-in-u-s-primaries-but-focus-now-shifts-to-general-election",
+    "date": "3 сент. 2026 г.",
+    "summary": "BTC вырос на 0,76% с полуночи, поскольку более мягкий доллар поднял акции и металлы вместе с криптовалютой, в то время как ARB и PONS поднялись выше на третью сессию.",
+    "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-recovers-toward-usd78-000-as-pons-and-arbitrum-extend-robinhood-chain-rally",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1788381350801-2",
-    "title": "Нью-Джерси стал первым штатом, попросившим Верховный суд оценить рынки предсказаний",
+    "id": "CoinDesk-1788432601141-2",
+    "title": "Австралия расправляется с криптобизнесом, поскольку приближается новый строгий нормативный срок",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "2 сент. 2026 г.",
-    "summary": "После того, как несколько апелляционных судов по-разному вынесли решение о том, могут ли штаты расправиться со спортивными продуктами рынков предсказаний, Нью-Джерси попросил СКОТУСА вмешаться.",
-    "url": "https://www.coindesk.com/policy/2026/09/02/new-jersey-becomes-first-state-to-ask-supreme-court-to-weigh-in-on-prediction-markets",
+    "date": "3 сент. 2026 г.",
+    "summary": "Фирмы, которые пропускают крайний срок, могут нарушить закон о финансовых услугах с 1 октября и столкнуться с гражданскими или уголовными санкциями.",
+    "url": "https://www.coindesk.com/business/2026/09/03/australia-is-cracking-down-on-crypto-businesses-as-its-strict-new-regulatory-deadline-nears",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1788381352716-3",
-    "title": "Crypto Long & Short: криптовалютные венчурные капиталисты ошибочно принимают консенсус за дисциплину",
+    "id": "CoinDesk-1788432602940-3",
+    "title": "CFTC просит судью отклонить иск CME по поводу криптовалютных бессрочных фьючерсов",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "2 сент. 2026 г.",
-    "summary": "В выпуске Crypto Long & Short на этой неделе Варун Датта из Truth Ventures пишет, что отступление крипто-венчурного капитала к сделкам более поздней стадии - это консенсусная сделка, одетая как дисциплина. Поскольку проверенные компании забирают 57% капитала прошлого квартала, он утверждает, что разрыв на этапе основания - это то, где доходность, и излагает три вещи, которые нужно искать.",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/09/02/crypto-long-and-short-crypto-vcs-are-mistaking-consensus-for-discipline",
+    "date": "3 сент. 2026 г.",
+    "summary": "Регулятор утверждает, что спор «много шума из ничего», отмечая, что заказ позволяет любому назначенному контрактному рынку, включая CME, перечислять эти продукты.",
+    "url": "https://www.coindesk.com/policy/2026/09/03/cftc-asks-judge-to-dismiss-cme-lawsuit-over-crypto-perpetual-futures",
     "imageURL": null
   }
 ]
