@@ -1,16 +1,26 @@
 [
   {
-    "id": "ARTnews-1790027069867-0",
+    "id": "ARTnews-1790075190861-0",
+    "title": "11 сокровищ Музея нарративного искусства Лукаса",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "22 сент. 2026 г.",
+    "summary": "Райан Линкоф, старший куратор музея и руководитель кинопрограмм, рассказывает об основных моментах из коллекции.",
+    "url": "https://www.artnews.com/list/art-news/news/lucas-museum-collection-treasures-1234798510/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1790075192817-1",
     "title": "Смотрите 10 картин из достопримечательности Метрополитен-центра Чан Дай-Чиен",
     "source": "ARTnews",
     "category": "Market",
     "date": "21 сент. 2026 г.",
-    "summary": "В собрании представлены этюды, созданные Дай-цзянем во время его пребывания в Дуньхуане, древнем буддийском храмовом комплексе, а также его новаторские абстрактные картины тушью.",
+    "summary": "Находка включает в себя исследования времен Дай-цзяня в Дуньхуане, древнем буддийском храмовом комплексе, а также его новаторские абстракции к живописи чернилами.",
     "url": "https://www.artnews.com/list/artnews/news/see-10-paintings-from-the-mets-landmark-chang-dai-chien-acquisition-1234798881/",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790027071625-1",
+    "id": "ARTnews-1790075194848-2",
     "title": "Art Basel Paris представляет основные моменты: звезда «Эмили в Париже» Филиппин Леруа-Болье организует инициативу «О-ля-ля!»",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +30,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790027074441-2",
+    "id": "ARTnews-1790075196525-3",
     "title": "Мы попросили Бенджамина Мозера назвать одно произведение искусства, которое он считает «откровением»",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +40,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790027078992-3",
+    "id": "ARTnews-1790075198522-4",
     "title": "Назначенные Трампом лица, как сообщается, планировали изъятие коллекции произведений искусства Кеннеди-центра, судебные ошибки следователей за изъятие произведений искусства Эгона Шиле и многое другое: утренние ссылки на 21 сентября 2026 года",
     "source": "ARTnews",
     "category": "Market",
@@ -40,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790027080645-4",
+    "id": "ARTnews-1790075200911-5",
     "title": "Даллас приглашает на Неделю фриза в Лондон",
     "source": "ARTnews",
     "category": "Market",
@@ -50,17 +60,17 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/09/The_Chancery_Rosewood_Gallery_Credit_Ben_Anders.jpg?w=400"
   },
   {
-    "id": "ARTnews-1790027082222-5",
-    "title": "Разрезанные и собранные скульптуры Лю Вэя украшают фасад музея Метрополитен",
-    "source": "ARTnews",
+    "id": "Artnet News-1790075202751-0",
+    "title": "Как Энтони Макколл превращает свет в скульптуру",
+    "source": "Artnet News",
     "category": "Market",
     "date": "21 сент. 2026 г.",
-    "summary": "В четверг была представлена пекинская комиссия художников для нью-йоркского музея.",
-    "url": "https://www.artnews.com/art-news/artists/liu-wei-met-museum-facade-commission-1234798801/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/09/Speculation-a.jpg?w=400"
+    "summary": "От заполненных туманом конусов до вращающихся лучей, вдохновленных дронами, легкие скульптуры Макколла проходят полный круг. Сообщение «Как Энтони Макколл превращает свет в скульптуру» впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/art-world/anthony-mccall-solid-light-sean-kelly-2813081",
+    "imageURL": null
   },
   {
-    "id": "Artnet News-1790027083912-0",
+    "id": "Artnet News-1790075204891-1",
     "title": "Экспорт из Великобритании «маленькой, но могучей» скульптуры эпохи Возрождения $ 6,2 млн",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +80,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790027085575-1",
+    "id": "Artnet News-1790075206812-2",
     "title": "Никогда не виданный портрет Сарджента удваивается на аукционе",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790027087254-2",
+    "id": "Artnet News-1790075208748-3",
     "title": "Кем была святая Екатерина Болонская, покровительница художников?",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790027088824-3",
+    "id": "Artnet News-1790075210809-4",
     "title": "Судебные решения наносят удар по рассмотрению окружным прокуроромМанхэттена дела о реституции Шиле",
     "source": "Artnet News",
     "category": "Market",
@@ -100,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790027090279-4",
+    "id": "Artnet News-1790075212584-5",
     "title": "Является ли винтажная мода следующей границей коллекционирования?",
     "source": "Artnet News",
     "category": "Market",
@@ -110,17 +120,37 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790027091867-5",
-    "title": "Марина Абрамович переносит десятилетия перформанса в цифровую сферу",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "20 сент. 2026 г.",
-    "summary": "Последний релиз TAEX с новаторским художником-перформансистом переосмысливает основополагающее учение Института Марины Абрамович как коллекцию из 125 аватарных перформансов. Сообщение Marina Abramović Brings Decades of Performance Art Into the Digital Realm впервые появилось на Artnet News.",
-    "url": "https://news.artnet.com/art-world/marina-abramovic-taex-2812644",
-    "imageURL": null
+    "id": "Hyperallergic-1790075214956-0",
+    "title": "Венецианские павильоны, которые не попали в цель",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "22 сент. 2026 г.",
+    "summary": "Что нам не понравилось на биеннале, так это то, что художники вытащили из Documenta 16 над Газой, посетители, арестованные за то, что повесили картины Моны Лизы, и многое другое.",
+    "url": "https://hyperallergic.com/venice-pavilions-that-missed-the-mark/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/dj-venice.png"
   },
   {
-    "id": "Hyperallergic-1790027097134-0",
+    "id": "Hyperallergic-1790075217271-1",
+    "title": "Худшие национальные павильоны на Венецианской биеннале",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "21 сент. 2026 г.",
+    "summary": "И некоторые из них у нас все еще амбивалентны.",
+    "url": "https://hyperallergic.com/the-worst-national-pavilions-at-the-venice-biennale/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/DSC00865.jpeg"
+  },
+  {
+    "id": "Hyperallergic-1790075219050-2",
+    "title": "Стихи для Альмы Томас",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "21 сент. 2026 г.",
+    "summary": "Отрывок из книги Алексис Полин Гамбс о покойном художнике, а также рецензии на новые произведения Софи Льюис и Даны Машоян Вальрат.",
+    "url": "https://hyperallergic.com/poems-for-alma-thomas/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/SAAM-1977.121_2-1.jpg"
+  },
+  {
+    "id": "Hyperallergic-1790075221010-3",
     "title": "Пиво с художником: Барбара Такенага",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,17 +160,17 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/BT-in-her-studio-2-JS.jpg"
   },
   {
-    "id": "Hyperallergic-1790027101642-1",
+    "id": "Hyperallergic-1790075222737-4",
     "title": "Ребенок из Бушвика в Bushwick Open Studios",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "21 сент. 2026 г.",
-    "summary": "Во время моего первого посещения этого ежегодного мероприятия я увидела величественные картины, исследующие нашего внутреннего ребенка, произведения, посвященные филиппинской культуре, и наполненные светом портреты трансгендерного сообщества одного из художников.",
+    "summary": "Во время моего первого визита на ежегодное мероприятие я нашел потрясающие картины, которые исследуют нашего внутреннего ребенка, диаспорскую дань филиппинской культуре и наполненные светом портреты транс-сообщества художников.",
     "url": "https://hyperallergic.com/a-bushwick-kid-at-bushwick-open-studios/",
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/bobby.jpg"
   },
   {
-    "id": "Hyperallergic-1790027103468-2",
+    "id": "Hyperallergic-1790075224538-5",
     "title": "Фотограф Нельсон Гарридо, принявший «эстетику уродливого», умирает в 73 года",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,37 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Nelson-Garrido.-Caracas-2019.jpg"
   },
   {
-    "id": "Hyperallergic-1790027111151-3",
-    "title": "Книга Элисон Ноулз",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "21 сент. 2026 г.",
-    "summary": "Ретроспективная выставка прослеживает влияние языка книгоиздания на ее обширное творчество и его радикальное воздействие на американское искусство.",
-    "url": "https://hyperallergic.com/the-book-of-alison-knowles/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Alison-Knowles-House-of-Dust-1971.jpg"
-  },
-  {
-    "id": "Hyperallergic-1790027112919-4",
-    "title": "Наоми Беквит говорит, что она «не боится» пропалестинского протеста на Documenta 16",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "21 сент. 2026 г.",
-    "summary": "«Люди имеют право протестовать и выражать свое мнение», - сказал куратор Die Zeit, заявив, что некоторые художники отказались участвовать в выставке из-за «позиции Германии по войне в Газе».",
-    "url": "https://hyperallergic.com/naomi-beckwith-says-shes-not-afraid-of-pro-palestine-protest-at-documenta-16/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-2218445286.jpg"
-  },
-  {
-    "id": "Hyperallergic-1790027114455-5",
-    "title": "Немецкий дуэт арестован после того, как повесил картины рядом с Моной Лизой",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "21 сент. 2026 г.",
-    "summary": "Двое мужчин сказали парижской полиции, что трюк был просто «для удовольствия».",
-    "url": "https://hyperallergic.com/german-duo-arrested-after-hanging-paintings-next-to-mona-lisa/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/GettyImages-1318837531.jpg"
-  },
-  {
-    "id": "NFT Culture-1790027116827-0",
+    "id": "NFT Culture-1790075227040-0",
     "title": "Аргонавты распродаются за считанные минуты ... и это может сигнализировать о возврате к тому, какими должны были быть NFT",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/ack-argonauts.jpg"
   },
   {
-    "id": "NFT Culture-1790027118739-1",
+    "id": "NFT Culture-1790075229102-1",
     "title": "SpriteHood. Все, что вы хотели знать о последнем проекте NFT по Robinhood.",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-062259.png"
   },
   {
-    "id": "NFT Culture-1790027120775-2",
+    "id": "NFT Culture-1790075231145-2",
     "title": "POAP сворачивается после пяти лет превращения моментов в ончейн-память",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-164529.png"
   },
   {
-    "id": "NFT Culture-1790027122818-3",
+    "id": "NFT Culture-1790075233027-3",
     "title": "Azuki TCG: Может ли аниме-бренд Web3 победить местный карточный магазин?",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/07/how-to-play-thumbnail.jpg"
   },
   {
-    "id": "NFT Culture-1790027124668-4",
+    "id": "NFT Culture-1790075234878-4",
     "title": "«Серия головных болей»: Defaced превращает хроническую боль в цифровые тотемы",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/05/Screenshot-2026-05-18-085209-scaled.png"
   },
   {
-    "id": "NFT Culture-1790027126540-5",
+    "id": "NFT Culture-1790075236856-5",
     "title": "When Platforms Fracture: The Foundation x Blackdove Saga and What It Means for On-Chain Art",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/04/keys-28.png"
   },
   {
-    "id": "NFT Now-1790027129639-0",
+    "id": "NFT Now-1790075240497-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1790027131465-1",
+    "id": "NFT Now-1790075242575-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1790027133203-2",
+    "id": "NFT Now-1790075244824-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1790027137763-3",
+    "id": "NFT Now-1790075247022-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1790027142333-4",
+    "id": "NFT Now-1790075248893-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1790027147049-5",
+    "id": "NFT Now-1790075250852-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1790027148897-0",
+    "id": "Cointelegraph NFT-1790075252822-0",
     "title": "Трамп обошелся инвесторам в $ 4,7 млрд через криптовалютные «схемы»: Public Citizen",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790027150566-1",
+    "id": "Cointelegraph NFT-1790075254528-1",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790027152276-2",
+    "id": "Cointelegraph NFT-1790075256237-2",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790027153849-3",
+    "id": "Cointelegraph NFT-1790075257803-3",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790027155558-4",
+    "id": "Cointelegraph NFT-1790075259473-4",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "Cointelegraph NFT-1790027160129-5",
+    "id": "Cointelegraph NFT-1790075261266-5",
     "title": "Азартные игры на случайных картах покемонов: Onchain gacha бьет рекорды по количеству раковин для криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,43 +360,43 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-new-ath-for-onchain-gagchas-tokenized-collectibles.jpg"
   },
   {
-    "id": "CoinDesk-1790027164907-0",
-    "title": "Биткойн может протестировать $ 90 000 после сжатия шортов, но трейдеры предупреждают, что кредитное плечо растет",
+    "id": "CoinDesk-1790075263388-0",
+    "title": "Binance покупает долю Circle за $ 100 млн в пятилетней сделке по продвижению USDC",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "21 сент. 2026 г.",
-    "summary": "Биткойн пробился до $ 86 000, но аналитики говорят, что следующий этап зависит от того, продолжат ли спотовые покупатели появляться по мере роста кредитного плеча.",
-    "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-could-test-usd90-000-after-shorts-get-squeezed-but-traders-warn-leverage-is-building",
+    "date": "22 сент. 2026 г.",
+    "summary": "Circle продала 1,24 миллиона акций по $ 80,84 каждая и будет выплачивать Binance ежемесячную комиссию, привязанную к USDC, удерживаемой через инфраструктуру ее кошелька.",
+    "url": "https://www.coindesk.com/policy/2026/09/22/binance-buys-usd100-million-circle-stake-in-five-year-usdc-promotion-deal",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1790027169351-1",
-    "title": "Почему этот инвестиционный банк ожидает небольшого спроса на токенизированные акции, несмотря на новые правила торговли SEC",
+    "id": "CoinDesk-1790075265049-1",
+    "title": "Биткоин восстанавливается после минимумов азиатской сессии, поскольку падающая цена на нефть поддерживает аппетит к риску",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "21 сент. 2026 г.",
-    "summary": "TD Cowen ожидает ограниченного спроса на токенизированные акции, несмотря на новые правила SEC, открывающие путь для торговли за пределами традиционных рынков.",
-    "url": "https://www.coindesk.com/markets/2026/09/21/why-this-investment-bank-sees-little-demand-for-tokenized-stocks-despite-sec-s-new-trading-rules",
+    "date": "22 сент. 2026 г.",
+    "summary": "Биткойн торговался вблизи $ 86 000, поскольку нефть WTI упала ниже $ 90, а сильные фондовые рынки поддержали аппетит к риску.",
+    "url": "https://www.coindesk.com/markets/2026/09/22/bitcoin-recovers-from-asian-session-lows-as-falling-oil-price-supports-risk-appetite",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1790027171041-2",
-    "title": "Крипто-политическая группа планирует потратить $ 30 млн против заявки Сената Шеррода Брауна",
+    "id": "CoinDesk-1790075266745-2",
+    "title": "Обновления в реальном времени: Нефть падает, поскольку Иран сигнализирует о возможном открытии Hormuz, биткоин держится около $ 86 000",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "21 сент. 2026 г.",
-    "summary": "Это самые большие расходы в отрасли в 2026 году, так же, как 40 миллионов $ Fairshake против Брауна два года назад были его самыми большими расходами в истории.",
-    "url": "https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid",
+    "date": "22 сент. 2026 г.",
+    "summary": "Нефть марки WTI упала до $ 89, поскольку, согласно сообщениям, Иран может вновь открыть Ормузский пролив в течение семи дней.",
+    "url": "https://www.coindesk.com/markets/2026/09/22/live-updates-oil-falls-as-iran-signals-possible-hormuz-reopening-bitcoin-holds-near-usd86-000",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1790027172627-3",
-    "title": "ЕЦБ планирует покупать токенизированные облигации за счет собственных средств",
+    "id": "CoinDesk-1790075268580-3",
+    "title": "Binance расследуется федеральной прокуратурой США за нарушение санкций - Bloomberg",
     "source": "CoinDesk",
     "category": "Blockchain",
-    "date": "21 сент. 2026 г.",
-    "summary": "Европейский центральный банк развернул новую систему, чтобы связать свою платежную систему с финансовыми рынками, основанными на блокчейне.",
-    "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+    "date": "22 сент. 2026 г.",
+    "summary": "Утверждается, что федеральные прокуроры на Манхэттене и Министерство юстиции расследуют, позволяла ли криптобиржа пользователям сознательно обходить санкции США в отношении Ирана.",
+    "url": "https://www.coindesk.com/policy/2026/09/22/binance-probed-by-u-s-federal-prosecutors-for-sanctions-violations-bloomberg",
     "imageURL": null
   }
 ]
