@@ -1,6 +1,56 @@
 [
   {
-    "id": "ARTnews-1790877860578-0",
+    "id": "ARTnews-1790893423321-0",
+    "title": "После отставки Консультативного совета Американский институт архитекторов взвешивает арку Трампа",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "1 окт. 2026 г.",
+    "summary": "В письме содержится призыв к Консультативному совету по сохранению исторических памятников рассмотреть альтернативные места или менее навязчивые варианты арки.",
+    "url": "https://www.artnews.com/art-news/news/american-institute-architects-letter-advisory-council-historic-preservation-denounce-president-trump-arch-1234800259/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1790893425921-1",
+    "title": "Бесплатный вход в национальные музеи Великобритании продолжится, заявили в правительстве",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "1 окт. 2026 г.",
+    "summary": "Объявление положило конец многомесячным дискуссиям о том, можно ли в конечном итоге взимать плату с иностранных посетителей.",
+    "url": "https://www.artnews.com/art-news/news/free-entry-to-uk-national-museums-will-continue-government-says-1234800278/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1790893427667-2",
+    "title": "Потерянный мрамор мастера позднего барокко оказался на спасательном дворе в Великобритании",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "1 окт. 2026 г.",
+    "summary": "Ожидается, что скульптура Пьетро Браччи (1700–1773) принесет от 5000 до 10 000 фунтов стерлингов (от 6600 до 13 200долларов США) на аукционе",
+    "url": "https://www.artnews.com/art-news/news/baroque-pietro-bracci-portrait-pope-clement-xii-found-uk-1234800257/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1790893429360-3",
+    "title": "Галерея Кави Гупта получила запретительный судебный приказ на фоне спора об искусстве на $ 2",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "1 окт. 2026 г.",
+    "summary": "Нью-йоркский судья временно запретил чикагскому дилеру Кави Гупте и его галерее продавать или продавать коллекцию произведений искусства в центре сложного юридического спора.",
+    "url": "https://www.artnews.com/art-news/news/kavi-gupta-gallery-longcraft-lawsuit-restraining-order-1234800255/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1790893430947-4",
+    "title": "Sotheby's продаст работы из коллекции обанкротившегося хедж-фондера Джорджа Аллена Вайса",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "1 окт. 2026 г.",
+    "summary": "Ранее Вайс предлагал Моне попытаться погасить долг перед Bank of America.",
+    "url": "https://www.artnews.com/art-news/market/sothebys-sell-artworks-bankrupt-hedge-funder-george-weiss-1234800249/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1790893432523-5",
     "title": "BTS Star RM поделится своей коллекцией произведений искусства на новой выставке SFMOMA",
     "source": "ARTnews",
     "category": "Market",
@@ -10,57 +60,47 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790877862187-1",
-    "title": "Бренд роскошных аксессуаров Eittem запускает совместную линию с коллекцией Frick в Нью-Йорке",
-    "source": "ARTnews",
+    "id": "Artnet News-1790893434205-0",
+    "title": "Шедевры Prado преображаются в новые технологии виртуальной реальности",
+    "source": "Artnet News",
     "category": "Market",
     "date": "1 окт. 2026 г.",
-    "summary": "В линейку входят фирменные деревянные сумочки бренда.",
-    "url": "https://www.artnews.com/art-news/news/eittem-frick-collection-collaboration-1234800228/",
+    "summary": "«Шедевры», открывающиеся 1 октября в Powerhouse Arts в Бруклине, переосмысливают пять самых знаковых картин музея. Пост The Prado's Masterpieces Get a High-Tech Makeover in New VR Experience появился впервые на Artnet News.",
+    "url": "https://news.artnet.com/art-world/museo-nacional-del-prado-acciona-2817502",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790877863782-2",
-    "title": "В Шартре обнаружен редкий тайник с древнеримскими скульптурами",
-    "source": "ARTnews",
+    "id": "Artnet News-1790893435840-1",
+    "title": "Прошлое, настоящее и будущее (??) искусства веб-сайтов",
+    "source": "Artnet News",
     "category": "Market",
     "date": "1 окт. 2026 г.",
-    "summary": "Археологи также нашли доказательства существования водной системы, которая, возможно, играла определенную роль в древних ритуалах.",
-    "url": "https://www.artnews.com/art-news/news/rare-cache-ancient-roman-sculptures-discovered-chartres-france-1234800148/",
+    "summary": "Майкл Коннор, содиректор Rhizome, рассказывает Бену Дэвису об истории интернет-искусства и о том, что будет дальше. Сообщение The Past, Present, and Future (??) of Website Art впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/multimedia/rhizome-michael-connor-2815067",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790877865425-3",
-    "title": "Художники для Climate Action возвращаются на Неделю фриза с вечерним аукционом Christie's",
-    "source": "ARTnews",
+    "id": "Artnet News-1790893437348-2",
+    "title": "Эти 18 художников сейчас доминируют в музеях США",
+    "source": "Artnet News",
     "category": "Market",
     "date": "1 окт. 2026 г.",
-    "summary": "Вечерняя распродажа Christie's 20th/21st Century в Лондоне проведет аукцион работ, подаренных художниками Игшааном Адамсом и Патрисией Лейте, вырученные средства пойдут на борьбу с изменением климата.",
-    "url": "https://www.artnews.com/art-news/market/christies-artists-for-climate-action-frieze-week-london-1234800216/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/10/Igshaan-Adams-The-certainty-of-being-a-rose-ii-2025.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1790877867152-4",
-    "title": "Иракские археологи арестованы на фоне растущей обеспокоенности по поводу коррупции в государстве",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "1 окт. 2026 г.",
-    "summary": "Многие опасаются, что два известных иракских археолога были арестованы из-за публичных комментариев о коррупции в Государственном совете по древностям и наследию.",
-    "url": "https://www.artnews.com/art-news/news/iraqi-archaeologists-arrested-state-corruption-1234800175/",
+    "summary": "Вот список художников музея за сентябрь 2026 года. Сообщение «Эти 18 художников доминируют в музеях США прямо сейчас» впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/art-world/museum-artist-list-sept-2026-2817569",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1790877868715-5",
-    "title": "Президент Лувра обсуждает новую «культуру безопасности», испанский Королевский музей живописи в Эскориале открывается после десятилетия и многое другое: утренние ссылки на 1 октября 2026 года",
-    "source": "ARTnews",
+    "id": "Artnet News-1790893438826-3",
+    "title": "Ярмарка Artbo в Колумбии нашла некоторые плюсы в сокращении",
+    "source": "Artnet News",
     "category": "Market",
     "date": "1 окт. 2026 г.",
-    "summary": "Вот что мы читаем сегодня утром.",
-    "url": "https://www.artnews.com/art-news/news/morning-links-october-1-2026-1234800210/",
+    "summary": "Региональная направленность Боготской ярмарки родилась из необходимости, но колумбийское искусство все еще становится глобальным. Сообщение Colombia's Artbo Fair Found Some Upsides to Downsizing впервые появилось в Artnet News.",
+    "url": "https://news.artnet.com/market/artbo-fair-downsizing-2818535",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790877870332-0",
+    "id": "Artnet News-1790893440444-4",
     "title": "Лофт Джексона Поллока в Вест-Виллидж выставлен на продажу",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790877871895-1",
+    "id": "Artnet News-1790893441927-5",
     "title": "Tokyo Rush! Основатели Базельского социального клуба рассказывают о японском дебюте",
     "source": "Artnet News",
     "category": "Market",
@@ -80,47 +120,47 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1790877873518-2",
-    "title": "Марине Абрамович исполняется 80 лет, и она все еще не уходит: «Работа делает мой день»",
-    "source": "Artnet News",
-    "category": "Market",
+    "id": "Hyperallergic-1790893443650-0",
+    "title": "Сайра Левенсон возглавит проект Yaddo Artist Residency",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
     "date": "1 окт. 2026 г.",
-    "summary": "На фоне шквала новых выставок и гастрольного перформанса художник выпускает новую книгу «Длинная жизнь, короткие рассказы.« Сообщение Марине Абрамович исполняется 80 лет, и она все еще не уходит: «Работа делает мой день» впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/art-world/marina-abramovic-rizzoli-book-2817804",
-    "imageURL": null
+    "summary": "Энн Темкинс уходит из MoMA, Роуз Б. Симпсон получает награду мэра Санта-Фе, Рой Лихтенштейн x Алекс да Корте и многое другое в области художественных движений.",
+    "url": "https://hyperallergic.com/cyra-levenson-to-lead-yaddo-artist-residency/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/2024_CLGI_Headshot_CL1820BW.jpg"
   },
   {
-    "id": "Artnet News-1790877875030-3",
-    "title": "Окончательная работа Колдера наконец-то была восстановлена. Цена: $ 12 МЛН.",
-    "source": "Artnet News",
-    "category": "Market",
+    "id": "Hyperallergic-1790893445266-1",
+    "title": "Художники чествуют иммигрантов в памятниках по всему Нью-Джерси",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
     "date": "1 окт. 2026 г.",
-    "summary": "Плюс: бесплатные музеи Великобритании останутся бесплатными, игра Bloomsbury Group и другие вопросы мира искусства. Финальная работа Колдера наконец-то восстановлена. The Price: $ 12M appeared first on Artnet News.",
-    "url": "https://news.artnet.com/artnet-bulletin/alexander-calders-final-work-has-finally-been-restored-the-price-12-million-2817822",
-    "imageURL": null
+    "summary": "Новые публичные заказы художников Мишель Анджелы Ортис, Чата Травиесо и Иммануэля Они являются частью инициативы «Памятники миграции и труда Нью-Джерси».",
+    "url": "https://hyperallergic.com/artists-honor-immigrants-in-monuments-across-new-jersey/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Ortiz_Carriers-of-Light-and-Labor_2026-71_Photo-Steve-Weinik.jpg"
   },
   {
-    "id": "Artnet News-1790877876607-4",
-    "title": "Как Люси Додд превратила шотландский торф в краску для своих самых мрачных работ",
-    "source": "Artnet News",
-    "category": "Market",
+    "id": "Hyperallergic-1790893446791-2",
+    "title": "Падение свободы возвращается с сотнями художественных акций против Трампа",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
     "date": "1 окт. 2026 г.",
-    "summary": "Прочный пейзаж рядом с ее новой студией породил удивительные абстракции. Сообщение о том, как Люси Додд превратила шотландский торф в краску для своих самых темных работ, впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/art-world/lucy-dodd-spruth-magers-2817930",
-    "imageURL": null
+    "summary": "В этом году в линейке находятся публичные произведения искусства и мастер-классы по созданию зине, объединяющие художников и культурные организации против все более авторитарной администрации.",
+    "url": "https://hyperallergic.com/fall-of-freedom-returns-with-hundreds-of-anti-trump-art-actions/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/BillieHolidaysPhiladelphiaWalkingTour-AttucksHotel-November222025.jpg"
   },
   {
-    "id": "Artnet News-1790877878127-5",
-    "title": "Мраморная скульптура мастера барокко найдена на спасательном дворе в Великобритании",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "30 сент. 2026 г.",
-    "summary": "Макет был куплен за ничтожную сумму в £ 300, прежде чем он был приписан. Сообщение Marble Sculpture by Baroque Master Found at U.K. Salvage Yard впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/art-world/pietro-bracci-pope-clement-xii-2818087",
-    "imageURL": null
+    "id": "Hyperallergic-1790893448469-3",
+    "title": "Забытый черный архитектор, создавший знаменитый Смитсоновский музей",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "1 окт. 2026 г.",
+    "summary": "Макс Бонд-младший, который лоббировал и участвовал в создании Национального музея афроамериканской истории и культуры в Вашингтоне, заслуживает большего места в истории.",
+    "url": "https://hyperallergic.com/the-overlooked-black-architect-who-shaped-a-landmark-smithsonian-museum/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-605483026.jpg"
   },
   {
-    "id": "Hyperallergic-1790877879738-0",
+    "id": "Hyperallergic-1790893450123-4",
     "title": "Ребекка Несс претендует на историю искусства",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/IMG_0196.jpg"
   },
   {
-    "id": "Hyperallergic-1790877881361-1",
+    "id": "Hyperallergic-1790893451752-5",
     "title": "Возможности в октябре 2026 года",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,47 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Four-Dancers-1.jpeg"
   },
   {
-    "id": "Hyperallergic-1790877882870-2",
-    "title": "Пробные рисунки Элис Нил эпохи Маккарти выставлены на аукцион",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "1 окт. 2026 г.",
-    "summary": "Художник-коммунист изобразил судебные процессы на площади Фоли в 1949-1951 годах во время работы в марксистском журнале.",
-    "url": "https://hyperallergic.com/alice-neels-mccarthy-era-trial-drawings-go-to-auction/",
-    "imageURL": null
-  },
-  {
-    "id": "Hyperallergic-1790877884393-3",
-    "title": "Музей-студия новых книжных хроник в 58-летней истории Гарлема",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "1 окт. 2026 г.",
-    "summary": "Среди авторов есть такие художники, как Дауд-бей, который писал, что почитаемое заведение «изменило форму моей жизни».",
-    "url": "https://hyperallergic.com/new-book-chronicles-studio-museum-in-harlems-58-year-history/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/144-West-125th-St.-Ground-Breaking-2.jpg"
-  },
-  {
-    "id": "Hyperallergic-1790877885963-4",
-    "title": "На октябрьском месячнике печатных изданий и рисунков IFPDA музеи спокойно переосмысливают то, что относится к работе на бумаге",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "1 окт. 2026 г.",
-    "summary": "Посещайте сеансы печати и рисования лично и онлайн с LACMA, The Met и другими в течение октября.",
-    "url": "https://hyperallergic.com/at-ifpdas-october-prints-drawings-month-museums-are-quietly-rethinking-where-works-on-paper-belong/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/1.-Durer-Saint-Jerome.jpg"
-  },
-  {
-    "id": "Hyperallergic-1790877887500-5",
-    "title": "Искусство Таро предсказывает роковое падение",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "1 окт. 2026 г.",
-    "summary": "Насыщенный событиями сезон в мире искусства, Джоанна Хедва сдается космосу, циклам истории Деррианн Фарр и другим историям.",
-    "url": "https://hyperallergic.com/the-art-tarot-predicts-a-fateful-fall/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/1200La-hija-de-los-danzantes--The-daughter-of-the-dancers---1933.jpg"
-  },
-  {
-    "id": "NFT Culture-1790877889355-0",
+    "id": "NFT Culture-1790893453462-0",
     "title": "Упакованная NFT-культура Coinbase: когда биржи вступают в ритуалы физического разрыва",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/Coinbase_Packed_NFT_culture_featured_header.jpg"
   },
   {
-    "id": "NFT Culture-1790877891090-1",
+    "id": "NFT Culture-1790893455123-1",
     "title": "Эксплойт PaymentProcessorV2: спасение 0xQuit и что делать коллекционерам",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/PaymentProcessorV2_exploit_0xQuit_rescue.jpg"
   },
   {
-    "id": "NFT Culture-1790877892634-2",
+    "id": "NFT Culture-1790893456602-2",
     "title": "От двора до Coinbase: передача культуры Phygital",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/From_Courtyard_to_Packed_featured_header.jpg"
   },
   {
-    "id": "NFT Culture-1790877894249-3",
+    "id": "NFT Culture-1790893458154-3",
     "title": "Забытые утверждения на рынке - это проблема культуры цифрового владения",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/Forgotten_Approvals_featured_header.jpg"
   },
   {
-    "id": "NFT Culture-1790877895888-4",
+    "id": "NFT Culture-1790893459744-4",
     "title": "Art Basel Zero 10: когда цифровое искусство получает справедливую инфраструктуру",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/Art_Basel_Zero_10_featured_header.jpg"
   },
   {
-    "id": "NFT Culture-1790877897548-5",
+    "id": "NFT Culture-1790893461538-5",
     "title": "Временные музеи: что означает цифровая собственность, когда платформы кратковременно удерживают культуру",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/Temporary_Museums_featured_header.jpg"
   },
   {
-    "id": "NFT Now-1790877900237-0",
+    "id": "NFT Now-1790893464384-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1790877901950-1",
+    "id": "NFT Now-1790893466185-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1790877903680-2",
+    "id": "NFT Now-1790893467986-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1790877905541-3",
+    "id": "NFT Now-1790893470023-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1790877907241-4",
+    "id": "NFT Now-1790893471746-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1790877909021-5",
+    "id": "NFT Now-1790893473522-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1790877910845-0",
+    "id": "Cointelegraph NFT-1790893475210-0",
     "title": "Magic Eden Scare помещает 3832 NFT в защитное хранилище whitehat",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790877912479-1",
+    "id": "Cointelegraph NFT-1790893476788-1",
     "title": "Трамп обошелся инвесторам в $ 4,7 млрд через криптовалютные «схемы»: Public Citizen",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790877914106-2",
+    "id": "Cointelegraph NFT-1790893478356-2",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790877915723-3",
+    "id": "Cointelegraph NFT-1790893479961-3",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790877917245-4",
+    "id": "Cointelegraph NFT-1790893481463-4",
     "title": "Как Fake World Assets и onchain gacha стали последним увлечением криптовалют",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1790877918845-5",
+    "id": "Cointelegraph NFT-1790893483035-5",
     "title": "Объем рынка предсказаний на основе блокчейна на чемпионате мира составил $ 20 млрд: Chainalysis",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,7 +360,27 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/hi-nft-at-the-fifa-world-cup-1.png"
   },
   {
-    "id": "CoinDesk-1790877920108-0",
+    "id": "CoinDesk-1790893484774-0",
+    "title": "SEC предлагает новые правила крипто-депозитария для инвестиционных консультантов и фондов",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "1 окт. 2026 г.",
+    "summary": "Регулятор выпустил предлагаемое правило для опеки, отметив лебединую песню для своего инаугурационного главы Crypto Task Force, комиссара Хестера Пирса, который уходит на этой неделе.",
+    "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1790893486347-1",
+    "title": "Еще один ужин Trump Memecoin, рекламируемый для ведущих инвесторов токенов",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "1 окт. 2026 г.",
+    "summary": "Компания, управляющая мемокоином, называет ноябрьское мероприятие «самым эксклюзивным ужином в мире».",
+    "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1790893487330-2",
     "title": "Crypto for Advisors: Закон о ЯСНОСТИ потерпел неудачу, но правила все равно появились",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -370,33 +390,13 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1790877922161-1",
+    "id": "CoinDesk-1790893488922-3",
     "title": "NEAR Intents пострадали от эксплойта на $ 3,8 млн, поскольку бурный год взломов криптовалют продолжается",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "1 окт. 2026 г.",
     "summary": "Популярная кросс-цепочная торговая система заявила, что возместит убытки после того, как ошибка повлияла на депозиты и снятие средств в нескольких сетях.",
     "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
-    "imageURL": null
-  },
-  {
-    "id": "CoinDesk-1790877923799-2",
-    "title": "Обновления в реальном времени: Биткойн публикует предварительную прибыль, поскольку ставки падают в преддверии пятничного отчета о рабочих местах",
-    "source": "CoinDesk",
-    "category": "Blockchain",
-    "date": "1 окт. 2026 г.",
-    "summary": "Евро теряет позиции по сравнению с долларом, поскольку растущая доходность французских облигаций оживляет воспоминания о европейском кризисе суверенного долга.",
-    "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
-    "imageURL": null
-  },
-  {
-    "id": "CoinDesk-1790877925661-3",
-    "title": "Иллинойс соглашается на шестимесячную отсрочку налога на криптовалюты, поскольку индустрия продолжает судебную тяжбу",
-    "source": "CoinDesk",
-    "category": "Blockchain",
-    "date": "1 окт. 2026 г.",
-    "summary": "Обе стороны согласились с тем, что налог в размере 0,2% должен быть отложен до 1 июля, если суд одобрит сделку, что позволит государству и отрасли сосредоточиться на юридическом споре.",
-    "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
     "imageURL": null
   }
 ]
