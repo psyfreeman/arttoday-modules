@@ -1,6 +1,56 @@
 [
   {
-    "id": "ARTnews-1791309488369-0",
+    "id": "ARTnews-1791325412813-0",
+    "title": "Фонд Захи Хадид вновь открывает бывшую штаб-квартиру покойного архитектора как общественное пространство для искусства",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "6 окт. 2026 г.",
+    "summary": "10 Bowling Green Lane вновь откроется выставкой «Заха Хадид: архитектура перформанса».",
+    "url": "https://www.artnews.com/art-news/news/zaha-hadid-foundation-reopening-headquarters-exhibition-1234801315/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1791325414611-1",
+    "title": "Цюрихский дилер Ева Презенхубер закрывает «сентиментальную» галерею в Вене",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "6 окт. 2026 г.",
+    "summary": "Уважаемый дилер сказал, что в ее офисах в Цюрихе «все в порядке», но галерея в Вене, которую она открыла по прихоти, была слишком дорогой в обслуживании.",
+    "url": "https://www.artnews.com/art-news/market/eva-presenhuber-vienna-gallery-closing-1234801295/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/10/2026_Exh.View_BULLOCH_GEP_Wien_22.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1791325416393-2",
+    "title": "«Джоди», недавно отчеканенный нанотиранус Sotheby's, попал в аукционный блок с оценкой $ 9 M.",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "6 окт. 2026 г.",
+    "summary": "Согласно заявлению Sotheby's, «Jodi» является одним из трех известных образцов Nanotyrannus.",
+    "url": "https://www.artnews.com/art-news/news/jodi-sothebys-dinosaur-skeleton-nanotyrannus-auction-1234801271/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1791325418005-3",
+    "title": "Абстракции Марты Джангвирт анимируют коллекцию AKRIS's Spring 2026",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "6 окт. 2026 г.",
+    "summary": "Хотя сама Юнгвирт остается в стороне от внимания, ее кисть была повсюду на недавней взлетно-посадочной полосе.",
+    "url": "https://www.artnews.com/art-news/news/martha-jungwirth-akris-spring-2026-collection-1234801256/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1791325419712-4",
+    "title": "Художественный музей Феникса получил $ 5 млн на расширение художественных галерей Шри-Ланки и Южной Азии",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "6 окт. 2026 г.",
+    "summary": "Дар филантропа Сукумара Нагендрана также поддержит приобретения, научные исследования и общественные программы по искусству Шри-Ланки.",
+    "url": "https://www.artnews.com/art-news/news/phoenix-art-museum-sukumar-nagendran-donation-1234801217/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1791325421488-5",
     "title": "Государственный Русский музей отреставрировал морскую живопись Ивана Айвазовского в преддверии масштабной ретроспективы",
     "source": "ARTnews",
     "category": "Market",
@@ -10,57 +60,27 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1791309490088-1",
-    "title": "Новый музей объявляет 36 художников и коллективов для предстоящей триеннале, в том числе Вирджиния Чихота, Мэнди Эль-Сайег, Джози, Хота Момбаса и Агнес Вопросительный знак",
-    "source": "ARTnews",
+    "id": "Artnet News-1791325423385-0",
+    "title": "Переходит ли арт-рынок от хайпа к истории? Этот дилер так считает",
+    "source": "Artnet News",
     "category": "Market",
     "date": "6 окт. 2026 г.",
-    "summary": "Согласно релизу, представленные художники родом из 34 стран, или «самое широкое международное представительство на Триеннале Нового музея на сегодняшний день».",
-    "url": "https://www.artnews.com/art-news/news/new-museum-triennial-2027-artist-list-1234801235/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/10/6-Virginia-Chihota.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1791309491936-2",
-    "title": "Коллекционер произведений искусства Бет Рудин DeWoody Lists Upper East Side Co-Op за $ 12 млн.",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "6 окт. 2026 г.",
-    "summary": "Это второй раз, когда она разместила квартиру в Нью-Йорке с 2018 года; ранее она сняла ее с продажи в 2020 году.",
-    "url": "https://www.artnews.com/art-news/news/beth-rudin-dewoody-upper-east-side-co-op-hits-the-market-1234801219/",
+    "summary": "Dotahn Pissarro-Stern of Stern Pissarro Gallery о том, почему изнурительный ярмарочный календарь может подтолкнуть коллекционеров к именам, которым они уже доверяют. The post Переходит ли арт-рынок от хайпа к истории? Этот дилер думает так впервые появился в Artnet News.",
+    "url": "https://news.artnet.com/art-world/stern-pissarro-gallery-2817921",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1791309493581-3",
-    "title": "Бронзовая обложка книги Livre de l'Apocalypse, созданная Дали и украденная из французского музея",
-    "source": "ARTnews",
+    "id": "Artnet News-1791325425150-1",
+    "title": "Вкус к токсинам: Кенни Шахтер о ядовитом рае Зигмара Польке и патологии нормальности",
+    "source": "Artnet News",
     "category": "Market",
     "date": "6 окт. 2026 г.",
-    "summary": "Сюрреалистическое произведение искусства было создано в сотрудничестве с 14 художниками и писателями в период с 1958 по 1961 год, но только его внутренние пергаменты были сохранены.",
-    "url": "https://www.artnews.com/art-news/news/dali-designed-bronze-apocalypse-book-cover-stolen-in-france-1234801226/",
+    "summary": "«Да, мои работы хранятся в музеях, но мне все равно, развалятся ли кусочки через 20 лет», - однажды сказал художник-трикстер. Сообщение A Taste for Toxins: Kenny Schachter on Sigmar Polke's Poison Paradise and the Pathology of Normalcy впервые появилось на Artnet News.",
+    "url": "https://news.artnet.com/art-world/sigmar-polke-kenny-schachter-2820505",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1791309495272-4",
-    "title": "Бронзовая обложка книги откровений Дали, украденная из французского музея, Sotheby's на аукционе Nanotyrannus Fossil и многое другое: утренние ссылки на 6 октября 2026 года",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "6 окт. 2026 г.",
-    "summary": "Вот что мы читаем сегодня утром.",
-    "url": "https://www.artnews.com/art-news/news/morning-links-october-6-2026-1234801213/",
-    "imageURL": null
-  },
-  {
-    "id": "ARTnews-1791309496825-5",
-    "title": "Что купили лучшие в мире коллекционеры в 2026 году: от картины Пьеты XV века до весла из британского павильона Лубайны Химид",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "6 окт. 2026 г.",
-    "summary": "Топ-200 как никогда активны.",
-    "url": "https://www.artnews.com/list/art-news/news/top-200-collectors-2026-art-purchases-1234800474/",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1791309498481-0",
+    "id": "Artnet News-1791325426942-2",
     "title": "Лут-эльорс! Обложка книги Дали украдена из французского музея",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1791309499983-1",
+    "id": "Artnet News-1791325428546-3",
     "title": "Вперед! Филип Тинари получает лучшую работу в Tai Kwun Arts",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1791309501612-2",
+    "id": "Artnet News-1791325430378-4",
     "title": "Новая музейная триеннале возвращается - и она более интернациональна, чем когда-либо",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1791309503149-3",
+    "id": "Artnet News-1791325432021-5",
     "title": "«Люди были в ужасе»: как скульптура Брюса Наумана потрясла Даллас",
     "source": "Artnet News",
     "category": "Market",
@@ -100,87 +120,67 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1791309504867-4",
-    "title": "Guerrilla Art Project реагирует на дело «Корнелл 7»",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "6 окт. 2026 г.",
-    "summary": "Кроме того, неудачное ограбление в парижском музее, Дэмиен Херст сотрудничает с роскошным кашемировым брендом и другие вопросы мира искусства. The post Guerrilla Art Project Responds to ‘Cornell 7’ Case appeared first on Artnet News.",
-    "url": "https://news.artnet.com/artnet-bulletin/guerrilla-art-project-responds-to-cornell-7-case-2819926",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1791309506344-5",
-    "title": "Британский музей извинился перед гобеленом Байё за критику",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "5 окт. 2026 г.",
-    "summary": "У блокбастера был трудный старт. Сообщение British Museum Apologizes as Bayeux Tapestry Show Faces Criticism впервые появилось в Artnet News.",
-    "url": "https://news.artnet.com/art-world/british-museum-bayeux-tapestry-problems-2820173",
-    "imageURL": null
-  },
-  {
-    "id": "Hyperallergic-1791309508182-0",
-    "title": "Это художники на триеннале Нового музея 2027 года",
+    "id": "Hyperallergic-1791325433967-0",
+    "title": "Неделя художественных чтений для запрещенных книг",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "6 окт. 2026 г.",
-    "summary": "В шоу примут участие 36 художников и коллективов, представляющих 34 страны, что делает его самым международным изданием на сегодняшний день.",
-    "url": "https://hyperallergic.com/these-are-the-artists-in-the-2027-new-museum-triennial/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/5-Agnes-Questionmark.jpg"
+    "summary": "Роль Дж. М. У. Тернера в работорговле, журналы и гравюры с Нью-Йоркской ярмарки художественных книг и книги, которые мы читаем прямо сейчас.",
+    "url": "https://hyperallergic.com/art-reads-for-banned-books-week/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/IMG_7090.jpg"
   },
   {
-    "id": "Hyperallergic-1791309509750-1",
-    "title": "Триумфальная дань латинской визуальной культуре",
+    "id": "Hyperallergic-1791325435816-1",
+    "title": "MoMA помогает «продезинфицировать» репутацию Леона Блэка, говорят протестующие",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "6 окт. 2026 г.",
-    "summary": "Сорок шесть организаций продемонстрировали журналы, академические книги, текстиль и произведения искусства, некоторые из которых даже были сделаны в режиме реального времени, на третьем издании La Feria от The Latinx Project.",
-    "url": "https://hyperallergic.com/a-triumphant-tribute-to-latine-visual-culture/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/LaForce_table_next_to_LuisCarle_and_CeciliaMandrile.jpg"
+    "summary": "Сегодня группы активистов собрались на акцию возле музея, где Блэк все еще является членом совета директоров, несмотря на усиление контроля над его связями с Джеффри Эпштейном.",
+    "url": "https://hyperallergic.com/moma-helping-sanitize-leon-blacks-reputation-protesters-say/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/IMG_4017.jpg"
   },
   {
-    "id": "Hyperallergic-1791309511286-2",
-    "title": "Независимая художественная ярмарка, приобретенная Британским конгломератом",
+    "id": "Hyperallergic-1791325437634-2",
+    "title": "«Мышление из черного» - это глоссарий возможностей",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "6 окт. 2026 г.",
-    "summary": "Новость о том, что шоу было приобретено Informa в 2025 году, появилась после скандального дебюта шоу в знаковом здании Breuer.",
-    "url": "https://hyperallergic.com/independent-art-fair-purchased-by-british-conglomerate/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2297634959.jpg"
+    "summary": "Художники, поэты и ученые обдумывают слова по своему выбору в этой книге, предлагая новые определения фраз, из которых распространяется чернота: «мир», «вода», «забота».",
+    "url": "https://hyperallergic.com/thinking-from-black-is-a-glossary-of-possibility/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Gabrielle-Goliath_Elegy---for-two-ancestors_2024_performance_La-Biennale-di-Venezia_Sale-d---Armi_Venice_photo-by-J-Macdonald_4-1.JPG"
   },
   {
-    "id": "Hyperallergic-1791309513052-3",
-    "title": "Откройте для себя Карла Спринчорна в двух музеях штата Мэн этой осенью",
+    "id": "Hyperallergic-1791325439436-3",
+    "title": "О заботе друг о друге",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "6 окт. 2026 г.",
-    "summary": "Музей американского искусства Огунквита и Музей искусств Колледжа Бейтса рассказывают о жизни и творчестве непризнанного современного художника Карла Спринчорна.",
-    "url": "https://hyperallergic.com/discover-carl-sprinchorn-at-two-maine-museums-this-fall/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/Plate128_Blue-Ice-Forest---Shin-Pond--Maine.jpg"
+    "summary": "Забастовки предотвращены в четырех музеях Нью-Йорка, опустошительная потеря Фрэнсиса Ли Роджерса, город удваивает гранты художников и захватывающее шоу Метрополитен-музея Краснера-Поллока.",
+    "url": "https://hyperallergic.com/on-taking-care-of-each-other/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/pk1--1--2.jpg"
   },
   {
-    "id": "Hyperallergic-1791309514791-4",
-    "title": "Смелые новые книги по искусству и визуальной культуре от MIT PRESS",
+    "id": "Hyperallergic-1791325441088-4",
+    "title": "Гипераллергический Хэллоуин",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "6 окт. 2026 г.",
-    "summary": "От активистского искусства и транс-эстетики до лоурайдеров, глобальной культуры скейтбординга и дальновидного видения экранной эпохи Вилема Флюссера.",
-    "url": "https://hyperallergic.com/bold-new-books-in-art-and-visual-culture-from-the-mit-press/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/09/MITP-Hyperallergic-ad.jpg"
+    "summary": "​Присоединяйтесь к нам 28 октября в Бруклине, штат Нью-Йорк, на вечер жутких коктейлей, дьявольских изысков, конкурса костюмов на тему искусства и многого другого.",
+    "url": "https://hyperallergic.com/hyperallergic-halloween-october-2026/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/HA-Halloween-Landscape-16x9.png"
   },
   {
-    "id": "Hyperallergic-1791309516345-5",
-    "title": "Ли Краснер получает последнее слово",
+    "id": "Hyperallergic-1791325442871-5",
+    "title": "Айе А. Атон возвращается к своим земным корням",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "6 окт. 2026 г.",
-    "summary": "Люси Айвз рассматривает шоу The Met's Krasner-Pollock, главный редактор Хаким Бишара берет интервью у уходящего президента Yaddo Элайны Ричардсон и художника Аруны Д 'Сузы Раны Бегум.",
-    "url": "https://hyperallergic.com/lee-krasner-gets-the-last-word/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/lee-krasner-nl.jpg"
+    "summary": "Бывший перкуссионист группы Sun Ra's обратился к искусству в самостоятельном исследовании визуальной культуры Западной и Центральной Африки.",
+    "url": "https://hyperallergic.com/aye-a-aton-returns-to-his-earthly-roots/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/IMG_7-1-1.jpg"
   },
   {
-    "id": "NFT Culture-1791309518211-0",
+    "id": "NFT Culture-1791325445067-0",
     "title": "Арт-блоки Marfa Weekend 2026: расписание, RSVP и что посмотреть",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/art-blocks-marfa-weekend-2026-featured.jpg"
   },
   {
-    "id": "NFT Culture-1791309519849-1",
+    "id": "NFT Culture-1791325446853-1",
     "title": "→ Заявления о кредитах Джека Мясника: что нужно знать коллекционерам",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/Jack_Butcher_Credits_Statements_collage.jpg"
   },
   {
-    "id": "NFT Culture-1791309521580-2",
+    "id": "NFT Culture-1791325448509-2",
     "title": "Упакованная NFT-культура Coinbase: когда биржи вступают в ритуалы физического разрыва",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/Coinbase_Packed_NFT_culture_featured_header.jpg"
   },
   {
-    "id": "NFT Culture-1791309523907-3",
+    "id": "NFT Culture-1791325450338-3",
     "title": "Эксплойт PaymentProcessorV2: спасение 0xQuit и что делать коллекционерам",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/PaymentProcessorV2_exploit_0xQuit_rescue.jpg"
   },
   {
-    "id": "NFT Culture-1791309525867-4",
+    "id": "NFT Culture-1791325452041-4",
     "title": "От двора до Coinbase: передача культуры Phygital",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/From_Courtyard_to_Packed_featured_header.jpg"
   },
   {
-    "id": "NFT Culture-1791309527459-5",
+    "id": "NFT Culture-1791325453716-5",
     "title": "Забытые утверждения на рынке - это проблема культуры цифрового владения",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/09/Forgotten_Approvals_featured_header.jpg"
   },
   {
-    "id": "NFT Now-1791309530439-0",
+    "id": "NFT Now-1791325456643-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1791309532174-1",
+    "id": "NFT Now-1791325458470-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1791309533870-2",
+    "id": "NFT Now-1791325460313-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1791309535645-3",
+    "id": "NFT Now-1791325462368-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1791309537267-4",
+    "id": "NFT Now-1791325464268-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1791309539025-5",
+    "id": "NFT Now-1791325466166-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1791309540895-0",
+    "id": "Cointelegraph NFT-1791325468086-0",
     "title": "Blast сворачивает Ethereum L2 после того, как затраты опережают доходы",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png"
   },
   {
-    "id": "Cointelegraph NFT-1791309542573-1",
+    "id": "Cointelegraph NFT-1791325470066-1",
     "title": "«Дальнемагистральный» проект Porsche Web3 заканчивается менее чем через четыре года",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1791309544146-2",
+    "id": "Cointelegraph NFT-1791325471791-2",
     "title": "Magic Eden Scare помещает 3832 NFT в защитное хранилище whitehat",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1791309545787-3",
+    "id": "Cointelegraph NFT-1791325473544-3",
     "title": "Трамп обошелся инвесторам в $ 4,7 млрд через криптовалютные «схемы»: Public Citizen",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1791309547384-4",
+    "id": "Cointelegraph NFT-1791325475335-4",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1791309548999-5",
+    "id": "Cointelegraph NFT-1791325477091-5",
     "title": "Proof of Play закрывается после того, как тезис о блокчейн-играх не оправдывает ожиданий",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,7 +360,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/nft-gaming-entertainment-ecosystem.jpg"
   },
   {
-    "id": "CoinDesk-1791309550988-0",
+    "id": "CoinDesk-1791325479008-0",
     "title": "Фонд основателей, поддерживаемый Питером Тилем, возглавляет покупку токенов на $ 5 млн в крипто-залоговом протоколе Anvil",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -370,7 +370,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1791309552605-1",
+    "id": "CoinDesk-1791325480865-1",
     "title": "Криптовалюта расширяет границы того, что может быть оценено",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -380,7 +380,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1791309554266-2",
+    "id": "CoinDesk-1791325482733-2",
     "title": "OKX привлекает инвестиции от StanChart, Circle, Ripple, поскольку выходит за рамки криптобирж",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -390,7 +390,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1791309556039-3",
+    "id": "CoinDesk-1791325484607-3",
     "title": "Arbitrum присоединяется к группе стейблкоинов Global Dollar, возглавляемой Paxos, чтобы зафиксировать рост цифрового доллара",
     "source": "CoinDesk",
     "category": "Blockchain",
