@@ -1,6 +1,16 @@
 [
   {
-    "id": "ARTnews-1792855531782-0",
+    "id": "ARTnews-1792925629304-0",
+    "title": "Способ работы Валида Раада вдохновлен зеркалами в фильмах о вампирах",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "25 окт. 2026 г.",
+    "summary": "Его работы на Венецианской биеннале и в других местах превращают отсутствие истории в произведения искусства.",
+    "url": "https://www.artnews.com/art-in-america/features/walid-raad-icons-venice-biennale-paula-cooper-1234803667/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/10/WR-123-PRT_composite.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1792925630977-1",
     "title": "В исторической ошибке Wu-Tang Clan продал альбом как уникальное произведение искусства - новый док рассказывает историю архитектора продажи",
     "source": "ARTnews",
     "category": "Market",
@@ -10,7 +20,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/10/The_Disciple_Cilvaringz.jpg?w=400"
   },
   {
-    "id": "ARTnews-1792855533428-1",
+    "id": "ARTnews-1792925632589-2",
     "title": "Ценные картины Моне в Центре художественного музея Милуоки и пари Мировой серии МИД Санкт-Петербурга",
     "source": "ARTnews",
     "category": "Market",
@@ -20,7 +30,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1792855535041-2",
+    "id": "ARTnews-1792925634173-3",
     "title": "Памятник поднятию флага Иводзимы возле Куантико разрушен вандалами",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +40,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1792855536642-3",
+    "id": "ARTnews-1792925635741-4",
     "title": "Художественный дуэт Brognon Rollin получил главный приз Франции в области искусства - премию Марселя Дюшана 2026 года",
     "source": "ARTnews",
     "category": "Market",
@@ -40,7 +50,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1792855538376-4",
+    "id": "ARTnews-1792925637421-5",
     "title": "Министерство культуры Кореи проведет аудит бывшего директора Национального музея",
     "source": "ARTnews",
     "category": "Market",
@@ -50,17 +60,7 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1792855539935-5",
-    "title": "Пол Стэнкард, известный художник по стеклянному пресс-папье, умер в 83 года",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "23 окт. 2026 г.",
-    "summary": "Его работы находятся в коллекциях таких учреждений, как Музей искусств Метрополитен и Музей Виктории и Альберта.",
-    "url": "https://www.artnews.com/art-news/news/paul-stankard-dead-glass-paperweight-artist-1234803701/",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1792855541825-0",
+    "id": "Artnet News-1792925639120-0",
     "title": "Sales Were Brisk Inside Art Basel Paris‘s ‘Big Glass Bubble. «Затем наступило отключение",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +70,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1792855543383-1",
+    "id": "Artnet News-1792925640660-1",
     "title": "Парижские ярмарки искусств и музеи закрываются на фоне протестов",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +80,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1792855545013-2",
+    "id": "Artnet News-1792925642323-2",
     "title": "Ибрагим Махама возрождает прошлое, чтобы построить другое будущее",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1792855546534-3",
+    "id": "Artnet News-1792925643968-3",
     "title": "Интимная галерея, приносящая британское искусство домой",
     "source": "Artnet News",
     "category": "Market",
@@ -100,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1792855548186-4",
+    "id": "Artnet News-1792925645611-4",
     "title": "Барбара Хепуорт доминирует на британской и ирландской арт-вечерней распродаже Christie's стоимостью $ 30 МЛН",
     "source": "Artnet News",
     "category": "Market",
@@ -110,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1792855549689-5",
+    "id": "Artnet News-1792925647150-5",
     "title": "5 захватывающих произведений искусства и шоу от пьянящего Fraught Art Basel Paris",
     "source": "Artnet News",
     "category": "Market",
@@ -120,7 +120,17 @@
     "imageURL": null
   },
   {
-    "id": "Hyperallergic-1792855551466-0",
+    "id": "Hyperallergic-1792925649097-0",
+    "title": "Художники выходят на улицы на фоне массовых протестов во Франции",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "24 окт. 2026 г.",
+    "summary": "Десятки тысяч людей собрались в Порт-д'Италия в Париже на марш, частично возглавляемый коалициями культурного сектора, требующими лучшей жизни для художников.",
+    "url": "https://hyperallergic.com/artists-take-to-the-streets-amid-massive-protests-in-france/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2301256119--1-.jpg"
+  },
+  {
+    "id": "Hyperallergic-1792925650854-1",
     "title": "Это классовая война",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +140,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/class-war.jpg"
   },
   {
-    "id": "Hyperallergic-1792855553129-1",
+    "id": "Hyperallergic-1792925652398-2",
     "title": "Портрет Парижской недели искусств в огне",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,7 +150,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/abp1.jpg"
   },
   {
-    "id": "Hyperallergic-1792855554705-2",
+    "id": "Hyperallergic-1792925654075-3",
     "title": "Как искусство может обеспечить беженцам справедливость",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,7 +160,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/Enayet-Khan-Woman.jpg"
   },
   {
-    "id": "Hyperallergic-1792855556391-3",
+    "id": "Hyperallergic-1792925655786-4",
     "title": "Война с искусством повторяется",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -160,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/5-MAPPLETHORPE.jpg"
   },
   {
-    "id": "Hyperallergic-1792855558035-4",
+    "id": "Hyperallergic-1792925657373-5",
     "title": "Кид Кади напишет сценарий, снимет и сыграет Баскию в новом биографическом фильме",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -170,17 +180,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/image.jpg"
   },
   {
-    "id": "Hyperallergic-1792855559639-5",
-    "title": "Центр не может провести на биеннале в Торонто",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "23 окт. 2026 г.",
-    "summary": "Это провокационное и дискурсивное исследование того, как художники реагируют на нашу позднекапиталистическую эпоху, но его сосредоточенность на «разрыве» вызывает вопросы.",
-    "url": "https://hyperallergic.com/the-center-cannot-hold-at-the-toronto-biennial/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/TBA_Wen-Liu-at-UTAC_06_detail-Web.jpg"
-  },
-  {
-    "id": "NFT Culture-1792855561497-0",
+    "id": "NFT Culture-1792925659241-0",
     "title": "Карточки Mudwater BAYC: как работает заявка на упаковку",
     "source": "NFT Culture",
     "category": "NFT",
@@ -190,7 +190,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/mudwater-bayc-featured.jpg"
   },
   {
-    "id": "NFT Culture-1792855563022-1",
+    "id": "NFT Culture-1792925660770-1",
     "title": "Blur Shutdown: что NFT-коллекторы должны сделать до 12 ноября",
     "source": "NFT Culture",
     "category": "NFT",
@@ -200,7 +200,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/Blur_shutdown_featured_collage.jpg"
   },
   {
-    "id": "NFT Culture-1792855564603-2",
+    "id": "NFT Culture-1792925662301-2",
     "title": "Browser as Gallery: Rhizome Net Art at 30 и ВЕБ-САЙТЫ ВЕБ-САЙТОВ!",
     "source": "NFT Culture",
     "category": "NFT",
@@ -210,7 +210,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/Rhizome_net_art_featured_collage_WWW_ArtBase_Chromie_Squiggle.jpg"
   },
   {
-    "id": "NFT Culture-1792855566134-3",
+    "id": "NFT Culture-1792925663889-3",
     "title": "За голубыми фишками: Azuki Beyond the PFP — манга, TCG и брендовые миры",
     "source": "NFT Culture",
     "category": "NFT",
@@ -220,7 +220,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/Azuki_manga_NFT_brand_featured_collage.jpg"
   },
   {
-    "id": "NFT Culture-1792855567687-4",
+    "id": "NFT Culture-1792925665439-4",
     "title": "SuperRare Unfinished Past: NFT с 7-летней памятью от Dalos",
     "source": "NFT Culture",
     "category": "NFT",
@@ -230,7 +230,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/SuperRare_Unfinished_Past_Dalos_hero_collage.jpg"
   },
   {
-    "id": "NFT Culture-1792855569209-5",
+    "id": "NFT Culture-1792925666966-5",
     "title": "Abstract Chain Shutdown: что теперь делать коллекционерам NFT",
     "source": "NFT Culture",
     "category": "NFT",
@@ -240,7 +240,7 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/10/abstract-chain-shutdown-featured.jpg"
   },
   {
-    "id": "NFT Now-1792855572066-0",
+    "id": "NFT Now-1792925669732-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +250,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1792855573821-1",
+    "id": "NFT Now-1792925671534-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +260,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1792855575546-2",
+    "id": "NFT Now-1792925673288-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +270,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1792855577527-3",
+    "id": "NFT Now-1792925675017-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +280,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1792855579267-4",
+    "id": "NFT Now-1792925676715-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +290,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1792855581018-5",
+    "id": "NFT Now-1792925678453-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +300,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1792855582951-0",
+    "id": "Cointelegraph NFT-1792925680327-0",
     "title": "Blur закрывает свой сайт, так почему же коллекционеры NFT аплодируют?",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +310,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1792855584471-1",
+    "id": "Cointelegraph NFT-1792925681929-1",
     "title": "Blast сворачивает Ethereum L2 после того, как затраты опережают доходы",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +320,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png"
   },
   {
-    "id": "Cointelegraph NFT-1792855586157-2",
+    "id": "Cointelegraph NFT-1792925683666-2",
     "title": "«Дальнемагистральный» проект Porsche Web3 заканчивается менее чем через четыре года",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +330,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1792855587735-3",
+    "id": "Cointelegraph NFT-1792925685394-3",
     "title": "Magic Eden Scare помещает 3832 NFT в защитное хранилище whitehat",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +340,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1792855589322-4",
+    "id": "Cointelegraph NFT-1792925687022-4",
     "title": "Трамп обошелся инвесторам в $ 4,7 млрд через криптовалютные «схемы»: Public Citizen",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +350,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1792855590901-5",
+    "id": "Cointelegraph NFT-1792925688700-5",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,7 +360,17 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "CoinDesk-1792855592605-0",
+    "id": "CoinDesk-1792925690543-0",
+    "title": "Стратегия, стремление балансировать между покупкой биткойнов и дивидендами по привилегированным акциям",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "24 окт. 2026 г.",
+    "summary": "Ценные бумаги профинансировали покупки почти 136 000 биткойнов, открыв канал финансирования, который, как ожидают аналитики, дополнит более крупный рынок ETF.",
+    "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1792925692198-1",
     "title": "Новый голосовой ИИ Блока звучит устрашающе по-человечески, вызывая трепет и страхи перед мошенничеством",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -370,7 +380,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1792855594181-1",
+    "id": "CoinDesk-1792925693770-2",
     "title": "Криптовалюта под давлением выходных, биткоин опустился ниже $ 80 000 на фоне эвакуации с Ближнего Востока в США",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -380,23 +390,13 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1792855595917-2",
+    "id": "CoinDesk-1792925695350-3",
     "title": "Почему McDonalds, Microsoft и Google не говорят «нет» токенизированным акциям",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "24 окт. 2026 г.",
     "summary": "Некоторые из крупнейших в мире компаний возражали против листинга на первой токенизированной площадке для торговли ценными бумагами в рамках исключения SEC для инноваций. Но ранний откат может сказать больше об осторожности эмитента, чем об отказе от самой токенизации.",
     "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-    "imageURL": null
-  },
-  {
-    "id": "CoinDesk-1792855597568-3",
-    "title": "Аргентина прекращает уголовное расследование в отношении президента Милеи из-за обрушившегося мемкоина LIBRA",
-    "source": "CoinDesk",
-    "category": "Blockchain",
-    "date": "24 окт. 2026 г.",
-    "summary": "Судья установил, что продвижение ВЕСОВ Майли не является мошенничеством, несмотря на то, что его поддержка привлекла внимание к маркеру.",
-    "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
     "imageURL": null
   }
 ]
