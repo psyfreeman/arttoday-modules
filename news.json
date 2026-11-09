@@ -1,66 +1,86 @@
 [
   {
-    "id": "ARTnews-1794238023761-0",
-    "title": "Чикагские толпы пытаются переместить фасоль Аниша Капура, арт-адвокат Майкл Уорд Стаут умер, президент Лувра говорит, что переезд Моны Лизы будет печальным, и многое другое",
+    "id": "ARTnews-1794261442154-0",
+    "title": "Обнаружены петроглифы Моава: «Незаменимые культурные ресурсы»",
     "source": "ARTnews",
     "category": "Market",
     "date": "9 нояб. 2026 г.",
-    "summary": "Вот что мы читаем сегодня утром.",
-    "url": "https://www.artnews.com/art-news/news/chicago-crowds-try-and-fail-to-move-anish-kapoors-bean-1234805106/",
+    "summary": "Огромные буквы с надписью «Craig W» теперь покрывают часть петроглифа с изображением животных.",
+    "url": "https://www.artnews.com/art-news/news/moab-petroglyphs-vandalized-utah-1234805350/",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1794238027094-1",
-    "title": "13 лучших музеев Лондона для посещения",
+    "id": "ARTnews-1794261444395-1",
+    "title": "Гетти участвует в первой в истории консервации поврежденной землетрясением церкви 17-го века в Андском нагорье Перу",
     "source": "ARTnews",
     "category": "Market",
     "date": "9 нояб. 2026 г.",
-    "summary": "В многочисленных лондонских музеях, многие из которых бесплатны, представлены одни из лучших коллекций произведений искусства, истории, науки и культуры в мире.",
-    "url": "https://www.artnews.com/list/art-news/artists/best-london-museums-to-visit-1234804828/",
+    "summary": "Церковь Рондокана пострадала от землетрясения, а ее структура и коллекции произведений искусства находятся под угрозой.",
+    "url": "https://www.artnews.com/art-news/news/getty-conservation-earthquake-damaged-church-peru-1234805336/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/Church-of-Santo-Tomas-de-Aquino-Getty-3.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1794261446214-2",
+    "title": "Гала-концерт LACMA «Звездное искусство+пленка» собрал почти $ 7 млн.",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "9 нояб. 2026 г.",
+    "summary": "В этом году лауреатами стали художник Вия Селминс и режиссер Дени Вильнёв, а Розе выступила во время торжеств.",
+    "url": "https://www.artnews.com/list/art-news/news/lacma-2026-art-film-gala-slideshow-1234805207/",
     "imageURL": null
   },
   {
-    "id": "ARTnews-1794238030684-2",
-    "title": "Последняя трапеза в камере смертников - основа исследования искусства тюремного заключения в масштабах всего музея",
+    "id": "ARTnews-1794261448048-3",
+    "title": "Блюда ученого о поиске давно потерянной картины Караваджо в Париже",
     "source": "ARTnews",
     "category": "Market",
-    "date": "7 нояб. 2026 г.",
-    "summary": "С этого момента и до января 2027 года в Художественном музее Гранд-Рапидс проводятся три персональные выставки произведений искусства людей, которые когда-то были заключены в тюрьму в Соединенных Штатах.",
-    "url": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/Gary-Tyler-Rebirth-GRAM-Installation-2.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1794238034675-3",
-    "title": "Как слепота сделала искусство Дорис Сальседо больше и лучше",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "7 нояб. 2026 г.",
-    "summary": "Колумбийская художница потратила три года на создание монументальной структуры из человеческих волос для своего нового шоу в White Cube в Нью-Йорке.",
-    "url": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/DS_Retratos_2026__DSF13321.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1794238038702-4",
-    "title": "Новое арт-пространство Hudson Valley обещает быть таким же доступным, как и в настоящее время",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "6 нояб. 2026 г.",
-    "summary": "Филиал в Катоне, штат Нью-Йорк, открывается 6 ноября выставкой «Разрыв линии» художников-аборигенов.",
-    "url": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/BRANCHLINE_EXHIBITION_00480.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1794238042160-5",
-    "title": "Президент Трамп предлагает сделать Овальный кабинет общественным памятником",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "6 нояб. 2026 г.",
-    "summary": "Во время своего второго срока Трамп сделал приоритетом ремонт как Овального кабинета, так и кабинета министров",
-    "url": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Мария Кристина Терзаги, ведущий ученый Караваджо, как сообщается, нашла картину, пропавшую без вести почти два века, в задней комнате парижской галереи.",
+    "url": "https://www.artnews.com/art-news/news/lost-caravaggio-painting-rediscovered-paris-terzaghi-1234805289/",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794238044766-0",
+    "id": "ARTnews-1794261449683-4",
+    "title": "Новые археологические находки в этрусском некрополе в Италии",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Эксперты, проводившие экстренные консервационные работы, обнаружили резные каменные троны, окрашенные стены и почти неповрежденную банку с надрезанными фигурами.",
+    "url": "https://www.artnews.com/art-news/news/archeological-discoveries-made-etruscan-necropolis-italy-1234805290/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1794261451344-5",
+    "title": "Бывший финансовый директор Филадельфийского музея утверждает, что увольнение было удержано как «возмездие»",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "9 нояб. 2026 г.",
+    "summary": "В ответ музей заявил, что она стерла мобильный телефон, содержащий записи, потенциально имеющие отношение к иску Саши Суда о незаконном увольнении.",
+    "url": "https://www.artnews.com/art-news/news/philadelphia-museum-cfo-lawsuit-severance-1234805288/",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1794261453066-0",
+    "title": "Может ли Киото стать центром искусства? Политики и дилеры идут ва-банк",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Альтернативная художественная ярмарка повысила художественную сцену города. Продолжится ли импульс? Пост Может ли Киото стать арт-хабом? Политики и дилеры идут ва-банк впервые появились на Artnet News.",
+    "url": "https://news.artnet.com/market/kyoto-art-hub-2834147",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1794261454695-1",
+    "title": "Караваджос в изобилии! Труба ученых: 2 находки за 2 дня",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Отдельно обнаруженные работы считаются ранними картинами мастера барокко. Сообщение Caravaggios Galore! Ученые Trumpet 2 Finds in 2 Days впервые появились на Artnet News.",
+    "url": "https://news.artnet.com/art-world/caravaggio-paintings-found-2834085",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1794261456518-2",
     "title": "Сотни попыток перенести культовую скульптуру «Фасоль» Аниша Капура",
     "source": "Artnet News",
     "category": "Market",
@@ -70,7 +90,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794238047583-1",
+    "id": "Artnet News-1794261458224-3",
     "title": "Print Center Taps Yukiko Yamagata возглавит свою следующую главу",
     "source": "Artnet News",
     "category": "Market",
@@ -80,7 +100,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794238050253-2",
+    "id": "Artnet News-1794261459866-4",
     "title": "Аукцион Exec Guillaume Cerutti в Версале",
     "source": "Artnet News",
     "category": "Market",
@@ -90,7 +110,7 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794238053034-3",
+    "id": "Artnet News-1794261462018-5",
     "title": "Майлз Гринберг гуляет шесть часов, Шанель делает Dia, а FDNY повсюду: это мокрая краска!",
     "source": "Artnet News",
     "category": "Market",
@@ -100,147 +120,67 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794238055616-4",
-    "title": "Gallery GF выводит современное искусство в новое измерение",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "6 нояб. 2026 г.",
-    "summary": "То, что начиналось как онлайн-движение эпохи пандемии, превратилось во всемирный бизнес для основателя Ирины Федорофф. Сообщение Gallery GF Brings Contemporary Art Into a New Dimension впервые появилось на Artnet News.",
-    "url": "https://news.artnet.com/art-world/gallery-gf-2832147",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1794238057455-5",
-    "title": "Французский суд расследует заявления наследников Пикассо о мошенничестве",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "6 нояб. 2026 г.",
-    "summary": "Кроме того, Дэниел Сиккема приговорен к пожизненному заключению, India Art Fair объявляет экспонентов и больше отраслевой информации. Сообщение French Court Investigates Fraud Claims by Picasso's Heirs впервые появилось на Artnet News.",
-    "url": "https://news.artnet.com/market/industry-intel-nov-6-2833004",
-    "imageURL": null
-  },
-  {
-    "id": "Hyperallergic-1794238059487-0",
-    "title": "Народ против арки",
+    "id": "Hyperallergic-1794261463922-0",
+    "title": "Когда-то облака были самым большим испытанием для фотографии",
     "source": "Hyperallergic",
     "category": "Exhibition",
     "date": "9 нояб. 2026 г.",
-    "summary": "Протестующие в Вашингтоне жарят Арку Трампа, а Музей Уитни объявляет следующих кураторов своей биеннале блокбастеров.",
-    "url": "https://hyperallergic.com/the-people-against-the-arch/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_1021.jpg"
+    "summary": "«Погоня за облаками» в музее Метрополитен-музея - это приятная шумиха вокруг технической проблемы захвата облаков в начале фотографии.",
+    "url": "https://hyperallergic.com/clouds-were-once-photographys-greatest-challenge/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Cels_Cloud-Study-in-the-Late-Afternoon--October-1840.jpg"
   },
   {
-    "id": "Hyperallergic-1794238061988-1",
-    "title": "Пожалуйста, не садитесь на цветы",
+    "id": "Hyperallergic-1794261465636-1",
+    "title": "Сексуальное искусство вернулось, или это только я?",
     "source": "Hyperallergic",
     "category": "Exhibition",
-    "date": "7 нояб. 2026 г.",
-    "summary": "Давно потерянный пейзаж Джорджии О 'Кифф отправляется на аукцион, Бранкузи теряется в MoMA, интервью с Дорис Сальседо, и показывает на Documenta, что оно того стоит?",
-    "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_6367.jpg"
-  },
-  {
-    "id": "Hyperallergic-1794238063770-2",
-    "title": "Еврейские сестры в «Розовом и синем» Ренуара",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "6 нояб. 2026 г.",
-    "summary": "Автор Кэтрин Остлер рассказывает о жизни двух девушек-херувимов, чья разряженная жизнь в элитной, артистичной французской семье была бы свергнута ужасами Холокоста.",
-    "url": "https://hyperallergic.com/the-jewish-sisters-in-renoirs-pink-and-blue/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Pink-and-Blue_History-and-Art-Collection_Alamy-1.jpg"
-  },
-  {
-    "id": "Hyperallergic-1794238065402-3",
-    "title": "Пабло Хельгера возглавит центр Vera List в Новой школе",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "6 нояб. 2026 г.",
-    "summary": "После своего назначения художник задумался о необходимости «осмыслить быстро разворачивающиеся события, поставить под сомнение преобладающие повествования и представить альтернативное будущее».",
-    "url": "https://hyperallergic.com/pablo-helguera-to-helm-the-new-schools-vera-list-center/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/DSC00245.jpg"
-  },
-  {
-    "id": "Hyperallergic-1794238067066-4",
-    "title": "Мэг Онли и Зак Винокур станут кураторами биеннале Уитни в 2028 году",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "6 нояб. 2026 г.",
-    "summary": "Будучи одним из кураторов Биеннале 2024 года, Онли возвращается к следующему изданию с Винокуром, который основал Американскую современную оперную компанию.",
-    "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/whitney2028biennial0818.jpg"
-  },
-  {
-    "id": "Hyperallergic-1794238068598-5",
-    "title": "Протестующие в Вашингтоне ударили по фашистской триумфальной арке Трампа",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "6 нояб. 2026 г.",
-    "summary": "Группа из 50 человек использовала марионеток и фальшивую арку, чтобы донести мысль о том, что американцы против «Арки Трампа».",
-    "url": "https://hyperallergic.com/dc-protesters-slam-trumps-fascist-triumphal-arch/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_1078.jpeg"
-  },
-  {
-    "id": "NFT Culture-1794238071334-0",
-    "title": "Отключение платформы NFT: что произойдет с вашими NFT",
-    "source": "NFT Culture",
-    "category": "NFT",
     "date": "9 нояб. 2026 г.",
-    "summary": "Закрытие NFT-платформы редко удаляет ваши токены. Вот что разбивается вместо этого, от Foundation и Nifty Gateway до Blur и Abstract. The post NFT Platform Shutdown: What Happens to Your NFTs appeared first on NFT CULTURE.",
-    "url": "https://www.nftculture.com/digital-ownership/nft-platform-shutdown/",
-    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/NFT_platform_shutdown_notices_collage.jpg"
+    "summary": "От жалких обнаженных тел Виллема де Кунинга до жаркой и беспокойной архитектуры Александры Барт - в Чикаго секс витает в воздухе.",
+    "url": "https://hyperallergic.com/is-sexy-art-back-or-is-it-just-me/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/SlowDance-MelanieMcLain2.png"
   },
   {
-    "id": "NFT Culture-1794238073070-1",
-    "title": "Как отозвать одобрение NFT, шаг за шагом",
-    "source": "NFT Culture",
-    "category": "NFT",
-    "date": "6 нояб. 2026 г.",
-    "summary": "Как поэтапно отозвать одобрения NFT с помощью Revoke.cash и Etherscan до закрытия Blur 12 ноября. The post Как отозвать одобрения NFT, шаг за шагом appeared first on NFT CULTURE.",
-    "url": "https://www.nftculture.com/guides/revoke-nft-approvals/",
-    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/How_to_revoke_NFT_approvals_featured_collage.jpg"
+    "id": "Hyperallergic-1794261467220-2",
+    "title": "Мона Лиза",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Обзор древней китайской чернильной живописи отправляет искусствоведа в путешествие по собственному прошлому.",
+    "url": "https://hyperallergic.com/the-zen-mona-lisa/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_8232-1.JPEG"
   },
   {
-    "id": "NFT Culture-1794238074760-2",
-    "title": "Наоко Тоса: персональная выставка в музее Киото",
-    "source": "NFT Culture",
-    "category": "NFT",
-    "date": "5 нояб. 2026 г.",
-    "summary": "Naoko Tosa Generative Beings открывается бесплатно 7–22 ноября в Kyoto City KYOCERA Museum Hall of Light. The post Naoko Tosa Generative Beings: Kyoto Museum Solo Show appeared first on NFT CULTURE.",
-    "url": "https://www.nftculture.com/nft-art/naoko-tosa-generative-beings/",
-    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/Naoko_Tosa_Generative_Beings_Kyoto_collage.jpg"
+    "id": "Hyperallergic-1794261468959-3",
+    "title": "Центр искусств Векснера сохранит имя, несмотря на связи основателя с Эпштейном",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Сотни людей призывали Университет штата Огайо удалить имя Лес Векснера из зданий кампуса из-за его связей с Джеффри Эпштейном.",
+    "url": "https://hyperallergic.com/wexner-center-for-the-arts-to-keep-name-despite-founders-epstein-ties/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/wex.jpg"
   },
   {
-    "id": "NFT Culture-1794238076632-3",
-    "title": "КОНСЕНСУС CRYPTOZR: персональная выставка Crypto Art Show в Гонконге",
-    "source": "NFT Culture",
-    "category": "NFT",
-    "date": "4 нояб. 2026 г.",
-    "summary": "КОНСЕНСУС CRYPTOZR открывается 5–15 ноября в Hong Kong Arts Centre Pao Galleries. Вход свободный; куратор Гу Чжэньцин; 15 работ, включая 2 новые инсталляции. The post CryptoZR CONSENSUS: Solo Crypto Art Show in Hong Kong appeared first on NFT CULTURE.",
-    "url": "https://www.nftculture.com/nft-art/cryptozr-consensus/",
-    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/CryptoZR_CONSENSUS_featured_collage_Hong_Kong_Arts_Centre.jpg"
+    "id": "Hyperallergic-1794261470736-4",
+    "title": "Шесть украденных пикассо найдены под кучей одежды во французском доме",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Семеро подозреваемых были арестованы в связи с кражей отпечатков из ресторана L'Amandier на юге Франции.",
+    "url": "https://hyperallergic.com/six-stolen-picassos-found-under-pile-of-clothes-in-french-home/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/GettyImages-928403486.jpg"
   },
   {
-    "id": "NFT Culture-1794238078161-4",
-    "title": "Коллекция блокчейна Francisco Carolinum: три цепочки, один музей",
-    "source": "NFT Culture",
-    "category": "NFT",
-    "date": "3 нояб. 2026 г.",
-    "summary": "Коллекция блокчейна Francisco Carolinum охватывает Ethereum, Tezos и Bitcoin-400 +, которые можно посмотреть в Линце до 7 февраля 2027 года, а также Cryptovoxels. The post Francisco Carolinum Blockchain Collection: Three Chains, One Museum appeared first on NFT CULTURE.",
-    "url": "https://www.nftculture.com/nft-art/francisco-carolinum-three-blockchains/",
-    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/Francisco_Carolinum_blockchain_collection_exhibition_collage.jpg"
+    "id": "Hyperallergic-1794261472520-5",
+    "title": "Единственная известная рукопись «У меня есть мечта» MLK может принести $ 10 млн на аукционе",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Публика сможет увидеть рукописный окончательный проект культовой речи на Christie's в Нью-Йорке, прежде чем она уйдет с молотка в январе.",
+    "url": "https://hyperallergic.com/only-known-manuscript-of-mlks-i-have-a-dream-could-fetch-10m-at-auction/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/GettyImages-517387738.jpg"
   },
   {
-    "id": "NFT Culture-1794238079937-5",
-    "title": "За голубыми фишками: Дмитрий Черняк в движении, в прямом эфире в Тель-Авиве",
-    "source": "NFT Culture",
-    "category": "NFT",
-    "date": "2 нояб. 2026 г.",
-    "summary": "Дмитрий Черняк Кольца в движении играет 55 сцен в прямом эфире в Тель-Авивском художественном музее до 14 ноября. Что показывает работа и как смотреть онлайн. The post Behind the Bluechips: Dmitri Cherniak Ringers in Motion, Live in Tel Aviv appeared first on NFT CULTURE.",
-    "url": "https://www.nftculture.com/behind-the-bluechips/dmitri-cherniak-ringers/",
-    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/Dmitri_Cherniak_Ringers_in_Motion_Tel_Aviv_Museum_of_Art.jpg"
-  },
-  {
-    "id": "NFT Now-1794238083241-0",
+    "id": "NFT Now-1794261483981-0",
     "title": "Представляем Now Media: Голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -250,7 +190,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1794238085275-1",
+    "id": "NFT Now-1794261485942-1",
     "title": "Внедрение SnapNFT: новый стандарт цифрового коллекционирования",
     "source": "NFT Now",
     "category": "NFT",
@@ -260,7 +200,7 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1794238087217-2",
+    "id": "NFT Now-1794261487768-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,7 +210,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1794238089503-3",
+    "id": "NFT Now-1794261489669-3",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -280,7 +220,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1794238091361-4",
+    "id": "NFT Now-1794261491489-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
@@ -290,7 +230,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1794238093334-5",
+    "id": "NFT Now-1794261493312-5",
     "title": "Все глаза на искусство: предстоящие коллекции для просмотра на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -300,7 +240,7 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1794238097698-0",
+    "id": "Cointelegraph NFT-1794261495057-0",
     "title": "Blur закрывает свой сайт, так почему же коллекционеры NFT аплодируют?",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -310,7 +250,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794238100201-1",
+    "id": "Cointelegraph NFT-1794261496690-1",
     "title": "Blast сворачивает Ethereum L2 после того, как затраты опережают доходы",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -320,7 +260,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png"
   },
   {
-    "id": "Cointelegraph NFT-1794238104293-2",
+    "id": "Cointelegraph NFT-1794261498420-2",
     "title": "«Дальнемагистральный» проект Porsche Web3 заканчивается менее чем через четыре года",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -330,7 +270,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794238107080-3",
+    "id": "Cointelegraph NFT-1794261500026-3",
     "title": "Magic Eden Scare помещает 3832 NFT в защитное хранилище whitehat",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -340,7 +280,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794238109948-4",
+    "id": "Cointelegraph NFT-1794261501657-4",
     "title": "Трамп обошелся инвесторам в $ 4,7 млрд через криптовалютные «схемы»: Public Citizen",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -350,7 +290,7 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794238113614-5",
+    "id": "Cointelegraph NFT-1794261503295-5",
     "title": "10 самых странных вещей, когда-либо токенизированных... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -360,7 +300,27 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "CoinDesk-1794238115451-0",
+    "id": "CoinDesk-1794261505276-0",
+    "title": "Robinhood поддерживает токенизацию своих акций на платформе OKX-ICE, даже несмотря на то, что большинство компаний отказываются от нее",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Брокерская фирма заявила, что скорее поможет построить токенизированные рынки, чем останется в стороне после волны раннего корпоративного отпора совместной компании Intercontinental Exchange и OKX.",
+    "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1794261506965-1",
+    "title": "Блок биткойнов только что приблизился к записи транзакций 2015 года, но заплатил только $ 180 в сборах",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Блок AntPool находился в пределах 984 транзакций от рекорда Биткойна 2015 года, даже несмотря на то, что сборы составляли менее 0,1% от выплаты майнера.",
+    "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1794261508528-2",
     "title": "Микросхема искусственного интеллекта Google усиливает давление на Nvidia",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -370,7 +330,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1794238117494-1",
+    "id": "CoinDesk-1794261510349-3",
     "title": "Северокорейские хакеры создают мемокоины, чтобы отмыть добычу от взлома Binance на $ 6,3 млрд",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -380,7 +340,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1794238119405-2",
+    "id": "CoinDesk-1794261511978-4",
     "title": "NYSE выбирает Avalanche для расчета по токенизированным акциям на фоне гонки блокчейнов на Уолл-стрит",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -390,7 +350,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1794238121148-3",
+    "id": "CoinDesk-1794261513607-5",
     "title": "Solana установила свою первую токенизированную биржевую площадку в рамках SEC, перечислив Galaxy",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -398,5 +358,45 @@
     "summary": "Formation Securities планирует запустить в начале 2027 года акции Galaxy, Exodus и Forward Industries, расширяя эксперимент регулятора США по торговле акциями на основе блокчейна.",
     "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
     "imageURL": null
+  },
+  {
+    "id": "Cointelegraph-1794261515261-0",
+    "title": "Стоит ли покидать Австралию, чтобы не платить 47% налог на криптоприбыль?",
+    "source": "Cointelegraph",
+    "category": "Blockchain",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Некоторые австралийские криптоинвесторы переезжают за границу, чтобы избежать огромного увеличения CGT с июля 2027 года. Но есть и менее радикальные способы платить меньше налогов.",
+    "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png"
+  },
+  {
+    "id": "Cointelegraph-1794261516875-1",
+    "title": "Северокорейские хакеры создают мемокоины для отмывания средств от взлома Binance: Elliptic",
+    "source": "Cointelegraph",
+    "category": "Blockchain",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Блокчейн-компания отслеживала украденные средства через шесть новых токенов на NEAR, где хакеры использовали пулы ликвидности, чтобы скрыть переводы между кошельками.",
+    "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg"
+  },
+  {
+    "id": "Cointelegraph-1794261518463-2",
+    "title": "Формирование планов по ценным бумагам Площадка для торговли акциями Solana под освобождением SEC",
+    "source": "Cointelegraph",
+    "category": "Blockchain",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Предлагаемая площадка будет предлагать круглосуточную торговлю токенизированными акциями Galaxy Digital, Exodus и Forward Industries с запуском, запланированным на начало 2027 года.",
+    "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png"
+  },
+  {
+    "id": "Cointelegraph-1794261520193-3",
+    "title": "Mercado Bitcoin начинает повторное открытие после взлома без временной шкалы для снятия средств",
+    "source": "Cointelegraph",
+    "category": "Blockchain",
+    "date": "9 нояб. 2026 г.",
+    "summary": "Клиенты могут просматривать свои балансы до взлома по мере поэтапного возврата доступа. Биржа еще не сказала, когда вывод средств возобновится.",
+    "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg"
   }
 ]
