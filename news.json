@@ -1,6 +1,46 @@
 [
   {
-    "id": "ARTnews-1794578616997-0",
+    "id": "ARTnews-1794597284097-0",
+    "title": "Световой меч Дарта Вейдера продан на аукционе за 4,9 млн долларов, что стало рекордом продаж среди предметов из «Звездных войн»",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Это та самая сцена из знаменитого эпизода «Я твой отец».",
+    "url": "https://www.artnews.com/art-news/news/star-wars-lightsaber-sale-heritage-auctions-1234805883/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1794597286368-1",
+    "title": "Новое расследование выявило, что поддельные британские визы для артистов предлагаются за 132 000 долларов США",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Правительственная программа Global Talent была запущена в 2020 году с целью привлечения творческих работников, включая ученых и деятелей искусства.",
+    "url": "https://www.artnews.com/art-news/news/fake-uk-artist-visas-are-being-offered-for-132000-1234805870/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1794597288422-2",
+    "title": "Rhizome объявляет о партнерстве с Electronic Arts Intermix после опасений по поводу цензуры на Vimeo",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Vimeo закрыла аккаунт EAI в мае, отметив два видео квир-режиссера Барбары Хаммер.",
+    "url": "https://www.artnews.com/art-news/news/rhizome-electronic-arts-intermix-partnership-vimeo-censorship-1234805760/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1794597290667-3",
+    "title": "Мэттью Барни чуть не стал режиссером 29-часового оперного цикла, но отказался: «Не думаю, что смогу бросить свою работу на два года»",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Он дал понять, что отходит от монументальных проектов, которыми он больше всего известен.",
+    "url": "https://www.artnews.com/art-news/news/matthew-barney-licht-opera-cycle-1234805838/",
+    "imageURL": null
+  },
+  {
+    "id": "ARTnews-1794597293101-4",
     "title": "Сбой в работе Microsoft нарушает глобальные операции, в том числе в мире искусства, тайное расследование выявляет поддельные британские визы для художников и многое другое: утренняя подборка новостей за 13 ноября 2026 года",
     "source": "ARTnews",
     "category": "Market",
@@ -10,77 +50,67 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1794578619901-1",
+    "id": "ARTnews-1794597295436-5",
     "title": "Как художница понимает, что работа закончена? Крупная ретроспектива работ Марисы Мерц ставит вопрос с ног на голову",
     "source": "ARTnews",
     "category": "Market",
     "date": "13 нояб. 2026 г.",
-    "summary": "Три выставочных зала в Турине отдают дань уважения единственной женщине, представлявшей движение «Арте повера».",
+    "summary": "Три выставочных зала в Турине отдают дань уважения единственной женщине-представительнице движения «Арте повера».",
     "url": "https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/",
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/Marisa-Merz-GAM-Allestimenti-ph-Perottino-061.jpg?w=400"
   },
   {
-    "id": "ARTnews-1794578622265-2",
-    "title": "Партнерство Artnet с Kalshi сталкивается с резкой критикой в Интернете, но мнения консультантов более неоднозначны",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "12 нояб. 2026 г.",
-    "summary": "На рынке произведений искусства появился новый способ спекулировать на результатах аукционов. Консультанты видят возможности, риски и множество причин для скептицизма.",
-    "url": "https://www.artnews.com/art-news/market/artnet-kalshi-partnership-backlash-art-world-1234805778/",
-    "imageURL": null
-  },
-  {
-    "id": "ARTnews-1794578625325-3",
-    "title": "Музей современного искусства выделяет 200 000 долларов на первую премию Амбаша за «гармонирующую с природой» архитектуру, половина из которых пойдет на посадку деревьев",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "12 нояб. 2026 г.",
-    "summary": "Музей современного искусства (MoMA) объявляет о ежегодном гранте на общую сумму 200 000 долларов США в знак признания одного проекта архитекторов, чья работа, как следует из названия премии, «гармонирует с природой».",
-    "url": "https://www.artnews.com/art-news/news/moma-inaugural-ambasz-prize-nature-architecture-plant-trees-1234805788/",
-    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/Kashef-Chowdhury.jpg?w=400"
-  },
-  {
-    "id": "ARTnews-1794578627574-4",
-    "title": "Лорна Симпсон получает премию Вольфганга Хана в размере 105 000 долларов США",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "12 нояб. 2026 г.",
-    "summary": "Премия поддерживает приобретение работ Музеем Людвига в Кёльне.",
-    "url": "https://www.artnews.com/art-news/news/lorna-simpson-2027-wolfgang-hahn-prize-1234805680/",
-    "imageURL": null
-  },
-  {
-    "id": "ARTnews-1794578630829-5",
-    "title": "Монументальная конная статуя римского императора, некогда стоявшая в Шотландии во II веке",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "12 нояб. 2026 г.",
-    "summary": "Теперь археологи считают, что статуя изображала римского императора Антонина Пия, который возглавлял вторую крупную военную кампанию Рима в Шотландии.",
-    "url": "https://www.artnews.com/art-news/news/bronze-leg-part-monumental-statue-of-roman-emperor-scotland-1234805764/",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1794578633025-0",
-    "title": "Внутри большого художественного бума в Центральной Азии",
+    "id": "Artnet News-1794597297646-0",
+    "title": "Скульптура Жана Арпа стоимостью 160 000 долларов украдена на выставке Art Cologne",
     "source": "Artnet News",
     "category": "Market",
     "date": "13 нояб. 2026 г.",
-    "summary": "От новых музеев до крупных биеннале — культурная среда переживает масштабные изменения. Публикация «Внутри большого арт-бума в Центральной Азии» впервые появилась на сайте Artnet News.",
+    "summary": "Кроме того, Канада предлагает налоговые льготы для художников, Лондонская национальная галерея представляет 10-летнюю стратегию и другие новости из мира искусства. Публикация «Скульптура Жана Арпа стоимостью 160 000 долларов украдена на ярмарке Art Cologne» впервые появилась на сайте Artnet News.",
+    "url": "https://news.artnet.com/market/jean-arp-sculpture-worth-160000-stolen-at-art-cologne-2836171",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1794597300005-1",
+    "title": "Сбой в работе Microsoft нарушил деятельность аукционных домов накануне недели продаж в Нью-Йорке на сумму 2 млрд долларов США",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "13 нояб. 2026 г.",
+    "summary": "«Это, безусловно, неудобно для всех», — заявил представитель Christie's. Статья «Сбой в работе Microsoft нарушил деятельность аукционных домов накануне недели продаж в Нью-Йорке на сумму 2 млрд долларов» впервые была опубликована на сайте Artnet News.",
+    "url": "https://news.artnet.com/market/microsoft-outage-christies-2836297",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1794597302120-2",
+    "title": "О чем не могут перестать думать специалисты Artnet Auctions в этом месяце",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Значимая работа Мэри Уэзерфорд, советы для нового поколения коллекционеров и празднование 200-летия фотографии на выставке Paris Photo. Публикация «О чём специалисты Artnet Auctions не могут перестать думать в этом месяце» впервые появилась на Artnet News.",
+    "url": "https://news.artnet.com/art-world/artnet-auctions-specialist-spotlight-november-2026-2836095",
+    "imageURL": null
+  },
+  {
+    "id": "Artnet News-1794597304278-3",
+    "title": "Внутри большого арт-бума в Центральной Азии",
+    "source": "Artnet News",
+    "category": "Market",
+    "date": "13 нояб. 2026 г.",
+    "summary": "От новых музеев до крупных биеннале — культурный ландшафт переживает серьезные изменения. Публикация «Внутри большого арт-бума в Центральной Азии» впервые появилась на сайте Artnet News.",
     "url": "https://news.artnet.com/multimedia/central-asia-art-boom-2830389",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794578635502-1",
-    "title": "Никогда не забывайте: Shake Shack с капитализацией 3 млрд долларов начиналась как художественный проект",
+    "id": "Artnet News-1794597306771-4",
+    "title": "Никогда не забывайте: компания Shake Shack с оборотом 3 млрд долларов начинала как художественный проект",
     "source": "Artnet News",
     "category": "Market",
     "date": "13 нояб. 2026 г.",
-    "summary": "А также прекрасные дома Брайса и Хелен Марден, грандиозная выставка в Бушвике и многое другое. Публикация «Никогда не забывайте: сеть Shake Shack стоимостью 3 млрд долларов начиналась как произведение искусства» впервые появилась на сайте Artnet News.",
+    "summary": "Кроме того, прекрасные дома Брайса и Хелен Марден, грандиозная выставка в Бушвике и многое другое. Публикация «Никогда не забывайте: сеть Shake Shack стоимостью 3 млрд долларов начиналась как произведение искусства» впервые появилась на сайте Artnet News.",
     "url": "https://news.artnet.com/artnet-bulletin/shake-shack-art-project-november-12-bulletin-2835541",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794578637968-2",
+    "id": "Artnet News-1794597309120-5",
     "title": "Музей Уитни выставляет на аукцион картину де Кунинга стоимостью 18 млн $",
     "source": "Artnet News",
     "category": "Market",
@@ -90,37 +120,37 @@
     "imageURL": null
   },
   {
-    "id": "Artnet News-1794578640367-3",
-    "title": "В ночных мирах Тайлера Вуроса",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "12 нояб. 2026 г.",
-    "summary": "Ворос, выросший в бревенчатом доме в городке без светофоров, в своих тщательно выполненных рисунках углем изображает флору и фауну, знакомые ему с детства. Публикация «В ночных мирах Тайлера Вуроса» впервые появилась на Artnet News.",
-    "url": "https://news.artnet.com/art-world/tyler-vouros-rjd-gallery-2834512",
-    "imageURL": null
+    "id": "Hyperallergic-1794597311639-0",
+    "title": "Семь музеев проведут персональные выставки в честь столетия Вольфа Кана",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Музеи в Германии, Нью-Йорке и Вермонте входят в число тех, кто в следующем году почтит память покойного художника-абстракциониста, писавшего пейзажи.",
+    "url": "https://hyperallergic.com/seven-museums-to-host-solo-exhibitions-celebrating-wolf-kahns-centennial/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/Hot-Summer--1990.-Credit-to-the-Wolf-Kahn-Foundation.jpg"
   },
   {
-    "id": "Artnet News-1794578642866-4",
-    "title": "Artnet Airwaves привозит в Майами-Бич самые громкие дискуссии мира искусства",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "12 нояб. 2026 г.",
-    "summary": "В мире искусства есть о чем поговорить. Новый фестиваль подкастов в прямом эфире на Untitled Art объединяет пять шоу из мира искусства, чтобы поддержать диалог. Публикация «Artnet Airwaves привозит самые масштабные дискуссии мира искусства в Майами-Бич» впервые появилась на Artnet News.",
-    "url": "https://news.artnet.com/art-world/artnet-airwaves-2026-2834547",
-    "imageURL": null
+    "id": "Hyperallergic-1794597313782-1",
+    "title": "Craft in America завершает серию «Ручная работа» фильмами «Север» и «Юг»",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Смотрите документальный сериал PBS, посвященный влиянию региональных ремесел на север и юг страны.",
+    "url": "https://hyperallergic.com/craft-in-america-concludes-its-handwork-series-with-north-and-south/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/craft-in-america-ad.jpg"
   },
   {
-    "id": "Artnet News-1794578645195-5",
-    "title": "Статистика, стоящая за неделей аукционов в Нью-Йорке с оборотом 2 млрд долларов",
-    "source": "Artnet News",
-    "category": "Market",
-    "date": "12 нояб. 2026 г.",
-    "summary": "Вот как выглядят результаты Sotheby's, Christie's и Phillips. Публикация «Статистика, стоящая за неделей аукционов в Нью-Йорке с оборотом 2 млрд долларов» впервые появилась на сайте Artnet News.",
-    "url": "https://news.artnet.com/market/new-york-auctions-november-2026-2835768",
-    "imageURL": null
+    "id": "Hyperallergic-1794597315714-2",
+    "title": "Взгляд с мольберта: Лесли Льюис Сиглер",
+    "source": "Hyperallergic",
+    "category": "Exhibition",
+    "date": "13 нояб. 2026 г.",
+    "summary": "«Освещение и интерьер студии буквально отражаются в моих работах».",
+    "url": "https://hyperallergic.com/a-view-from-the-easel-leslie-lewis-sigler/",
+    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/LeslieLewisSigler_156---Katelyn-Katz-1.JPG"
   },
   {
-    "id": "Hyperallergic-1794578647813-0",
+    "id": "Hyperallergic-1794597317840-3",
     "title": "Инструментарий для свободного мира искусства",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -130,7 +160,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/moma-2021-june-1-1.jpg"
   },
   {
-    "id": "Hyperallergic-1794578650666-1",
+    "id": "Hyperallergic-1794597320509-4",
     "title": "Протестующие призывают Стивена Спилберга бойкотировать Музей современного искусства из-за связей Леона Блэка с Эпштейном",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -140,7 +170,7 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/IMG_4667.jpg"
   },
   {
-    "id": "Hyperallergic-1794578652946-2",
+    "id": "Hyperallergic-1794597322755-5",
     "title": "Print Center и Women’s Studio Workshop назначают новых руководителей",
     "source": "Hyperallergic",
     "category": "Exhibition",
@@ -150,48 +180,28 @@
     "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/unnamed--1--1.jpg"
   },
   {
-    "id": "Hyperallergic-1794578655364-3",
-    "title": "Как освободить мир искусства от неолиберального влияния",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "12 нояб. 2026 г.",
-    "summary": "В статье «Поле битвы искусства» куратор и активист Марко Баравалле анализирует кооптацию радикальной политики художественным истеблишментом и рассказывает об истории коллективов, которые ей противостоят.",
-    "url": "https://hyperallergic.com/how-to-free-the-art-world-from-its-neoliberal-capture/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/stenciling_8954-1280.jpg"
+    "id": "NFT Culture-1794597325287-0",
+    "title": "После закрытия Blur: куда дальше пойдут коллекционеры NFT",
+    "source": "NFT Culture",
+    "category": "NFT",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Куда должны отправиться коллекционеры NFT после закрытия Blur? Подборка платформ для уникальных, генеративных, PFP- и Tezos-произведений искусства с сопоставлением комиссий и правил выплаты роялти создателям. Пост «После закрытия Blur: куда теперь пойдут коллекционеры NFT» впервые опубликован на сайте NFT CULTURE.",
+    "url": "https://www.nftculture.com/nft-marketplaces/after-blur-shutdown/",
+    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/featured-after-blur-shutdown-collage.jpg"
   },
   {
-    "id": "Hyperallergic-1794578657936-4",
-    "title": "После промежуточных выборов начинается настоящая работа в сфере искусства и культуры",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "12 нояб. 2026 г.",
-    "summary": "Демократическим лидерам необходимо понять, что финансирование культуры не может ограничиваться крупными музеями и учреждениями; оно должно доходить до людей, чей труд делает его возможным.",
-    "url": "https://hyperallergic.com/after-the-midterms-the-real-work-for-arts-and-culture-begins/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/blue-wave-2.jpg"
-  },
-  {
-    "id": "Hyperallergic-1794578660591-5",
-    "title": "Правозащитные организации осуждают арест в Египте главного редактора Mada Masr Лины Атталах",
-    "source": "Hyperallergic",
-    "category": "Exhibition",
-    "date": "12 нояб. 2026 г.",
-    "summary": "Аталлу обвинили в публикации ложных новостей и работе без лицензии на фоне масштабных репрессий египетских властей против независимой прессы.",
-    "url": "https://hyperallergic.com/human-rights-orgs-denounce-egypts-arrest-of-mada-masr-editor-lina-attalah/",
-    "imageURL": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/11/GettyImages-2303737553.jpg"
-  },
-  {
-    "id": "NFT Culture-1794578663445-0",
-    "title": "Грант Юн «Участки»: земельная сетка 1785 года как ончейн-арт",
+    "id": "NFT Culture-1794597327707-1",
+    "title": "Грант Юн «Секции»: земельная сетка 1785 года как ончейн-арт",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "12 нояб. 2026 г.",
-    "summary": "Grant Yun Sections запускается 18 ноября при поддержке Fellowship и OpenSea: 1300 уникальных ончейн-пейзажей на сетке геодезической съемки 1785 года, а также выставка NODE в Пало-Альто 19 ноября. Публикация «Grant Yun Sections: The 1785 Land Grid as Onchain Art» впервые появилась на сайте NFT CULTURE.",
+    "summary": "Проект Grant Yun Sections стартует 18 ноября при поддержке Fellowship и OpenSea: 1300 уникальных ончейн-пейзажей на основе геодезической сетки 1785 года, а также выставка NODE в Пало-Альто 19 ноября. Публикация «Grant Yun Sections: земельная сетка 1785 года как ончейн-арт» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/nft-art/grant-yun-sections/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/featured-grant-yun-sections-collage.jpg"
   },
   {
-    "id": "NFT Culture-1794578665858-1",
-    "title": "Пиксельные ковры Трэвиса Смолли: лоскутные одеяла, код и шерсть в Берлине",
+    "id": "NFT Culture-1794597330105-2",
+    "title": "Пиксельные ковры Трэвиса Смалли: лоскутные одеяла, код и шерсть в Берлине",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "11 нояб. 2026 г.",
@@ -200,67 +210,57 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/Travess_Smalley_Pixel_Rugs_collage.jpg"
   },
   {
-    "id": "NFT Culture-1794578668186-2",
+    "id": "NFT Culture-1794597332392-3",
     "title": "Дэйв Крюгман WINDOWS // Нью-Йорк: город коллекционеров на блокчейне",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "10 нояб. 2026 г.",
-    "summary": "Проект WINDOWS // NYC Дэйва Крюгмана превращает 1000 освещенных окон Нью-Йорка в ончейн-город, на карте которого отмечены его коллекционеры. Как работает CITY и куда он движется. Публикация «Dave Krugman WINDOWS // NYC: ончейн-город коллекционеров» впервые появилась на сайте NFT CULTURE.",
+    "summary": "Проект WINDOWS // NYC Дэйва Крюгмана превращает 1000 освещенных окон Нью-Йорка в ончейн-город, на карте которого отмечены его коллекционеры. Как работает CITY и куда он движется. Публикация «Dave Krugman WINDOWS // NYC: город коллекционеров в блокчейне» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/nft-art/dave-krugman-windows-nyc/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/Dave_Krugman_WINDOWS_NYC_collage.jpg"
   },
   {
-    "id": "NFT Culture-1794578670397-3",
-    "title": "Закрытие платформы NFT: что будет с вашими NFT",
+    "id": "NFT Culture-1794597334487-4",
+    "title": "Закрытие NFT-платформы: что будет с вашими NFT",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "9 нояб. 2026 г.",
-    "summary": "Закрытие NFT-платформы редко приводит к удалению ваших токенов. Вот что происходит вместо этого — от Foundation и Nifty Gateway до Blur и Abstract. Публикация «Закрытие NFT-платформы: что происходит с вашими NFT» впервые появилась на сайте NFT CULTURE.",
+    "summary": "При закрытии NFT-платформы ваши токены редко удаляются. Вот что происходит вместо этого — от Foundation и Nifty Gateway до Blur и Abstract. Публикация «Закрытие NFT-платформы: что происходит с вашими NFT» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/digital-ownership/nft-platform-shutdown/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/NFT_platform_shutdown_notices_collage.jpg"
   },
   {
-    "id": "NFT Culture-1794578672690-4",
+    "id": "NFT Culture-1794597336839-5",
     "title": "Как отозвать одобрения NFT: пошаговое руководство",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "6 нояб. 2026 г.",
-    "summary": "Как отозвать разрешения на использование NFT с помощью Revoke.cash и Etherscan до закрытия Blur 12 ноября. Пошаговая инструкция. Публикация «Как отозвать одобрения NFT: пошаговое руководство» впервые появилась на сайте NFT CULTURE.",
+    "summary": "Как отозвать разрешения на использование NFT с помощью Revoke.cash и Etherscan до закрытия Blur 12 ноября: пошаговая инструкция. Публикация «Как отозвать одобрения NFT: пошаговое руководство» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/guides/revoke-nft-approvals/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/How_to_revoke_NFT_approvals_featured_collage.jpg"
   },
   {
-    "id": "NFT Culture-1794578674899-5",
-    "title": "Наоко Тоса «Самовоспроизводящиеся существа»: персональная выставка в Музее Киото",
-    "source": "NFT Culture",
-    "category": "NFT",
-    "date": "5 нояб. 2026 г.",
-    "summary": "Выставка Naoko Tosa Generative Beings пройдет с 7 по 22 ноября в Зале света музея KYOCERA в Киото. Вход свободный. Публикация «Naoko Tosa Generative Beings: персональная выставка в музее Киото» впервые появилась на сайте NFT CULTURE.",
-    "url": "https://www.nftculture.com/nft-art/naoko-tosa-generative-beings/",
-    "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/Naoko_Tosa_Generative_Beings_Kyoto_collage.jpg"
-  },
-  {
-    "id": "NFT Now-1794578678788-0",
+    "id": "NFT Now-1794597340875-0",
     "title": "Представляем Now Media: голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
     "date": "15 июл. 2025 г.",
-    "summary": "Мы живем в эпоху шума. Я чувствую это каждый день, когда просыпаюсь, захожу на платформы, где мы собираемся, и пытаюсь найти смысл среди хаоса. Я не могу сосчитать, сколько раз я ловил себя на том, что просматриваю свою ленту в неподходящее время, запутавшись в бесконечном потоке кликбейтных заголовков […] Публикация «Представляем Now Media: голос цифровой культуры» впервые появилась на nft now.",
+    "summary": "Мы живем в эпоху шума. Я чувствую это каждый день, когда просыпаюсь, захожу на платформы, где мы собираемся, и пытаюсь найти смысл среди хаоса. Я не могу сосчитать, сколько раз я ловил себя на том, что просматриваю свою ленту в неподходящее время, затерявшись в бесконечном потоке кликбейтных заголовков […] Публикация «Представляем Now Media: голос цифровой культуры» впервые появилась на nft now.",
     "url": "https://nftnow.com/guides/introducing-now-media-the-voice-of-digital-culture/",
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1794578681390-1",
+    "id": "NFT Now-1794597343643-1",
     "title": "Представляем SnapNFT: новый стандарт для коллекционирования цифровых активов",
     "source": "NFT Now",
     "category": "NFT",
     "date": "25 июн. 2025 г.",
-    "summary": "После периода нестабильности сфера NFT незаметно возвращается в привычный ритм — и на этот раз он звучит иначе. Последние несколько месяцев ознаменовались волной многообещающей динамики: Telegram интегрирует мини-приложения, поддерживающие NFT, для своей пользовательской базы, насчитывающей миллиард человек. NFT используются для всего — от торговли телефонами […] Публикация «Представляем SnapNFT: новый стандарт цифрового коллекционирования» появилась",
+    "summary": "После периода нестабильности сфера NFT незаметно возвращается в привычный ритм — и на этот раз он звучит иначе. Последние несколько месяцев ознаменовались волной многообещающей динамики: Telegram интегрирует мини-приложения, поддерживающие NFT, для своей пользовательской базы, насчитывающей один миллиард человек. NFT используются для самых разных целей — от торговли телефонами […] Публикация «Представляем SnapNFT: новый стандарт цифрового коллекционирования» появилась",
     "url": "https://nftnow.com/guides/collect-kred-collectibl-nft-guest-post/",
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1794578684170-2",
+    "id": "NFT Now-1794597346347-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду премии ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
@@ -270,8 +270,8 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1794578686838-3",
-    "title": "Все внимание — искусству: предстоящие коллекции, на которые стоит обратить внимание на неделе с 10 июня",
+    "id": "NFT Now-1794597349065-3",
+    "title": "Все внимание — искусству: предстоящие коллекции, которые стоит посмотреть на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
     "date": "10 июн. 2025 г.",
@@ -280,123 +280,123 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1794578689475-4",
+    "id": "NFT Now-1794597351744-4",
     "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
     "date": "6 июн. 2025 г.",
-    "summary": "Снова приветствую вас в новостной рассылке Now Newsletter. Я Мэтт Медвед, веду репортаж в прямом эфире с саммита NFC в Лиссабоне. Это наш третий год в качестве медиапартнёра NFC Summit, и это мероприятие по-прежнему остаётся одним из моих любимых в календаре. В отличие от более крупных европейских конференций, которые пытаются охватить весь спектр блокчейна, NFC уделяет основное внимание цифровому искусству […] Публикация «За кулисами смелой ставки на возрождение Moonbirds» впервые появилась на nft now.",
+    "summary": "С возвращением в новостную рассылку Now Newsletter. Я Мэтт Медвед, веду репортаж в прямом эфире с саммита NFC в Лиссабоне. Это наш третий год в качестве медиапартнера саммита NFC, и он по-прежнему остается одним из моих любимых мероприятий в календаре. В отличие от более крупных европейских конференций, которые пытаются охватить весь спектр блокчейна, NFC уделяет основное внимание цифровому искусству […] Публикация «За кулисами смелой ставки на возрождение Moonbirds» впервые появилась на nft now.",
     "url": "https://nftnow.com/newsletter/moonbirds-acquisition-spencer-gordon-sand-interview/",
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1794578692068-5",
-    "title": "Все внимание — искусству: предстоящие коллекции, которые стоит посмотреть на неделе с 3 июня",
+    "id": "NFT Now-1794597354035-5",
+    "title": "Все внимание — искусству: коллекции, которые стоит посмотреть на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
     "date": "3 июн. 2025 г.",
-    "summary": "Если учесть, как быстро всё меняется в метавселенной, удивительно, что кто-то вообще успевает следить за всеми новостями и запусками продуктов, не говоря уже о постоянном потоке потрясающих произведений искусства. Учитывая все это, возникает важный вопрос: как эффективно находить лучшие из будущих коллекций произведений искусства? Чтобы узнать ответ, […] Публикация «Все внимание на искусство: предстоящие коллекции, за которыми стоит следить»",
+    "summary": "Если учесть, как быстро всё меняется в метавселенной, удивительно, что кто-то вообще успевает следить за всеми новостями и запусками продуктов, не говоря уже о постоянном потоке невероятных произведений искусства. Учитывая все это, возникает важный вопрос: как эффективно находить лучшие из будущих коллекций произведений искусства? Чтобы узнать ответ, […] Публикация «Все внимание на искусство: предстоящие коллекции, за которыми стоит следить»",
     "url": "https://nftnow.com/art/all-eyes-on-art-upcoming-collections-to-watch-the-week-of-june-3-2025/",
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1794578694717-0",
+    "id": "Cointelegraph NFT-1794597357451-0",
     "title": "Blur закрывает свой сайт, так почему же коллекционеры NFT радуются?",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "13 окт. 2026 г.",
-    "summary": "Планируемое закрытие веб-сайта Blur вызвало новую волну критики в адрес политики роялти и токенов вознаграждения, которые помогли платформе обогнать OpenSea во время бума NFT, но навредили креаторам.",
+    "summary": "Планируемое закрытие сайта Blur вызвало новую волну критики в адрес политики роялти и токенов вознаграждения, которые помогли платформе обогнать OpenSea во время бума NFT, но навредили создателям.",
     "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794578697054-1",
+    "id": "Cointelegraph NFT-1794597359827-1",
     "title": "Blast сворачивает L2-сеть Ethereum, поскольку расходы превысили доходы",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "2 окт. 2026 г.",
-    "summary": "Blast, некогда одна из крупнейших сетей второго уровня Ethereum по общему объему заблокированных средств, призывает пользователей перевести свои активы в основную сеть до прекращения работы.",
+    "summary": "Blast, некогда одна из крупнейших сетей второго уровня Ethereum по общей заблокированной стоимости, призывает пользователей перевести свои активы в основную сеть до прекращения работы.",
     "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png"
   },
   {
-    "id": "Cointelegraph NFT-1794578699581-2",
+    "id": "Cointelegraph NFT-1794597362037-2",
     "title": "Долгосрочный Web3-проект Porsche завершится менее чем через четыре года",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "2 окт. 2026 г.",
-    "summary": "Компания Porsche сворачивает свой проект Web3 и сообщество Pioneers Circle, поскольку объем торгов ее коллекцией NFT 911 резко снизился по сравнению с первоначальным уровнем.",
+    "summary": "Компания Porsche сворачивает свой проект Web3 и сообщество Pioneers Circle, поскольку объем торгов в ее коллекции NFT 911 резко снизился по сравнению с первоначальным уровнем.",
     "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794578702397-3",
+    "id": "Cointelegraph NFT-1794597364482-3",
     "title": "Из-за инцидента на Magic Eden 3832 NFT были помещены под защиту «белых хакеров»",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "25 сент. 2026 г.",
-    "summary": "Представитель Yuga Labs под ником 0xQuit заявил, что NFT в безопасности и будут возвращены, как только угроза минует. При этом владельцам было настоятельно рекомендовано отозвать разрешения на доступ к NFT.",
+    "summary": "Представитель Yuga Labs под ником 0xQuit заявил, что NFT в безопасности и будут возвращены, как только угроза минует. При этом владельцам было настоятельно рекомендовано отозвать разрешения на NFT.",
     "url": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794578705100-4",
-    "title": "По данным Public Citizen, «схемы» Трампа с криптовалютами стоили инвесторам 4,7 млрд $",
+    "id": "Cointelegraph NFT-1794597367106-4",
+    "title": "По данным Public Citizen, «схемы» Трампа с криптовалютами стоили инвесторам 4,7 млрд долларов",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "27 авг. 2026 г.",
-    "summary": "По данным Public Citizen, хотя инвесторы в стейблкоин World Liberty Financial, привязанный к доллару США, «не понесли серьезных убытков», многие потеряли миллиарды долларов в других проектах Трампа.",
+    "summary": "По данным Public Citizen, хотя инвесторы в стейблкоин USD1 от World Liberty Financial «не понесли серьезных убытков», многие потеряли миллиарды долларов в других проектах Трампа.",
     "url": "https://cointelegraph.com/news/donald-trump-crypto-investors-losses-public-citizen?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1794578707864-5",
+    "id": "Cointelegraph NFT-1794597369753-5",
     "title": "10 самых странных вещей, которые когда-либо токенизировали... включая пердеж",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "6 авг. 2026 г.",
-    "summary": "Токенизированные коровы, возможно, стали вирусным трендом, но они — лишь последнее из множества странных явлений, нашедших свое место в блокчейне, от пердежа до человеческой кожи и уничтоженных произведений искусства.",
+    "summary": "Токенизированные коровы, возможно, стали вирусным трендом, но это лишь последний пример из длинного списка странных вещей, которые нашли свое место в блокчейне, — от пердежа до человеческой кожи и уничтоженных произведений искусства.",
     "url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
   },
   {
-    "id": "CoinDesk-1794578710510-0",
-    "title": "Компания Payward, материнская компания Kraken, заявляет, что выход за пределы сферы криптотрейдинга помогает смягчить падение доходов",
+    "id": "CoinDesk-1794597372568-0",
+    "title": "Биткоин упал до 68 000 $, поскольку ажиотаж вокруг IPO Anthropic усилил нервозность на рынке",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "13 нояб. 2026 г.",
-    "summary": "Хотя прибыль и недавно введенный показатель финансовой эффективности компании оставались ниже уровней предыдущего года, со второго квартала наблюдаются признаки улучшения.",
+    "summary": "Аналитики не видят прямой связи между Nvidia и падением биткоина, указывая вместо этого на переток капитала инвесторов в Anthropic, а также на более масштабную тенденцию к снижению склонности к риску.",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1794597375351-1",
+    "title": "Банковский комитет Сената США готовится к слушаниям по новым кандидатурам в Комиссию по ценным бумагам и биржам (SEC)",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Комитет, который должен продвигать кандидатов, выдвинутых президентом Дональдом Трампом, оперативно отреагировал, назначив рассмотрение кандидатов в Комиссию по ценным бумагам и биржам на следующую неделю.",
+    "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1794597377884-2",
+    "title": "Биткоин движется к шестому недельному убытку на фоне приближающегося громкого IPO Anthropic",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "13 нояб. 2026 г.",
+    "summary": "В этом году биткоин подешевел на 21 %, поскольку инвесторы оценивают ожидаемый листинг Anthropic, кадровые перестановки в Nvidia и растущие ожидания повышения процентной ставки ФРС.",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1794597380306-3",
+    "title": "Компания Payward, материнская компания Kraken, заявляет, что расширение деятельности за пределы криптотрейдинга помогает смягчить падение доходов",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "13 нояб. 2026 г.",
+    "summary": "Хотя прибыль и недавно введенный показатель финансовой эффективности компании оставались ниже уровней годичной давности, со второго квартала наблюдаются признаки улучшения.",
     "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
-    "imageURL": null
-  },
-  {
-    "id": "CoinDesk-1794578712608-1",
-    "title": "Индикатор импульса биткоина становится красным, что может привести к снижению цены ниже 60 000 $",
-    "source": "CoinDesk",
-    "category": "Blockchain",
-    "date": "13 нояб. 2026 г.",
-    "summary": "Прогноз погоды на завтра, 13 ноября 2026 г.",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
-    "imageURL": null
-  },
-  {
-    "id": "CoinDesk-1794578715302-2",
-    "title": "Биткоин достиг 12-недельного минимума на фоне роста доллара в связи с прогнозами по процентным ставкам, а объем ликвидаций превысил 1,6 млрд долларов США",
-    "source": "CoinDesk",
-    "category": "Blockchain",
-    "date": "13 нояб. 2026 г.",
-    "summary": "Биткоин (BTC) впервые с августа упал ниже $70 000 и подешевел на 3,5% с полуночи по UTC, поскольку доллар растёт, а объём ликвидаций превысил $1,6 млрд.",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-    "imageURL": null
-  },
-  {
-    "id": "CoinDesk-1794578717791-3",
-    "title": "Оперативные новости: биткоин снова падает к минимумам «медвежьего» рынка, сводя на нет рост конца лета",
-    "source": "CoinDesk",
-    "category": "Blockchain",
-    "date": "13 нояб. 2026 г.",
-    "summary": "Биткоин опустился ниже своей 200-недельной скользящей средней на фоне роста процентных ставок и доллара, в то время как фондовые рынки не отреагировали на проблемы Nvidia.",
-    "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
     "imageURL": null
   }
 ]
