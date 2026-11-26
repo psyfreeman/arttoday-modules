@@ -1,6 +1,16 @@
 [
   {
-    "id": "ARTnews-1795710667617-0",
+    "id": "ARTnews-1795726656073-0",
+    "title": "Редкая «грудная чаша» Марии-Антуанетты продана в Париже за 2,47 млн долларов, превысив верхнюю оценку",
+    "source": "ARTnews",
+    "category": "Market",
+    "date": "26 нояб. 2026 г.",
+    "summary": "Редкая «чаша с сосками» — одна из четырех таких чаш, изготовленных для «молочной фермы для удовольствия» французской королевы недалеко от Версальского дворца.",
+    "url": "https://www.artnews.com/artnews/news/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
+    "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/4751ssreflet.jpg?w=400"
+  },
+  {
+    "id": "ARTnews-1795726658452-1",
     "title": "Лиза Марей Шмидт назначена директором Художественного музея Берна и Центра Пауля Клее",
     "source": "ARTnews",
     "category": "Market",
@@ -10,17 +20,17 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1795710671653-1",
+    "id": "ARTnews-1795726660952-2",
     "title": "В музее The Broad шесть десятилетий искусства ставят под сомнение миф о прогрессе",
     "source": "ARTnews",
     "category": "Market",
     "date": "26 нояб. 2026 г.",
-    "summary": "От шелкографий Энди Уорхола, посвященных жестокости полиции, до зеркальной газеты Гуадалупе Росалес — новая выставка исследует несправедливость, которую Америка изо всех сил пытается оставить в прошлом.",
+    "summary": "От шелкографий Энди Уорхола о жестокости полиции до зеркальной газеты Гуадалупе Росалес — новая выставка посвящена несправедливости, с которой Америка изо всех сил пытается покончить.",
     "url": "https://www.artnews.com/art-news/news/has-the-myth-been-shattered-exhibition-the-broad-la-1234807846/",
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/Rosales_Has-the-myth-been-shattered-View-1_Photo-Joshua_White-jwpictures.com_.jpg?w=400"
   },
   {
-    "id": "ARTnews-1795710675594-2",
+    "id": "ARTnews-1795726663416-3",
     "title": "В доме Кевина Лава в Майами представлены работы Энтони Гормли, Рашида Джонсона, Эда Рушей и Ричарда Принса",
     "source": "ARTnews",
     "category": "Market",
@@ -30,7 +40,7 @@
     "imageURL": "https://www.artnews.com/wp-content/uploads/2026/11/ML_KevinLove_049_Final.jpg?w=400"
   },
   {
-    "id": "ARTnews-1795710680547-3",
+    "id": "ARTnews-1795726665402-4",
     "title": "Хур аль-Касими назначена куратором Венецианской биеннале 2028 года",
     "source": "ARTnews",
     "category": "Market",
@@ -40,8 +50,8 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1795710683744-4",
-    "title": "Глава Смитсоновского института заверил сотрудников в независимости учреждения после того, как стало известно о плане реорганизации, разработанном Белым домом",
+    "id": "ARTnews-1795726667593-5",
+    "title": "Глава Смитсоновского института заверил сотрудников в независимости учреждения после того, как стал известен план реорганизации Белого дома",
     "source": "ARTnews",
     "category": "Market",
     "date": "25 нояб. 2026 г.",
@@ -50,98 +60,88 @@
     "imageURL": null
   },
   {
-    "id": "ARTnews-1795710687387-5",
-    "title": "Галерея Тейт Ливерпуль планирует вновь открыться осенью 2027 года с выставкой, посвященной сюрреализму",
-    "source": "ARTnews",
-    "category": "Market",
-    "date": "25 нояб. 2026 г.",
-    "summary": "Выставка сюрреализма будет проходить с осени 2027 года по весну 2028 года и будет включать работы Сальвадора Дали, Эйлин Агар и Мана Рэя.",
-    "url": "https://www.artnews.com/art-news/news/tate-liverpool-plans-fall-2027-reopening-surrealism-survey-1234807954/",
-    "imageURL": null
-  },
-  {
-    "id": "Artnet News-1795710692315-1",
+    "id": "Artnet News-1795726671918-1",
     "title": "На этой карибской художественной ярмарке продажи — не главное",
     "source": "Artnet News",
     "category": "Market",
     "date": "26 нояб. 2026 г.",
-    "summary": "При поддержке роскошного курорта Fuze стремится развивать художественную сцену Багамских островов. Публикация «На этой карибской художественной ярмарке продажи не являются главной целью» впервые появилась на сайте Artnet News.",
+    "summary": "При поддержке роскошного курорта Fuze стремится развивать художественную сцену Багамских островов. Публикация «На этой карибской художественной ярмарке продажи — не главное» впервые появилась на Artnet News.",
     "url": "https://news.artnet.com/market/fuze-art-fair-baha-mar-2835743",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1795710694693-2",
+    "id": "Artnet News-1795726674243-2",
     "title": "Нара-мания, драма вокруг картины Ван Гога стоимостью 190 млн долларов и что происходит с молодыми галереями",
     "source": "Artnet News",
     "category": "Market",
     "date": "25 нояб. 2026 г.",
-    "summary": "На этой неделе автор Artnet Кенни Шахтер присоединится к Бену Дэвису и Эндрю Рассету, чтобы обсудить самые громкие новости месяца. Публикация «Нара-мания, история с картиной Ван Гога стоимостью 190 млн долларов и что происходит с молодыми галереями» впервые появилась на сайте Artnet News.",
+    "summary": "На этой неделе автор Artnet Кенни Шахтер присоединяется к Бену Дэвису и Эндрю Рассету, чтобы обсудить самые громкие новости месяца. Публикация «Нара-мания, драма вокруг картины Ван Гога стоимостью 190 млн долларов и что происходит с молодыми галереями» впервые появилась на сайте Artnet News.",
     "url": "https://news.artnet.com/multimedia/nara-mania-van-gogh-young-galleries-2830398",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1795710697067-3",
-    "title": "JoCa представляет искусство за столом на Неделе искусств в Майами",
+    "id": "Artnet News-1795726676376-3",
+    "title": "JoCa представляет искусство за столом на Неделе искусства в Майами",
     "source": "Artnet News",
     "category": "Market",
     "date": "25 нояб. 2026 г.",
-    "summary": "Художница дебютирует в США в популярном ресторане The Mexican, где 10 созданных специально для этого места работ дополнят меню, составленное в соответствии с их темами. Публикация «JoCa представляет искусство за столом на Неделе искусств в Майами» впервые появилась на Artnet News.",
+    "summary": "Художница дебютирует в США в популярном ресторане The Mexican, где 10 созданных специально для этого места работ дополнят меню, разработанное в соответствии с их темами. Публикация «JoCa представляет искусство за столом на Неделе искусств в Майами» впервые появилась на Artnet News.",
     "url": "https://news.artnet.com/art-world/joca-miami-2839776",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1795710699479-4",
+    "id": "Artnet News-1795726678752-4",
     "title": "Необходимость пересмотра оценок и другие выводы по итогам Недели аукционов в Нью-Йорке",
     "source": "Artnet News",
     "category": "Market",
     "date": "25 нояб. 2026 г.",
-    "summary": "Кроме того, что стоит за главными лотами и действительно ли рынок де Кунинга охлаждается? Свое мнение высказывает ветеран аукционного бизнеса Юсси Пюлккянен. Публикация «Эстимейты нуждаются в пересмотре и другие выводы по итогам Недели аукционов в Нью-Йорке» впервые появилась на Artnet News.",
+    "summary": "Кроме того, что стоит за главными лотами и действительно ли рынок де Кунинга охлаждается? Свое мнение высказывает ветеран аукционного бизнеса Юсси Пюлккянен. Публикация «Эстимейты нуждаются в пересмотре и другие выводы по итогам Недели аукционов в Нью-Йорке» впервые появилась на сайте Artnet News.",
     "url": "https://news.artnet.com/art-world/new-york-auction-week-recap-2841932",
     "imageURL": null
   },
   {
-    "id": "Artnet News-1795710701852-5",
+    "id": "Artnet News-1795726680968-5",
     "title": "Новый художественный музей Брюсселя стоимостью 252 млн долларов наконец готов к открытию",
     "source": "Artnet News",
     "category": "Market",
     "date": "25 нояб. 2026 г.",
-    "summary": "После 12 лет подготовки в эти выходные открывается Kanal — первый в городе музей современного и модернистского искусства. Публикация «Новый брюссельский музей искусств стоимостью 252 млн долларов наконец готов к открытию» впервые появилась на сайте Artnet News.",
+    "summary": "После 12 лет подготовки в эти выходные открывается Kanal — первый в городе музей современного и новейшего искусства. Публикация «Новый брюссельский музей искусств стоимостью 252 млн долларов наконец готов к открытию» впервые появилась на сайте Artnet News.",
     "url": "https://news.artnet.com/art-world/kanal-centre-pompidou-brussels-2841591",
     "imageURL": null
   },
   {
-    "id": "NFT Culture-1795710704641-0",
+    "id": "NFT Culture-1795726683631-0",
     "title": "Продажи NFT на этой неделе (24 ноября): $29,2 млн, а 2 крупнейшие «продажи» были займами",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "25 нояб. 2026 г.",
-    "summary": "На этой неделе объем продаж NFT на CryptoSlam составил 29,23 млн долларов. Мы проверили топ-5 в блокчейне: настоящая Mutant Ape за 189,65 ETH и два займа Skulls of Luci, которые были учтены как продажи. Пост «Продажи NFT на этой неделе (24 ноября): 29,2 млн долларов, а 2 крупнейшие \"продажи\" были займами» впервые опубликован на сайте NFT CULTURE.",
+    "summary": "На этой неделе объем продаж NFT на CryptoSlam составил 29,23 млн $. Мы проверили топ-5 в блокчейне: настоящая Mutant Ape за 189,65 ETH и два займа Skulls of Luci, которые были учтены как продажи. Пост «Продажи NFT на этой неделе (24 ноября): 29,2 млн долларов, а 2 крупнейшие \"продажи\" были займами» впервые опубликован на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/nft-news/nft-sales-this-week/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/nft-sales-this-week-collage.jpg"
   },
   {
-    "id": "NFT Culture-1795710706902-1",
+    "id": "NFT Culture-1795726685902-1",
     "title": "Цифровое искусство на Art Basel Miami 2026: проекты 19 Zero 10, которые стоит увидеть",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "23 нояб. 2026 г.",
-    "summary": "Гид по цифровому искусству на Art Basel Miami 2026: все 19 проектов Zero 10, 5 художников с опытом работы в блокчейне, лекции 4 декабря и советы по планированию вашего визита с 4 по 6 декабря. Публикация «Art Basel Miami 2026: цифровое искусство. 19 проектов Zero 10, которые стоит увидеть» впервые появилась на сайте NFT CULTURE.",
+    "summary": "Гид по цифровому искусству на Art Basel Miami 2026: все 19 проектов Zero 10, 5 художников с опытом работы в блокчейне, лекции 4 декабря и советы по планированию вашего визита с 4 по 6 декабря. Публикация «Цифровое искусство на Art Basel Miami 2026: 19 проектов Zero 10, которые стоит увидеть» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/nft-events/art-basel-miami-2026-digital-art/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/Art_Basel_Miami_2026_digital_art_Zero_10_collage.jpg"
   },
   {
-    "id": "NFT Culture-1795710709162-2",
+    "id": "NFT Culture-1795726688598-2",
     "title": "artport: история интернет-искусства и его ончейн-произведений",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "20 нояб. 2026 г.",
-    "summary": "Выставка artport: A History of Internet Art («artport: История интернет-искусства») открывается в Музее американского искусства Уитни 21 ноября. Ознакомьтесь с его ончейн-веткой, начиная с блокчейн-доноров Маккоев 2019 года и заканчивая Entr'acte от Operator. Публикация «artport: история интернет-искусства и его ончейн-произведения» впервые появилась на сайте NFT CULTURE.",
+    "summary": "Выставка artport: A History of Internet Art («artport: История интернет-искусства») открывается в музее Уитни 21 ноября. Ознакомьтесь с его цепочкой в блокчейне — от блокчейн-доноров Маккоев 2019 года до работы Entr'acte от Operator. Публикация «artport: история интернет-искусства и его ончейн-произведения» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/nft-art/artport-history-of-internet-art/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/artport-a-history-of-internet-art-collage.jpg"
   },
   {
-    "id": "NFT Culture-1795710711312-3",
-    "title": "Алехандро Картахена «Новые алфавиты: фотографии, превращенные в шум»",
+    "id": "NFT Culture-1795726690658-3",
+    "title": "Алехандро Картахена «Новые алфавиты: фотографии, разбитые на шум»",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "19 нояб. 2026 г.",
@@ -150,27 +150,27 @@
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/alejandro-cartagena-new-alphabets-collage.jpg"
   },
   {
-    "id": "NFT Culture-1795710713696-4",
-    "title": "Сэм Спратт «Создатель масок: Мир Люси без Люси»",
+    "id": "NFT Culture-1795726692909-4",
+    "title": "Сэм Спратт «Создатель масок: мир Люси без Люси»",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "18 нояб. 2026 г.",
-    "summary": "Сэм Спратт, создатель масок, превращает фигуру в капюшоне из X. Masquerade в отдельное произведение 1/1 — первое, где нет Люси, — которое теперь входит в коллекцию Алана Ховарда. Публикация «Сэм Спратт, создатель масок: мир Люси без Люси» впервые появилась на сайте NFT CULTURE.",
+    "summary": "Сэм Спратт, автор серии The Mask Maker, превращает фигуру в капюшоне из X. Masquerade в отдельный NFT 1/1 — первый, на котором нет Люси. Сейчас это произведение находится в коллекции Алана Ховарда. Публикация «Сэм Спратт, создатель масок: мир Люси без Люси» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/nft-art/sam-spratt-the-mask-maker/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/sam-spratt-the-mask-maker-collage.jpg"
   },
   {
-    "id": "NFT Culture-1795710716101-5",
-    "title": "Харм ван ден Дорпел «Entfaltung: Эмма Кунц в эпоху Эфириума»",
+    "id": "NFT Culture-1795726695338-5",
+    "title": "Харм ван ден Дорпель «Entfaltung: Эмма Кунц в эпоху Эфириума»",
     "source": "NFT Culture",
     "category": "NFT",
     "date": "17 нояб. 2026 г.",
-    "summary": "В рамках проекта Entfaltung Харм ван ден Дорпел превращает рисунки Эммы Кунц, созданные с помощью маятника, в 36 произведений, хранящихся в блокчейне в режиме реального времени, и 12 рисунков для выставки Art Basel Miami Beach, которая пройдет с 4 по 6 декабря. Публикация «Harm van den Dorpel Entfaltung: Эмма Кунц в эпоху Эфириума» впервые появилась на сайте NFT CULTURE.",
+    "summary": "В рамках проекта Entfaltung Харм ван ден Дорпел превращает рисунки Эммы Кунц, созданные с помощью маятника, в 36 произведений, существующих в режиме реального времени в блокчейне, и 12 рисунков для выставки Art Basel Miami Beach, которая пройдет с 4 по 6 декабря. Публикация «Harm van den Dorpel Entfaltung: Эмма Кунц в эпоху Эфириума» впервые появилась на сайте NFT CULTURE.",
     "url": "https://www.nftculture.com/nft-art/harm-van-den-dorpel-entfaltung/",
     "imageURL": "https://d34jlxpwrja7q9.cloudfront.net/wp-content/uploads/2026/11/harm-van-den-dorpel-entfaltung-collage.jpg"
   },
   {
-    "id": "NFT Now-1795710720306-0",
+    "id": "NFT Now-1795726699353-0",
     "title": "Представляем Now Media: голос цифровой культуры",
     "source": "NFT Now",
     "category": "NFT",
@@ -180,27 +180,27 @@
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/07/now-newsletter-beehiiv-thumb-1.png"
   },
   {
-    "id": "NFT Now-1795710723517-1",
-    "title": "Представляем SnapNFT: новый стандарт для цифрового коллекционирования",
+    "id": "NFT Now-1795726702656-1",
+    "title": "Представляем SnapNFT: новый стандарт для коллекционирования цифровых активов",
     "source": "NFT Now",
     "category": "NFT",
     "date": "25 июн. 2025 г.",
-    "summary": "После периода нестабильности сфера NFT постепенно возвращается в привычный ритм — и на этот раз он звучит иначе. Последние несколько месяцев ознаменовались волной многообещающей динамики: Telegram интегрирует мини-приложения, поддерживающие NFT, для своей пользовательской базы, насчитывающей один миллиард человек. NFT используются для самых разных целей — от торговли телефонами […] Публикация «Представляем SnapNFT: новый стандарт цифрового коллекционирования» появилась",
+    "summary": "После периода нестабильности сфера NFT незаметно возвращается в привычный ритм — и на этот раз он звучит иначе. Последние несколько месяцев ознаменовались волной многообещающей динамики: Telegram интегрирует мини-приложения, поддерживающие NFT, для своей пользовательской базы, насчитывающей миллиард человек. NFT используются для самых разных целей — от торговли телефонами […] Публикация «Представляем SnapNFT: новый стандарт цифрового коллекционирования» появилась",
     "url": "https://nftnow.com/guides/collect-kred-collectibl-nft-guest-post/",
     "imageURL": "https://nftnow.com/wp-content/uploads/2025/06/image7-1200x675.png"
   },
   {
-    "id": "NFT Now-1795710726095-2",
+    "id": "NFT Now-1795726706140-2",
     "title": "Анна Ридлер и София Креспо получили высшую награду премии ABS Digital Art Prize",
     "source": "NFT Now",
     "category": "NFT",
     "date": "12 июн. 2025 г.",
-    "summary": "Анна Ридлер и София Креспо стали совместными победительницами в категории «Художник года» премии Arab Bank Switzerland (ABS) Digital Art Prize 2025. Премия, которая проводится уже третий год, отмечает новаторских цифровых художников. Ее лауреаты получают возможность провести персональную выставку или экспозицию в культурном учреждении в течение следующего года. После […] Публикация «Анна Ридлер и София Креспо удостоены высшей награды ABS»",
+    "summary": "Анна Ридлер и София Креспо стали совместными победительницами в категории «Художник года» премии Arab Bank Switzerland (ABS) Digital Art Prize 2025. Премия, которая проводится уже третий год, отмечает новаторских цифровых художников, а ее лауреаты получают возможность провести персональную выставку в культурном учреждении в течение следующего года. После […] Публикация «Анна Ридлер и София Креспо удостоены высшей награды ABS»",
     "url": "https://nftnow.com/art/arab-bank-switzerland-2025-digital-art-prize-anna-ridler-sofia-crespo/",
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f941.png"
   },
   {
-    "id": "NFT Now-1795710728723-3",
+    "id": "NFT Now-1795726709044-3",
     "title": "Все внимание — искусству: предстоящие коллекции, на которые стоит обратить внимание на неделе с 10 июня",
     "source": "NFT Now",
     "category": "NFT",
@@ -210,27 +210,27 @@
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f30e.png"
   },
   {
-    "id": "NFT Now-1795710731725-4",
-    "title": "Подробности смелой ставки на возрождение Moonbirds",
+    "id": "NFT Now-1795726711686-4",
+    "title": "Смелая ставка на возрождение Moonbirds",
     "source": "NFT Now",
     "category": "NFT",
     "date": "6 июн. 2025 г.",
-    "summary": "С возвращением в новостную рассылку Now Newsletter. Я Мэтт Медвед, веду репортаж в прямом эфире с саммита NFC в Лиссабоне. Это уже третий год, когда мы выступаем в качестве медиапартнёра NFC Summit, и это мероприятие по-прежнему остаётся одним из моих любимых в календаре. В отличие от более крупных европейских конференций, которые пытаются охватить весь спектр блокчейна, NFC уделяет основное внимание цифровому искусству […] Публикация «Взгляд изнутри на смелую ставку на возрождение Moonbirds» впервые появилась на nft now.",
+    "summary": "С возвращением в рассылку Now Newsletter. Я Мэтт Медвед, веду репортаж в прямом эфире с саммита NFC в Лиссабоне. Это наш третий год в качестве медиапартнёра NFC Summit, и это мероприятие по-прежнему остаётся одним из моих любимых в календаре. В отличие от более крупных европейских конференций, которые пытаются охватить весь спектр блокчейна, NFC уделяет основное внимание цифровому искусству […] Публикация «За кулисами смелой ставки на возрождение Moonbirds» впервые появилась на nft now.",
     "url": "https://nftnow.com/newsletter/moonbirds-acquisition-spencer-gordon-sand-interview/",
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png"
   },
   {
-    "id": "NFT Now-1795710734497-5",
+    "id": "NFT Now-1795726714134-5",
     "title": "Все внимание — искусству: коллекции, которые стоит посмотреть на неделе с 3 июня",
     "source": "NFT Now",
     "category": "NFT",
     "date": "3 июн. 2025 г.",
-    "summary": "Если учесть, насколько быстро всё меняется в метавселенной, удивительно, что кто-то вообще успевает следить за всеми новостями и запусками продуктов, не говоря уже о постоянном потоке невероятных произведений искусства. Учитывая всё это, возникает важный вопрос: как эффективно находить лучшие из будущих коллекций произведений искусства? Чтобы узнать ответ, […] Публикация «Все внимание на искусство: предстоящие коллекции, за которыми стоит следить»",
+    "summary": "Если учесть, как быстро всё меняется в метавселенной, удивительно, что кто-то вообще успевает следить за всеми новостями и запусками продуктов, не говоря уже о постоянном потоке невероятных произведений искусства. Учитывая всё это, возникает важный вопрос: как эффективно находить лучшие из будущих коллекций произведений искусства? Чтобы узнать ответ, […] Публикация «Все внимание на искусство: предстоящие коллекции, за которыми стоит следить»",
     "url": "https://nftnow.com/art/all-eyes-on-art-upcoming-collections-to-watch-the-week-of-june-3-2025/",
     "imageURL": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f517.png"
   },
   {
-    "id": "Cointelegraph NFT-1795710737163-0",
+    "id": "Cointelegraph NFT-1795726717217-0",
     "title": "7 странных вещей, на которые криптокиты потратили целое состояние",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -240,18 +240,18 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AJF5HX1DMMV7AVXD5FM0BD/transformed-surreal-scene.png"
   },
   {
-    "id": "Cointelegraph NFT-1795710739747-1",
+    "id": "Cointelegraph NFT-1795726719636-1",
     "title": "Blur закрывает свой сайт, так почему же коллекционеры NFT радуются?",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "13 окт. 2026 г.",
-    "summary": "Планируемое закрытие сайта Blur вызвало новую волну критики в адрес политики роялти и токенов вознаграждения, которые помогли платформе обогнать OpenSea во время бума NFT, но навредили создателям.",
+    "summary": "Планируемое закрытие веб-сайта Blur вызвало новую волну критики в адрес политики роялти и токенов вознаграждения, которые помогли платформе обогнать OpenSea во время бума NFT, но навредили создателям.",
     "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4SW8NVDJEDWFCYACTDX3B9S/nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1795710742263-2",
-    "title": "Blast сворачивает L2-сеть Ethereum, поскольку расходы превысили доходы",
+    "id": "Cointelegraph NFT-1795726722371-2",
+    "title": "Сеть Blast сворачивает L2-решение для Ethereum после того, как расходы превысили доходы",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "2 окт. 2026 г.",
@@ -260,27 +260,27 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YVCXVHV01NQ6FAE9XNJ7YQ/hi-terra-chain-test-net-to-go-offline-soon-will-that-be-it-for-the-network.png"
   },
   {
-    "id": "Cointelegraph NFT-1795710744714-3",
-    "title": "Долгосрочный проект Porsche в сфере Web3 завершится менее чем через четыре года",
+    "id": "Cointelegraph NFT-1795726724791-3",
+    "title": "Долгосрочный Web3-проект Porsche завершится менее чем через четыре года",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "2 окт. 2026 г.",
-    "summary": "Компания Porsche сворачивает свой проект Web3 и сообщество Pioneers Circle, поскольку активность торговли в ее коллекции NFT 911 резко снизилась по сравнению с начальным уровнем.",
+    "summary": "Компания Porsche сворачивает свой Web3-проект и сообщество Pioneers Circle, поскольку активность торговли в ее коллекции NFT 911 резко снизилась по сравнению с начальным уровнем.",
     "url": "https://cointelegraph.com/news/porsche-shuts-down-web3-project-911-nft?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XVQ90NXXBKZTRCV3S58R4J/porsche-panamera.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1795710747191-4",
-    "title": "Из-за инцидента на Magic Eden 3832 NFT были помещены под защиту «белых хакеров»",
+    "id": "Cointelegraph NFT-1795726727299-4",
+    "title": "Из-за инцидента на Magic Eden 3832 NFT были переданы на хранение «белым хакерам»",
     "source": "Cointelegraph NFT",
     "category": "NFT",
     "date": "25 сент. 2026 г.",
-    "summary": "Представитель Yuga Labs под ником 0xQuit заявил, что NFT в безопасности и будут возвращены, как только угроза минует, а владельцам было настоятельно рекомендовано отозвать разрешения на NFT.",
+    "summary": "Представитель Yuga Labs под ником 0xQuit заявил, что NFT в безопасности и будут возвращены, как только угроза минует, а владельцам было настоятельно рекомендовано отозвать разрешения на доступ к NFT.",
     "url": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss_tag_nft&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BXKEGSARVJTVQV05A2NDRW/buy-internet-online-shop-nft.jpg"
   },
   {
-    "id": "Cointelegraph NFT-1795710749615-5",
+    "id": "Cointelegraph NFT-1795726729822-5",
     "title": "По данным Public Citizen, «схемы» Трампа с криптовалютами стоили инвесторам 4,7 млрд $",
     "source": "Cointelegraph NFT",
     "category": "NFT",
@@ -290,7 +290,27 @@
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-trump.jpg"
   },
   {
-    "id": "CoinDesk-1795710751203-0",
+    "id": "CoinDesk-1795726732498-0",
+    "title": "Разработчик обнаружил, что крошечный платеж может раскрыть IP-адрес, связанный с биткоин-кошельком",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "26 нояб. 2026 г.",
+    "summary": "Участник проекта Bitcoin Core обнаружил, что из-за того, что кошелек повторно отправляет застрявшие платежи, любой человек может связать адрес с отслеживающим его компьютером менее чем за 35 центов.",
+    "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1795726734897-1",
+    "title": "Объем неактивных биткоинов растет — это явление наблюдалось и на предыдущих этапах достижения дна медвежьего рынка.",
+    "source": "CoinDesk",
+    "category": "Blockchain",
+    "date": "26 нояб. 2026 г.",
+    "summary": "Все больше биткоинов остаются нетронутыми в блокчейне, поскольку цена держится на уровне около 60 000 $, что примерно на 50% ниже ее пикового значения.",
+    "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+    "imageURL": null
+  },
+  {
+    "id": "CoinDesk-1795726736254-2",
     "title": "Криптовалюта для консультантов: четыре вопроса, которые следует задать, прежде чем доверять криптобирже",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -300,8 +320,8 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1795710753607-1",
-    "title": "Испания наделила подразделение по борьбе с отмыванием денег полномочиями замораживать криптосчета без решения суда",
+    "id": "CoinDesk-1795726738762-3",
+    "title": "Испания наделяет подразделение по борьбе с отмыванием денег полномочиями замораживать криптосчета без решения суда",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "26 нояб. 2026 г.",
@@ -310,7 +330,7 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1795710756177-2",
+    "id": "CoinDesk-1795726741315-4",
     "title": "Zodia Custody, принадлежащая Standard Chartered, столкнулась с утечкой данных, в результате которой была раскрыта информация о клиентах",
     "source": "CoinDesk",
     "category": "Blockchain",
@@ -320,83 +340,63 @@
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1795710758164-3",
+    "id": "CoinDesk-1795726743689-5",
     "title": "ETF на биткоин теряют деньги, и ФРС вряд ли поможет",
     "source": "CoinDesk",
     "category": "Blockchain",
     "date": "26 нояб. 2026 г.",
-    "summary": "Прогноз погоды на завтра, 26 ноября 2026 г.",
+    "summary": "Прогноз на завтра, 26 ноября 2026 г.",
     "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
     "imageURL": null
   },
   {
-    "id": "CoinDesk-1795710760565-4",
-    "title": "Гонконгская криптотрейдинговая компания Auros сворачивает свою деятельность",
-    "source": "CoinDesk",
+    "id": "Cointelegraph-1795726745708-0",
+    "title": "Япония рассматривает возможность ужесточения контроля над DeFi и кошельками с самостоятельным хранением",
+    "source": "Cointelegraph",
     "category": "Blockchain",
     "date": "26 нояб. 2026 г.",
-    "summary": "Ранее компания оценивала свою долю в мировом объеме торгов на криптобиржах в 4%. После краха FTX ей удалось привлечь 17 млн $ инвестиций.",
-    "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-    "imageURL": null
+    "summary": "Финансовый регулятор Японии изучает меры по снижению рисков, связанных с незаконной финансовой деятельностью, включая возможные ограничения доступа к услугам DeFi.",
+    "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CFDEDS67MYHD143YMVQP6X/g20-discuss-crypto-in-japan-desk-table-meeting-hand-paper-people-eth.png"
   },
   {
-    "id": "CoinDesk-1795710762972-5",
-    "title": "Биткоин почти не изменился, токены DeFi лидируют в росте, поскольку в США отмечают День благодарения",
-    "source": "CoinDesk",
+    "id": "Cointelegraph-1795726747985-1",
+    "title": "Испания намерена предоставить финансовому регулятору полномочия по замораживанию криптосчетов",
+    "source": "Cointelegraph",
     "category": "Blockchain",
     "date": "26 нояб. 2026 г.",
-    "summary": "Биткоин удерживается на уровне около 60 800 $, отскочив от минимума среды в 57 500 $, а токены DeFi и инфраструктурные токены прибавляют почти в два раза больше.",
-    "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-    "imageURL": null
+    "summary": "Новый указ позволит подразделению финансовой разведки Испании приостанавливать действие криптосчетов, а компании, не соблюдающие требования, будут подвергаться штрафам.",
+    "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CCD2RN9Y8M1ZHAA60WA1ZA/frozen-token-with-spanish-flag.png"
   },
   {
-    "id": "Cointelegraph-1795710765355-0",
+    "id": "Cointelegraph-1795726750525-2",
+    "title": "Криптовалюты под пристальным вниманием: жесткая позиция ФРС может привести к «обвалу» в декабре",
+    "source": "Cointelegraph",
+    "category": "Blockchain",
+    "date": "26 нояб. 2026 г.",
+    "summary": "Экономист Робин Брукс предупредил о тяжелых последствиях для акций, если Федеральная резервная система не даст мягких сигналов до периода информационной тишины Федерального комитета по открытым рынкам (FOMC).",
+    "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CA3FNTMVJ8NYKSJGRZZ4NT/hi-impact-of-fed-interest-rates-on-crypto-holders-2-960x640.webp"
+  },
+  {
+    "id": "Cointelegraph-1795726752704-3",
+    "title": "Глава БМР Пабло Эрнандес де Кос станет следующим президентом ЕЦБ: FT",
+    "source": "Cointelegraph",
+    "category": "Blockchain",
+    "date": "26 нояб. 2026 г.",
+    "summary": "Испанский экономист поставил под сомнение жизнеспособность стейблкоинов для повсеместных платежей, но при этом поддержал идею создания цифрового евро.",
+    "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C8RT1W7XDK23XH1A1525VP/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb.png"
+  },
+  {
+    "id": "Cointelegraph-1795726754749-4",
     "title": "Как брокеры из ЕС могут потерять доступ к криптобиржам Кыргызстана",
     "source": "Cointelegraph",
     "category": "Blockchain",
     "date": "26 нояб. 2026 г.",
-    "summary": "Голосование по Кыргызстану может сделать страну регистрации биржи решающим фактором в вопросе о том, может ли европейский брокер использовать ее для осуществления расчетов по сделкам.",
+    "summary": "Голосование по Кыргызстану может сделать страну происхождения биржи решающим фактором в вопросе о том, может ли европейский брокер использовать ее для осуществления сделки.",
     "url": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C3GD14M87H9WKHF5WVDZN0/hi-from-kyrgyzstan-how-cryptocurrencies-are-regulated-in-the-central-asia.jpg"
-  },
-  {
-    "id": "Cointelegraph-1795710767934-1",
-    "title": "Руководитель Nasdaq выступает за единые правила ЕС в отношении токенизированных ценных бумаг",
-    "source": "Cointelegraph",
-    "category": "Blockchain",
-    "date": "26 нояб. 2026 г.",
-    "summary": "Роланд Чай из Nasdaq поддержал идею разработки единых правил ЕС в отношении токенизированных ценных бумаг и сообщил, что шведская дочерняя компания биржи подала заявку на получение лицензии DLT.",
-    "url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C09F24P5KHBWTW0KT3PDYS/hi-ericx-launches-spot-market2.jpg"
-  },
-  {
-    "id": "Cointelegraph-1795710770118-2",
-    "title": "Вот что произошло в мире криптовалют сегодня",
-    "source": "Cointelegraph",
-    "category": "Blockchain",
-    "date": "26 нояб. 2026 г.",
-    "summary": "Хотите узнать, что сегодня произошло в мире криптовалют? Представляем последние новости о ежедневных тенденциях и событиях, влияющих на цену биткоина, блокчейн, DeFi, Web3 и регулирование криптовалют.",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-  },
-  {
-    "id": "Cointelegraph-1795710774620-4",
-    "title": "Виталик Бутерин призывает использовать верифицируемые чипы в связи с растущими угрозами для аппаратных кошельков",
-    "source": "Cointelegraph",
-    "category": "Blockchain",
-    "date": "26 нояб. 2026 г.",
-    "summary": "Бутерин предупредил, что в ходе будущих атак могут использоваться похожие чипы со скрытыми вредоносными функциями, что затруднит обнаружение вмешательства в аппаратное обеспечение.",
-    "url": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BRYP0VPBJMFGRFC0AZM22T/vitalik-buerin-on-chips.png"
-  },
-  {
-    "id": "Cointelegraph-1795710776755-5",
-    "title": "Zodia Custody от Standard Chartered пострадала от утечки данных",
-    "source": "Cointelegraph",
-    "category": "Blockchain",
-    "date": "26 нояб. 2026 г.",
-    "summary": "Генеральный директор Zodia Custody заявил, утечка, в результате которой были раскрыты имена и адреса электронной почты некоторых клиентов и сотрудников, была обнаружена компанией в понедельник.",
-    "url": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "imageURL": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BSHNWM38YRHP144TN1QGFW/hi-bithumb-hack-what-is-known2-1.jpg"
   }
 ]
